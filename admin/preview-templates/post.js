@@ -22,7 +22,6 @@ const Post = createClass({
                   )
                 }</time
               >
-              ${" by Author"}
             </small>
           </p>
 
