@@ -1,36 +1,38 @@
 {
-  "name": "eleventy-netlify-boilerplate",
-  "version": "1.0.3",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "name": "tlicycling-static",
+  "version": "0.1.0",
+  "description": "The TLI Cycling website build using Eleventy and deployed to Netlify.",
   "scripts": {
     "build": "npx eleventy",
+    "clean": "rm -rf _site",
     "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy"
+    "debug": "DEBUG=* npx eleventy",
+    "serve": "light-server -c .lightserverrc",
+    "dev": "NODE_ENV=development npm-run-all clean build --parallel watch serve --print-label"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "https://github.com/andrewdisley/tlicycling-static"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "Andrew Disley",
+    "email": "andrew@simplified.co.uk",
+    "url": "https://simplified.co.uk/"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
-  },
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "homepage": "https://tlicycling.com/",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0-beta.3",
-    "luxon": "^1.22.2",
-    "markdown-it": "^10.0.0",
-    "markdown-it-anchor": "^5.2.7"
+    "@11ty/eleventy": "^0.11.0",
+    "luxon": "^1.24.1",
+    "markdown-it": "^11.0.0",
+    "markdown-it-anchor": "^5.3.0",
+    "markdown-it-attrs": "^3.0.3"
   },
   "dependencies": {
-    "@11ty/eleventy-navigation": "^0.1.5",
-    "clean-css": "^4.2.1",
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "clean-css": "^4.2.3",
     "html-minifier": "^4.0.0",
+    "light-server": "^2.7.0",
+    "npm-run-all": "^4.1.5",
     "uglify-es": "^3.3.9"
   }
 }
