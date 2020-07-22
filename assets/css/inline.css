@@ -156,6 +156,7 @@ article p {
 
 .w-full { width: 100%; }
 .w-50 { width: 50%; }
+.w-75 { width: 75%; }
 
 @media screen and (min-width: 768px) {
   :root {
@@ -205,6 +206,7 @@ article p {
 
   .md\:w-full { width: 100%; }
   .md\:w-50 { width: 50%; }
+  .md\:w-75 { width: 75%; }
 
 }
 /* END: TLI Styles */

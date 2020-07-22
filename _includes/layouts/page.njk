@@ -3,6 +3,33 @@ layout: layouts/base.njk
 section: page
 ---
 
-<h1>{{ title }}</h1>
+<div class="container py-2">
 
-{{ layoutContent | safe }}
+  {% if articleLayout == 'medialeft' %}
+  <article class="md:flex">
+    <figure class="md:w-50">
+      <img alt="{{ media.alt }}" src="{{ media.src }}">
+    </figure>
+    <div class="px-1 md:w-50">
+      {{ layoutContent | safe }}
+    </div>
+  </article>
+
+  {% if articleLayout == 'textonlysmall' %}
+  <article class="md:flex">
+    <div class="mx-auto md:w-75">
+      {{ layoutContent | safe }}
+    </div>
+  </article>
+
+  {% else %}
+
+  <article>
+    <div>
+      {{ layoutContent | safe }}
+    </div>
+  </article>
+
+  {% endif %}
+
+</div>

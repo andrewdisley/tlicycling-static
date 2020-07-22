@@ -1,5 +1,4 @@
 ---
-layout: layouts/about.njk
 title: About TLI Cycling
 date: 2020-07-22T00:00:00.000Z
 permalink: /about/index.html
@@ -9,6 +8,7 @@ eleventyNavigation:
 media:
   alt:
   src: /u/tli-home-about.jpg
+articleLayout: medialeft
 ---
 
 ## Age-Related Cycle Sport For All {.title}
