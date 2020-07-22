@@ -1,6 +1,6 @@
 {
   "layout": "layouts/post.njk",
-  "permalink": "posts/{{ title | slug }}/index.html",
+  "permalink": "news/{{ title | slug }}/index.html",
   "tags": [
     "post"
   ]
