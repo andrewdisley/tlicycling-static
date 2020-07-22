@@ -3,4 +3,62 @@ layout: layouts/base.njk
 section: home
 ---
 
+<div class="container">
+  <article class="md:flex">
+    {% if about.media %}
+    <figure class="media md:w-50">
+      <img alt="{{ about.media.alt }}" src="{{ about.media.src }}">
+    </figure>
+    {% endif %}
+    <div class="p-1 md:w-50">
+      {% if about.title %}<h2 class="title">{{ about.title }}</h2>{% endif %}
+      {% if about.subtitle %}<p class="subtitle mb-075">{{ about.subtitle }}</h3>{% endif %}
+      {% if about.body %}{{ about.body | safe }}{% endif %}
+      {% if about.button.link and about.button.text %}<a class="btn {{ about.button.classes }}" href="{{ about.button.link | url }}">{{ about.button.text }}</a>{% endif %}
+    </div>
+  </article>
+
+  <article class="md:flex">
+    {% if history.media %}
+    <figure class="media md:w-50">
+      <img alt="{{ history.media.alt }}" class="w-full" src="{{ history.media.src }}">
+    </figure>
+    {% endif %}
+    <div class="bgc-blue order-first px-1 py-2 tc-white md:p-3 md:w-50">
+      {% if history.title %}<h2 class="title">{{ history.title }}</h2>{% endif %}
+      {% if history.subtitle %}<p class="subtitle">{{ history.subtitle }}</p>{% endif %}
+      {% if history.body %}{{ history.body | safe }}{% endif %}
+      {% if history.button.link and history.button.text %}<a class="btn" href="{{ history.button.link | url }}">{{ history.button.text }}</a>{% endif %}
+    </div>
+  </article>
+
+  <article class="md:flex">
+    {% if membership.media %}
+    <figure class="media md:w-50">
+      <img alt="{{ membership.media.alt }}" class="w-full" src="{{ membership.media.src }}">
+    </figure>
+    {% endif %}
+    <div class="bgc-red px-1 py-2 tc-white md:p-3 md:w-50">
+      {% if membership.title %}<h2 class="title">{{ membership.title }}</h2>{% endif %}
+      {% if membership.subtitle %}<p class="subtitle">{{ membership.subtitle }}</p>{% endif %}
+      {% if membership.body %}{{ membership.body | safe }}{% endif %}
+      {% if membership.button.link and membership.button.text %}<a class="btn" href="{{ membership.button.link | url }}">{{ membership.button.text }}</a>{% endif %}
+    </div>
+  </article>
+
+  <article class="md:flex">
+    {% if eventorganisation.media %}
+    <figure class="media md:w-50">
+      <img alt="{{ eventorganisation.media.alt }}" class="w-full" src="{{ eventorganisation.media.src }}">
+    </figure>
+    {% endif %}
+    <div class="bgc-blue order-first px-1 py-2 tc-white md:p-3 md:w-50">
+      {% if eventorganisation.title %}<h2 class="title">{{ eventorganisation.title }}</h2>{% endif %}
+      {% if eventorganisation.subtitle %}<p class="subtitle">{{ eventorganisation.subtitle }}</p>{% endif %}
+      {% if eventorganisation.body %}{{ eventorganisation.body | safe }}{% endif %}
+      {% if eventorganisation.button.link and eventorganisation.button.text %}<a class="btn" href="{{ eventorganisation.button.link | url }}">{{ eventorganisation.button.text }}</a>{% endif %}
+    </div>
+  </article>
+</div>
+
 {{ layoutContent | safe }}

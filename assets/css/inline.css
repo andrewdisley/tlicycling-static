@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
 }
 
-article p:not(.title):not(.subtitle) {
+article p {
   margin-bottom: 1.25em;
 }
 
@@ -63,7 +63,6 @@ article p:not(.title):not(.subtitle) {
   font-size: 1.333333333em; /* 24px */
   font-weight: 300;
   line-height: 1.5;
-  margin-bottom: 0.75em; /* 18px */
 }
 
 .btn {
@@ -92,8 +91,8 @@ article p:not(.title):not(.subtitle) {
 
 .btn:focus,
 .btn:hover {
-  border-color: #b5b5b5;
-  color: #363636;
+  /*border-color: #b5b5b5;
+  color: #363636;*/
 }
 
 .block { display: block; }
@@ -120,6 +119,7 @@ article p:not(.title):not(.subtitle) {
 
 .mb-0 { margin-bottom: 0; }
 .mb-05 { margin-bottom: 0.5em; }
+.mb-075 { margin-bottom: 0.75em; }
 .mb-1 { margin-bottom: 1em; }
 .mb-2 { margin-bottom: 2em; }
 .mb-3 { margin-bottom: 3em; }
@@ -168,6 +168,7 @@ article p:not(.title):not(.subtitle) {
 
   .md\:mb-0 { margin-bottom: 0; }
   .md\:mb-05 { margin-bottom: 0.5em; }
+  .md\:mb-075 { margin-bottom: 0.75em; }
   .md\:mb-1 { margin-bottom: 1em; }
   .md\:mb-2 { margin-bottom: 2em; }
   .md\:mb-3 { margin-bottom: 3em; }
