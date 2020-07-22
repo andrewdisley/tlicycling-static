@@ -15,7 +15,7 @@ section: page
     </div>
   </article>
 
-  {% if articleLayout == 'textonlysmall' %}
+  {% elseif articleLayout == 'textonlysmall' %}
   <article class="md:flex">
     <div class="mx-auto md:w-75">
       {{ layoutContent | safe }}
