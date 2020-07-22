@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+section: about
+---
+
+<div class="container">
+
+  <article class="article md:flex">
+    {% if media %}
+    <figure class="media flex-1 px-1">
+      <img alt="{{ media.alt }}" src="{{ media.src }}">
+    </figure>
+    {% endif %}
+    <div class="flex-1 px-1">
+      <h1>{{ title }}</h1>
+      {{ layoutContent | safe }}
+    </div>
+  </article>
+
+</div>
