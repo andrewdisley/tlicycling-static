@@ -30,6 +30,11 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
+  // Date formatting (footer date)
+  eleventyConfig.addFilter("footerDate", dateObj => {
+    return DateTime.fromJSDate(dateObj).toFormat("yyyy");
+  });
+
   // Minify CSS
   eleventyConfig.addFilter("cssmin", function(code) {
     return new CleanCSS({}).minify(code).styles;
@@ -74,18 +79,25 @@ module.exports = function(eleventyConfig) {
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
-  let options = {
+  let markdownItOptions = {
     html: true,
     breaks: true,
     linkify: true
   };
-  let opts = {
+  let markdownItAnchor = require("markdown-it-anchor");
+  let markdownItAnchorOptions = {
     permalink: false
   };
+  let markdownItAttrs = require("markdown-it-attrs");
+  let markdownItAttrsOptions = {
+    // optional, these are default options
+    leftDelimiter: '{',
+    rightDelimiter: '}',
+    allowedAttributes: [] // empty array = all attributes are allowed
+  };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
+  eleventyConfig.setLibrary("md", markdownIt(markdownItOptions)
+    .use(markdownItAnchor, markdownItAnchorOptions).use(markdownItAttrs, markdownItAttrsOptions)
   );
 
   return {
