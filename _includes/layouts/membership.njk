@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+section: membership
+---
+
+<div class="container">
+
+  <article class="mb-2 lg:flex">
+    <div class="mb-2 md:mb-0 md:px-2 lg:pr-4 lg:w-70">
+      {% if annualMembership.title %}<h2 class="title">{{ annualMembership.title }}</h2>{% endif %}
+      {% markdownit %}{{ annualMembership.body | safe }}{% endmarkdownit %}
+    </div>
+    <div class="bgc-red p-1 tc-white md:p-2 lg:w-30">
+      {% include "components/howtojoin.njk" %}
+    </div>
+  </article>
+
+  <article class="bgc-blue mb-2 p-1 tc-white md:p-2">
+    {% if dayMembership.title %}<h2 class="title">{{ dayMembership.title }}</h2>{% endif %}
+    {% markdownit %}{{ dayMembership.body | safe }}{% endmarkdownit %}
+  </article>
+
+  <article class="mb-2 p-1 md:p-2">
+    {% if ageCategories.title %}<h2 class="title">{{ ageCategories.title }}</h2>{% endif %}
+    {% markdownit %}{{ ageCategories.body | safe }}{% endmarkdownit %}
+  </article>
+
+</div>
