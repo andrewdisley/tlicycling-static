@@ -10,7 +10,8 @@ about:
   title: Age-Related Cycle Sport
   subtitle: Supporting Grassroots Cycle Racing for 35 Years
   body: >
-    <p>TLI Cycling is a voluntary sports organisation, supporting cycling clubs in the UK, the Channel Islands and the Isle of Man, to organise competitive cycling events for all ages, entrants racing against others in their peer group. It is run on a not-for-profit basis entirely by unpaid volunteer members, any surplus being used to maintain, improve and develop TLI Cycling’s activities.</p>
+    TLI Cycling is a voluntary sports organisation, supporting cycling clubs in the UK, the Channel Islands and the Isle of Man, to organise competitive cycling events for all ages, entrants racing against others in their peer group. It is run on a not-for-profit basis entirely by unpaid volunteer members, any surplus being used to maintain, improve and develop TLI Cycling’s activities.
+
   button:
     classes: bgc-red tc-white
     link: /about/
@@ -29,11 +30,12 @@ history:
     src: /u/tli-home-history.jpg
 membership:
   title: Membership
-  subtitle: >
+  subtitle:
+  body: >
     Membership of TLI Cycling is available to everybody aged 6 years and over and costs £15 for those aged 18 and over, £10 for those aged 16 or 17 and is free to under 16 year olds.
 
+
     If you would like to join TLI Cycling but have some questions…
-  body: >
   button:
     classes: bgc-red tc-white
     link: /membership/
@@ -42,8 +44,9 @@ membership:
     src: /u/tli-home-membership.jpg
 eventorganisation:
   title: Event Organisation
-  subtitle: TLI Cycling would not exist if it were not for the team of volunteers who organize races under our rules and regulations. Therefore we aim to make all aspects of event promotion as simple and economical as possible, without compromising the safety of our competitors…
-  body:
+  subtitle:
+  body: >
+    TLI Cycling would not exist if it were not for the team of volunteers who organize races under our rules and regulations. Therefore we aim to make all aspects of event promotion as simple and economical as possible, without compromising the safety of our competitors…
   button:
     classes: bgc-red tc-white
     link: /event-organisation/
