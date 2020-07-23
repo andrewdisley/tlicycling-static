@@ -3,7 +3,7 @@ layout: layouts/base.njk
 section: page
 ---
 
-<div class="container py-2">
+<div class="container">
 
   {% if articleLayout == 'medialeft' %}
   <article class="md:flex">
@@ -15,17 +15,9 @@ section: page
     </div>
   </article>
 
-  {% elseif articleLayout == 'textonlysmall' %}
-  <article class="md:flex">
-    <div class="mx-auto md:w-75">
-      {{ layoutContent | safe }}
-    </div>
-  </article>
-
   {% else %}
 
-  <article>
-    <div>
+  <article class="mx-auto md:w-75">
       {{ layoutContent | safe }}
     </div>
   </article>
