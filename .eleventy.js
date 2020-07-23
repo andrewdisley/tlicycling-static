@@ -97,9 +97,14 @@ module.exports = function(eleventyConfig) {
     allowedAttributes: [] // empty array = all attributes are allowed
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(markdownItOptions)
-    .use(markdownItAnchor, markdownItAnchorOptions).use(markdownItAttrs, markdownItAttrsOptions)
-  );
+  let mdIt = markdownIt(markdownItOptions).use(markdownItAnchor, markdownItAnchorOptions).use(markdownItAttrs, markdownItAttrsOptions)
+
+  // Exposes markdownit code pair for use with yaml data
+  eleventyConfig.addPairedShortcode("markdownit", function(content) {
+    return mdIt.render(content);
+  });
+
+  eleventyConfig.setLibrary("md", mdIt);
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
