@@ -155,7 +155,10 @@ article p {
 .py-4 { padding-bottom: 4em; padding-top: 4em; }
 
 .w-full { width: 100%; }
+.w-25 { width: 25%; }
+.w-30 { width: 30%; }
 .w-50 { width: 50%; }
+.w-70 { width: 70%; }
 .w-75 { width: 75%; }
 
 @media screen and (min-width: 768px) {
@@ -205,7 +208,10 @@ article p {
   .md\:py-4 { padding-bottom: 4em; padding-top: 4em; }
 
   .md\:w-full { width: 100%; }
+  .md\:w-25 { width: 25%; }
+  .md\:w-30 { width: 30%; }
   .md\:w-50 { width: 50%; }
+  .md\:w-70 { width: 70%; }
   .md\:w-75 { width: 75%; }
 
 }
