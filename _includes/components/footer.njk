@@ -1,4 +1,13 @@
 <footer class="bgc-red-alt px-1 py-2 tc-white md:px-2 md:py-4 md:text-center">
+  <nav class="mb-2">
+    <ul>
+      {%- for post in collections.all -%}
+      {% if post.data.excludeFooterNav != true %}
+      <li><a class="tc-white" href="{{ post.url }}">{{ post.data.title }}</a></li>
+      {% endif %}
+      {%- endfor -%}
+    </ul>
+  </nav>
   <img alt="TLI Cycling" class="block mb-2 mx-auto" height="91" src="/assets/img/tlicycling-logo-footer.png" width="160">
   <small>
     <p class="mb-05">© {{ date | footerDate }} | TLI Cycling Ltd is a company limited by guarantee and registered in England and Wales under Company number 7316143.</p>

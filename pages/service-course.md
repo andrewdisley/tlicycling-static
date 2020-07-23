@@ -6,6 +6,7 @@ media:
   alt:
   src:
 articleLayout: textonly
+excludeFooterNav: true
 ---
 
 ## Apologies, the TLI Cycling website is currently having a little TLC. {.title}
