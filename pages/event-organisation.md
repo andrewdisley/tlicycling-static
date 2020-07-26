@@ -2,6 +2,9 @@
 title: Event Organisation
 date: 2020-07-22T00:00:00.000Z
 permalink: /event-organisation/index.html
+eleventyNavigation:
+  key: Event Organisation
+  order: 4
 media:
   alt:
   src:
@@ -9,11 +12,15 @@ articleLayout: textonly
 ---
 
 ## Event Organisation {.title}
+
 No Event Levies | No Event Registration Fees | No Commissaires Expenses {.subtitle}
 
-<a href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING">Add Your Event</a>
+<div class="flex items-center mb-2">
+  <a class="btn btn-red" href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING" rel="noopener noreferrer" target="_blank">Add Your Event</a> <span class="px-1">or download the</span> <a class="btn btn-blue" href="/u/TLICycling_Event-Promoters-Pack-2020.pdf" rel="download">2020 Event Promoters Pack</a>
+</div>
 
 TLI Cycling would not exist if it were not for the team of volunteers who organise races under our rules and regulations. Therefore we aim to make all aspects of event promotion as simple and economical as possible, without compromising the safety of our competitors, while at the same time ensuring that we cause minimum disruption to other road users.
+
 The cost of organising an event, or a series of events, under TLI Cycling rules and regulations is zero! There are no event levies to pay for any type of TLI Cycling race, be it open road, circuit or off-road. The only onus on the organiser is to inform us after the event how many competitors rode the race, and to send us a copy of the signing on sheet together with any day member fees that may have been collected. The organiser must be a full member of TLI Cycling.
 
 The main objective of TLI Cycling is to provide age-related racing so that entrants are theoretically only competing against others of a similar ability. Therefore events are either conducted as a handicap, or within groups, split according to age. Although these groups may contain riders from several age categories, the results must be structured so that each category will have its own classification.
@@ -26,4 +33,8 @@ Where an event is oversubscribed, organisers are asked to give priority entry to
 
 Event insurance is provided for Public and Products Liability (£10,000,000); Employers Liability (£10,000,000); and Professional Indemnity (£1,000,000).
 
-The ‘<a href="#TODO/u/Event-Promoters-Pack-2020.pdf">2020 Event Promoters Pack</a>’ is available for download as a .pdf file in the Downloads section.
+<div class="flex items-center mb-2 mt-2">
+  <a class="btn btn-red" href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING" rel="noopener noreferrer" target="_blank">Add Your Event</a> <span class="px-1">or download the</span> <a class="btn btn-blue" href="/u/TLICycling_Event-Promoters-Pack-2020.pdf" rel="download">2020 Event Promoters Pack</a>
+</div>
+
+You can find more documents relevent to event organising on the <a href="/downloads/">Downloads</a> page.
