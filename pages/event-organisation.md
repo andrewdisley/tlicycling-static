@@ -11,7 +11,7 @@ media:
 articleLayout: textonly
 ---
 
-## Event Organisation {.title}
+# Event Organisation {.title}
 
 No Event Levies | No Event Registration Fees | No Commissaires Expenses {.subtitle}
 
