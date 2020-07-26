@@ -5,7 +5,7 @@ date: 2020-07-22
 permalink: /news/index.html
 eleventyNavigation:
   key: News
-  order: 2
+  order: 5
 ---
 # TLI Cycling News {.title}
 

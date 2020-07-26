@@ -5,7 +5,7 @@ date: 2020-07-22T00:00:00.000Z
 permalink: /membership/index.html
 eleventyNavigation:
   key: Membership
-  order: 2
+  order: 3
 annualMembership:
   title: Annual Membership
   body: >
