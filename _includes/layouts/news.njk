@@ -3,9 +3,11 @@ layout: layouts/base.njk
 section: news
 permalink: /news/index.html
 ---
-<article class="container px-1">
+<article class="container">
 
-{{ layoutContent | safe }}
+  <section class="px-1 mx-auto md:px-2 lg:px-0 lg:w-75">
+    {{ layoutContent | safe }}
+  </section>
 
 </article>
 
