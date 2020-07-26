@@ -26,4 +26,12 @@ section: membership
     {% markdownit %}{{ ageCategories.body | safe }}{% endmarkdownit %}
   </section>
 
+  <section class="mb-2 p-1 md:p-2">
+    {% if membershipFees.title %}<h2 class="title">{{ membershipFees.title }}</h2>{% endif %}
+    {% markdownit %}{{ membershipFees.body | safe }}{% endmarkdownit %}
+    <p>Youth £FREE/year 6-16 years old Membership from 1st February 2020 – 31st January 2021</p>
+    <p>Junior £10/year 16 or 17 years old Membership from 1st February 2020 – 31st January 2021</p>
+    <p>Senior £15/year 18 years plus Membership from 1st February 2020 – 31st January 2021</p>
+  </section>
+
 </article>

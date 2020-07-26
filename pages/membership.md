@@ -34,4 +34,7 @@ dayMembership:
 ageCategories:
   title: Age Categories
 
+membershipFees:
+  title: Membership Fees
+
 ---
