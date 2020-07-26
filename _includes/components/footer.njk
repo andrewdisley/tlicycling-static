@@ -1,5 +1,6 @@
 <footer class="bgc-red-alt px-1 py-2 tc-white md:px-2 md:py-4 md:text-center">
-  <nav class="mb-2">
+  <nav class="mb-2 text-sm">
+    <p>TLI Sitemap</p>
     <ul>
       {%- for post in collections.all -%}
       {% if post.data.excludeFooterNav != true %}
@@ -9,8 +10,6 @@
     </ul>
   </nav>
   <img alt="TLI Cycling" class="block mb-2 mx-auto" height="91" src="/assets/img/tlicycling-logo-footer.png" width="160">
-  <small>
-    <p class="mb-05">© {{ date | footerDate }} | TLI Cycling Ltd is a company limited by guarantee and registered in England and Wales under Company number 7316143.</p>
-    <p class="mb-0">The registered office is at Heald Solicitors, 4, Bramley Road, Mount Farm, Milton Keynes MK1 1PT</p>
-  </small>
+  <p class="mb-05"><small class="text-sm">© {{ date | footerDate }} | TLI Cycling Ltd is a company limited by guarantee and registered in England and Wales under Company number 7316143.</small></p>
+  <p class="mb-0"><small class="text-xs">The registered office is at Heald Solicitors, 4, Bramley Road, Mount Farm, Milton Keynes MK1 1PT</small></p>
 </footer>
