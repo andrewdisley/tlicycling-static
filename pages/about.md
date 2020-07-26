@@ -7,9 +7,11 @@ eleventyNavigation:
   order: 1
 media:
   alt:
-  src: /u/tli-home-about.jpg
+  src: /u/tli-home-about-4x3.jpg
 articleLayout: medialeft
 ---
+
+# About TLI Cycling {.mb-025}
 
 ## Age-Related Cycle Sport For All {.title}
 
