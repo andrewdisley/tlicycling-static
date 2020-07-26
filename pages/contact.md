@@ -1,5 +1,5 @@
 ---
-title: TLI Cycling Contact Points
+title: Contact
 date: 2020-07-26T00:00:00.000Z
 permalink: /contact/index.html
 eleventyNavigation:
