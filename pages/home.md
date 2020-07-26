@@ -31,9 +31,6 @@ membership:
   subtitle:
   body: >
     Membership of TLI Cycling is available to everybody aged 6 years and over and costs £15 for those aged 18 and over, £10 for those aged 16 or 17 and is free to under 16 year olds.
-
-
-    If you would like to join TLI Cycling but have some questions…
   button:
     classes: bgc-red tc-white
     link: /membership/

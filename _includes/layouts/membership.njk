@@ -5,13 +5,13 @@ section: membership
 
 <article class="container">
 
-  <section class="mb-2 md:flex md:mb-3">
-    <div class="mb-2 px-1 md:mb-0 md:px-2 lg:pr-4 md:w-60 lg:w-65">
+  <section class="mb-2 md:mb-3 lg:flex">
+    <div class="mb-2 px-1 md:px-2 lg:mb-0 lg:pr-4 lg:w-65">
       <h1 class="mb-025">TLI Cycling Membership</h1>
       {% if annualMembership.title %}<h2 class="title">{{ annualMembership.title }}</h2>{% endif %}
       {% markdownit %}{{ annualMembership.body | safe }}{% endmarkdownit %}
     </div>
-    <div class="bgc-red p-1 tc-white md:p-2 md:w-40 lg:w-35">
+    <div class="bgc-red p-1 tc-white md:mx-2 md:p-2 lg:mx-0 lg:w-35">
       {% include "components/howtojoin.njk" %}
     </div>
   </section>

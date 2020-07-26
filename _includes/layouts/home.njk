@@ -7,13 +7,13 @@ section: home
 
   <section class="mb-2 px-1 md:flex md:mb-3">
     {% if about.media %}
-    <div class="md:w-40 lg:w-50">
+    <div class="md:w-35 lg:w-40">
       <figure class="ar ar-4x3">
         <img alt="{{ about.media.alt }}" class="arm" src="{{ about.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="md:w-60 lg:w-50">
+    <div class="md:w-65 md:pl-1 lg:pl-2 lg:w-60">
       <h1 class="mb-025">TLI Cycling</h1>
       {% if about.title %}<h2 class="title">{{ about.title }}</h2>{% endif %}
       {% if about.subtitle %}<p class="subtitle">{{ about.subtitle }}</p>{% endif %}
@@ -30,7 +30,7 @@ section: home
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-blue order-first px-1 py-2 tc-white md:p-3 md:w-50">
+    <div class="bgc-blue order-first p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
       {% if history.title %}<h3 class="title">{{ history.title }}</h3>{% endif %}
       {% if history.subtitle %}<p class="subtitle">{{ history.subtitle }}</p>{% endif %}
       {% markdownit %}{{ history.body | safe }}{% endmarkdownit %}
@@ -46,7 +46,7 @@ section: home
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-red px-1 py-2 tc-white md:p-3 md:w-50">
+    <div class="bgc-red p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
       {% if membership.title %}<h3 class="title">{{ membership.title }}</h3>{% endif %}
       {% if membership.subtitle %}<p class="subtitle">{{ membership.subtitle }}</p>{% endif %}
       {% markdownit %}{{ membership.body | safe }}{% endmarkdownit %}
@@ -62,7 +62,7 @@ section: home
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-blue order-first px-1 py-2 tc-white md:p-3 md:w-50">
+    <div class="bgc-blue order-first p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
       {% if eventorganisation.title %}<h3 class="title">{{ eventorganisation.title }}</h3>{% endif %}
       {% if eventorganisation.subtitle %}<p class="subtitle">{{ eventorganisation.subtitle }}</p>{% endif %}
       {% markdownit %}{{ eventorganisation.body | safe }}{% endmarkdownit %}

@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* START: article styles */
 /* TODO: main or .markdown? */
-article p { margin-bottom: 1.25em; }
+article p:not(:last-child):not(.subtitle) { margin-bottom: 1.25em; }
 article a[href]:not(.btn),
 article a[href]:not(.btn):visited { color: #F41000; text-decoration: underline; }
 article a[href]:focus,

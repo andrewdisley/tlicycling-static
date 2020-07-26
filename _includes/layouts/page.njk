@@ -10,19 +10,19 @@ section: page
 
   {% if media.src %}
   <section class="px-1 md:flex">
-    <div class="md:w-40">
+    <div class="md:w-35 lg:w-40">
       <figure class="ar ar-4x3">
         <img alt="{{ media.alt }}" class="arm" src="{{ media.src }}">
       </figure>
     </div>
-    <div class="md:w-60 md:pl-1 lg:pl-2">
+    <div class="md:w-65 md:pl-1 lg:pl-2 lg:w-60">
       {{ layoutContent | safe }}
     </div>
   </section>
 
   {% else %}
 
-  <section class="px-1 mx-auto md:w-75">
+  <section class="px-1 mx-auto md:px-2 lg:w-75">
     {{ layoutContent | safe }}
   </section>
 
