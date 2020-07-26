@@ -7,5 +7,6 @@ eleventyNavigation:
   key: News
   order: 2
 ---
-# TLI Cycling News {.title }
+# TLI Cycling News {.title}
+
 Keeping you updated on the latest information {.subtitle}

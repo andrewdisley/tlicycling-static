@@ -11,7 +11,7 @@ media:
 articleLayout: textonly
 ---
 
-## History of TLI Cycling {.title}
+# History of TLI Cycling {.title}
 
 TLI Cycling has evolved out of The League International which was formed in 1982 from an idea conceived by the late Peter Duker and Roy Cottingham with the ambition of bringing to Great Britain racing for age related categories, as practised by the European based International Cycling Federation who used this system to cater for riders of whatever age.
 

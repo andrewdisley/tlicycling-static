@@ -3,25 +3,29 @@ layout: layouts/base.njk
 section: page
 ---
 
-<div class="container">
+<article class="container">
 
   {% if articleLayout == 'medialeft' %}
-  <article class="md:flex">
-    <figure class="md:w-50">
-      <img alt="{{ media.alt }}" src="{{ media.src }}">
-    </figure>
-    <div class="px-1 md:w-50">
+  {% endif %}
+
+  {% if media.src %}
+  <section class="px-1 md:flex">
+    <div class="md:w-40">
+      <figure class="ar ar-4x3">
+        <img alt="{{ media.alt }}" class="arm" src="{{ media.src }}">
+      </figure>
+    </div>
+    <div class="md:w-60 md:pl-1 lg:pl-2">
       {{ layoutContent | safe }}
     </div>
-  </article>
+  </section>
 
   {% else %}
 
-  <article class="mx-auto md:w-75">
-      {{ layoutContent | safe }}
-    </div>
-  </article>
+  <section class="px-1 mx-auto md:w-75">
+    {{ layoutContent | safe }}
+  </section>
 
   {% endif %}
 
-</div>
+</article>
