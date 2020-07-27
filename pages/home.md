@@ -48,4 +48,9 @@ eventorganisation:
     text: Event Organisation
   media:
     src: /u/tli-home-eventorganisation-1x1.jpg
+news:
+  title: TLI Cycling News
+  subtitle: Keeping you updated on the latest information
+  body:
+
 ---

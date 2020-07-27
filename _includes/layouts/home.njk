@@ -54,7 +54,7 @@ section: home
     </div>
   </section>
 
-  <section class="md:flex">
+  <section class="mb-3 md:flex">
     {% if eventorganisation.media %}
     <div class="md:w-50">
       <figure class="ar ar-1x1">
@@ -70,6 +70,14 @@ section: home
     </div>
   </section>
 
-</article>
+  <section class="px-1 mb-2 mx-auto md:px-2 lg:px-0 lg:w-75">
+    {% if news.title %}<h3 class="title">{{ news.title }}</h3>{% endif %}
+    {% if news.subtitle %}<p class="subtitle">{{ news.subtitle }}</p>{% endif %}
+    {% markdownit %}{{ news.body | safe }}{% endmarkdownit %}
+    <section class="mt-2">
+      {% set postslist = collections.news %}
+      {% include "components/postslist.njk" %}
+    </section>
+  </section>
 
-{{ layoutContent | safe }}
+</article>
