@@ -24,6 +24,54 @@ section: membership
   <section class="mb-2 p-1 md:p-2">
     {% if ageCategories.title %}<h2 class="title">{{ ageCategories.title }}</h2>{% endif %}
     {% markdownit %}{{ ageCategories.body | safe }}{% endmarkdownit %}
+
+    <div class="table mb-2">
+{% markdownit %}
+| Youth Categories | Male & Female |
+| - | - |
+| Aged 6 and over until 31 December of year in which 8th birthday falls | YE |
+| From 1 January in year which 9th birthday falls to 31 December in year which 10th birthday falls | YD |
+| From 1 January in year which 11th birthday falls to 31 December in year which 12th birthday falls | YC |
+| From 1 January in year which 13th birthday falls to 31 December in year which 14th birthday falls | YB |
+| From 1 January in year which 15th birthday falls to 31 December in year which 16th birthday falls | YA |
+{% endmarkdownit %}
+    </div>
+
+    <div class="table mb-2">
+{% markdownit %}
+| Para-Cycling Categories | Male & Female |
+| - | - |
+| MC 1 & 2 |  will compete with the age group 10 years older. (Two Categories Older). |
+| MC 3 | will compete with the age group 5 years older. (One Categories Older). |
+| MC 4 & 5 | will compete with their correct age related group. (No Category Change). |
+{% endmarkdownit %}
+    </div>
+
+    <div class="table mb-2">
+{% markdownit %}
+| Junior Age Categories | Male | Female |
+| - | - | - |
+| 16 or 17 | J | WJ |
+{% endmarkdownit %}
+    </div>
+
+    <div class="table">
+{% markdownit %}
+| Senior Age Categories | Male | Female |
+| - | - | - |
+| 18 – 29 | S | B |
+| 30 – 39 | M | C |
+| 40 – 44 | A | D |
+| 45 – 49 | B | E |
+| 50 – 54 | C | F |
+| 55 – 59 | D | G |
+| 60 – 64 | E | H |
+| 65 – 69 | F | H |
+| 70 - 74 | G | H |
+| 75+ | H | H |
+{% endmarkdownit %}
+    </div>
+
   </section>
 
   <section class="mb-2 p-1 md:p-2">
