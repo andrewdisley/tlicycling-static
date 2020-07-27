@@ -5,11 +5,13 @@ permalink: /news/index.html
 ---
 <article class="container">
 
-  <section class="px-1 mx-auto md:px-2 lg:px-0 lg:w-75">
+  <section class="px-1 mb-2 mx-auto md:px-2 lg:px-0 lg:w-75">
     {{ layoutContent | safe }}
   </section>
 
-</article>
+  <section class="px-1 mx-auto md:px-2 lg:px-0 lg:w-75">
+    {% set postslist = collections.news %}
+    {% include "components/postslist.njk" %}
+  </section>
 
-{% set postslist = collections.posts %}
-{% include "components/postslist.njk" %}
+</article>

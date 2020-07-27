@@ -1,21 +1,17 @@
 ---
 title: Update on Coronavirus & Racing
-date: 2020-06-11T00:00:00.000Z
+date: 2020-06-12T13:01:00.000Z
 summary: "Update on coronavirus & racing: for all tli cycling members & supporters"
 tags:
   - news
   - racing
 excludeFooterNav: true
 ---
-
-Thursday 11th June 2020
-
-## UPDATE ON CORONAVIRUS & RACING: FOR ALL TLI CYCLING MEMBERS & SUPPORTERS
+## Update on Coronavirus & Racing: For all TLI Cycling Members & Supporters {.subtitle}
 
 Please read in conjunction with our previous announcement on 30th March 2020.
 
 You may have seen that BC has recently extended their suspension of Regional racing until 1 August, and that CTT have announced that it may be possible to resume club time trials from 6 July and open events from 18 July. This is all subject to further Gov guidance for England.
-
 
 This update is to let you know that TLI Cycling has no plans to resume racing at present. We believe that bunch racing will not be possible for some time yet.
 However, we think that it may be possible to resume individual time trials before road races.
