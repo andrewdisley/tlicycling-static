@@ -75,7 +75,7 @@ section: home
     {% if news.subtitle %}<p class="subtitle">{{ news.subtitle }}</p>{% endif %}
     {% markdownit %}{{ news.body | safe }}{% endmarkdownit %}
     <section class="mb-2 mt-2">
-      {% set postslist = collections.news | reverse | limitposts(4) %}
+      {% set postslist = collections.news | reverse | limitposts(4) | reverse %}
       {% include "components/postslist.njk" %}
     </section>
     <a class="btn" href="/news/">See more TLI Cycling news</a>
