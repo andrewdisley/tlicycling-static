@@ -35,6 +35,11 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
+  // Limit posts
+  eleventyConfig.addFilter("limitposts", function(array, limit) {
+    return array.slice(0, limit);
+  });
+
   // Minify CSS
   eleventyConfig.addFilter("cssmin", function(code) {
     return new CleanCSS({}).minify(code).styles;
