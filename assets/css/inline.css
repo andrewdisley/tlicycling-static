@@ -75,7 +75,7 @@ article a[href]:hover { text-decoration: none; }
   -webkit-appearance: none;
   -webkit-font-smoothing: antialiased;
 }
-.btn:focus, .btn:hover {  }
+.btn:focus, .btn:hover { background-color: #595F6B; color: #FFF; }
 .btn-white { background-color: #FFF; border-color: #FFF; color: #242424; }
 .btn-white:focus, .btn-white:hover { background-color: transparent; color: #FFF; }
 .btn-white-alt { background-color: transparent; border-color: #FFF; color: #FFF; }
