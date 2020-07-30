@@ -26,7 +26,7 @@ section: home
     {% if history.media %}
     <div class="md:w-50">
       <figure class="ar ar-1x1">
-        <img alt="{{ history.media.alt }}" class="arm" src="{{ history.media.src }}">
+        <img alt="{{ history.media.alt }}" class="arm" loading="lazy" src="{{ history.media.src }}">
       </figure>
     </div>
     {% endif %}
@@ -42,7 +42,7 @@ section: home
     {% if membership.media %}
     <div class="md:w-50">
       <figure class="ar ar-1x1">
-        <img alt="{{ membership.media.alt }}" class="arm" src="{{ membership.media.src }}">
+        <img alt="{{ membership.media.alt }}" class="arm" loading="lazy" src="{{ membership.media.src }}">
       </figure>
     </div>
     {% endif %}
@@ -58,7 +58,7 @@ section: home
     {% if eventorganisation.media %}
     <div class="md:w-50">
       <figure class="ar ar-1x1">
-        <img alt="{{ eventorganisation.media.alt }}" class="arm" src="{{ eventorganisation.media.src }}">
+        <img alt="{{ eventorganisation.media.alt }}" class="arm" loading="lazy" src="{{ eventorganisation.media.src }}">
       </figure>
     </div>
     {% endif %}
