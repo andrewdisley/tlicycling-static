@@ -9,21 +9,23 @@ section: page
   {% endif %}
 
   {% if media.src %}
-  <section class="px-1 md:flex">
-    <div class="md:w-35 lg:w-40">
+  <section class="page--withmedia">
+    <div class="page-media">
       <figure class="ar ar-4x3">
         <img alt="{{ media.alt }}" class="arm" loading="lazy" src="{{ media.src }}">
       </figure>
     </div>
-    <div class="md:w-65 md:pl-1 lg:pl-2 lg:w-60">
+    <div class="page-body">
       {{ layoutContent | safe }}
     </div>
   </section>
 
   {% else %}
 
-  <section class="px-1 mx-auto md:px-2 lg:px-0 lg:w-75">
-    {{ layoutContent | safe }}
+  <section class="page--nomedia">
+    <div class="page-body">
+      {{ layoutContent | safe }}
+    </div>
   </section>
 
   {% endif %}

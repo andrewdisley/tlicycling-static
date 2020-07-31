@@ -207,6 +207,12 @@ main p {
 .btn-blue:focus, .btn-blue:hover { background-color: transparent; color: var(--color-blue); }
 /* END: buttons */
 
+/* START: article styles */
+/* TODO: main or .markdown? */
+/*article p:not(:last-child):not(.subtitle) { margin-bottom: 1.25em; }
+*/
+/* END: article styles */
+
 /* START: markdown (.mdit) content */
 .title,
 .mdit > h1 {
@@ -216,6 +222,9 @@ main p {
   margin-bottom: 0.25em; /* 8px */
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+}
+.title:not(:first-child) {
+  margin-top: 0.125em;
 }
 
 .subtitle,
@@ -232,6 +241,7 @@ blockquote {
   padding: 1em;
 }
 
+/* TODO: Table styles */
 table {
   width: 100%;
 }
@@ -240,7 +250,7 @@ table {
 
 /* START: .footer */
 .footer {
-  background-color: #FF0000;
+  background-color: var(--color-red-alt);
   color: var(--color-white);
   font-size: 0.875rem;
   padding: 2em 1em;
@@ -270,6 +280,33 @@ table {
 }
 /* END: .footer */
 
+/* START: .page */
+@media screen and (min-width: 768px) {
+  .page--withmedia {
+    display: flex;
+  }
+  .page--withmedia .page-media {
+    width: 35%;
+  }
+  .page--withmedia .page-body {
+    padding-left: 1em;
+    width: 65%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .page--nomedia .page-body {
+    margin: 0 auto;
+    width: 75%;
+  }
+  .page--withmedia .page-media {
+    width: 40%;
+  }
+  .page--withmedia .page-body {
+    padding-left: 2em;
+    width: 60%;
+  }
+}
+/* END: .page */
 /* START: Color utilities */
 .bgc-transparent { background-color: transparent; }
 .bgc-blue { background-color: var(--color-blue); }
@@ -298,12 +335,17 @@ table {
 /* END: Responsive utilities */
 
 @media screen and (min-width: 768px) {
+  /* START: Responsive utilities */
+  /* END: Responsive utilities */
 }
 
 @media screen and (min-width: 1024px) {
   :root {
     font-size: 18px;
   }
+
+  /* START: Responsive utilities */
+  /* END: Responsive utilities */
 }
 
 /* END: TLI Styles */
