@@ -308,6 +308,35 @@ table {
 }
 /* END: .page */
 
+/* START: .intro */
+.intro {
+  margin-bottom: 2em;
+  padding: 0 1em;
+}
+@media screen and (min-width: 768px) {
+  .intro {
+    display: flex;
+    margin-bottom: 3em;
+  }
+  .intro-media {
+    width: 35%;
+  }
+  .intro-body {
+    padding-left: 1em;
+    width: 65%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .intro-media {
+    width: 40%;
+  }
+  .intro-body {
+    padding-left: 2em;
+    width: 60%;
+  }
+}
+/* END: .intro */
+
 /* START: .contacts */
 .contacts {}
 .contact {
