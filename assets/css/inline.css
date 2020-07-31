@@ -173,8 +173,8 @@ main p {
   align-items: center;
   background-color: transparent;
   border-radius: 2px;
-  border: 2px solid #595F6B;
-  color: #595F6B;
+  border: 2px solid var(--color-grey);
+  color: var(--color-grey);
   cursor: pointer;
   display: inline-flex;
   font-family: inherit;
@@ -190,6 +190,7 @@ main p {
   vertical-align: top;
   user-select: none;
   white-space: nowrap;
+  width: auto;
   -moz-appearance: none;
   -moz-osx-font-smoothing: grayscale;
   -webkit-appearance: none;
