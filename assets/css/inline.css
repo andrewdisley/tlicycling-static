@@ -3,6 +3,9 @@
   --color-white: #FFF;
   --color-blue: #010D8E;
   --color-grey: #595F6B;
+  --color-grey-dark: #1D1D1D;
+  --color-grey-light: #F0F4F5;
+  --color-grey-medium: #CCCCCC;
   --color-red: #F41000;
   --color-red-alt: #FF0000;
   --font-family-sans-serif: Lato, BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
@@ -19,6 +22,8 @@ html {
 }
 
 body {
+  background-color: var(--color-white);
+  color: var(--color-grey-dark);
   font-family: var(--font-family-sans-serif);
   font-size: 1rem;
   font-weight: 300;
@@ -75,15 +80,15 @@ article a[href]:hover { text-decoration: none; }
   -webkit-appearance: none;
   -webkit-font-smoothing: antialiased;
 }
-.btn:focus, .btn:hover { background-color: #595F6B; color: #FFF; }
-.btn-white { background-color: #FFF; border-color: #FFF; color: #242424; }
-.btn-white:focus, .btn-white:hover { background-color: transparent; color: #FFF; }
-.btn-white-alt { background-color: transparent; border-color: #FFF; color: #FFF; }
-.btn-white-alt:focus, .btn-white-alt:hover { background-color: #FFF; color: #242424; }
-.btn-red { background-color: #F41000; border-color: #F41000; color: #FFF; }
-.btn-red:focus, .btn-red:hover { background-color: transparent; color: #F41000; }
-.btn-blue { background-color: #010D8E; border-color: #010D8E; color: #FFF; }
-.btn-blue:focus, .btn-blue:hover { background-color: transparent; color: #010D8E; }
+.btn:focus, .btn:hover { background-color: var(--color-grey); color: var(--color-white); }
+.btn-white { background-color: var(--color-white); border-color: var(--color-white); color: #242424; }
+.btn-white:focus, .btn-white:hover { background-color: transparent; color: var(--color-white); }
+.btn-white-alt { background-color: transparent; border-color: var(--color-white); color: var(--color-white); }
+.btn-white-alt:focus, .btn-white-alt:hover { background-color: var(--color-white); color: #242424; }
+.btn-red { background-color: var(--color-red); border-color: var(--color-red); color: var(--color-white); }
+.btn-red:focus, .btn-red:hover { background-color: transparent; color: var(--color-red); }
+.btn-blue { background-color: var(--color-blue); border-color: var(--color-blue); color: var(--color-white); }
+.btn-blue:focus, .btn-blue:hover { background-color: transparent; color: var(--color-blue); }
 /* END: buttons */
 
 /* START: markdown (.mdit) content */
@@ -119,16 +124,17 @@ table {
 
 /* START: Color utilities */
 .bgc-transparent { background-color: transparent; }
-.bgc-blue { background-color: #010D8E; }
-.bgc-grey { background-color: #595F6B; }
-.bgc-red { background-color: #F41000; }
-.bgc-red-alt { background-color: #FF0000; }
-.bgc-white { background-color: #FFF; }
-.tc-blue { color: #010D8E; }
-.tc-grey { color: #595F6B; }
-.tc-red { color: #F41000; }
-.tc-red-alt { color: #FF0000; }
-.tc-white { color: #FFF; }
+.bgc-blue { background-color: var(--color-blue); }
+.bgc-grey { background-color: var(--color-grey); }
+.bgc-red { background-color: var(--color-red); }
+.bgc-red-alt { background-color: var(--color-red-alt); }
+.bgc-white { background-color: var(--color-white); }
+.tc-blue { color: var(--color-blue); }
+.tc-grey { color: var(--color-grey); }
+.tc-grey-dark { color: var(--color-grey-dark); }
+.tc-red { color: var(--color-red); }
+.tc-red-alt { color: var(--color-red-alt); }
+.tc-white { color: var(--color-white); }
 /* END: Color utilities */
 
 /* START: Aspect Ratio */
