@@ -1,14 +1,16 @@
-<footer class="bgc-red-alt px-1 py-2 tc-white md:px-2 md:py-4 md:text-center">
-  <nav class="mb-2 text-sm">
-    <ul>
-      {%- for post in collections.all -%}
-      {% if post.data.excludeFooterNav != true %}
-      <li><a class="tc-white" href="{{ post.url }}">{{ post.data.title }}</a></li>
-      {% endif %}
-      {%- endfor -%}
-    </ul>
-  </nav>
-  <img alt="TLI Cycling" class="block mb-2 mx-auto" height="91" loading="lazy" src="/assets/img/tlicycling-logo-footer.png" width="160">
-  <p class="mb-05"><small class="text-sm">© {{ date | footerDate }} | TLI Cycling Ltd is a company limited by guarantee and registered in England and Wales under Company number 7316143.</small></p>
-  <p class="mb-0"><small class="text-xs">The registered office is at Heald Solicitors, 4, Bramley Road, Mount Farm, Milton Keynes MK1 1PT</small></p>
+<footer class="footer">
+  <div class="container footer-inner">
+    <nav class="footer-nav">
+      <ul class="footer-nav-list">
+        <li><a class="footer-nav-link" href="/">Home</a></li>
+        <li><a class="footer-nav-link" href="/organising-clubs-teams/">Event Promoting Clubs</a></li>
+        <li><a class="footer-nav-link" href="/downloads/">Downloads and Resources</a></li>
+        <li><a class="footer-nav-link" href="/rules-and-regulations/">Rules and Regulations</a></li>
+        <li><a class="footer-nav-link" href="/contact/">Contact</a></li>
+      </ul>
+    </nav>
+    <img alt="TLI Cycling" class="footer-brand" height="91" loading="lazy" src="/assets/img/tlicycling-logo-footer.png" width="160">
+    <p class="mb-05"><small class="text-sm">© {{ date | footerDate }} | TLI Cycling Ltd is a company limited by guarantee and registered in England and Wales under Company number 7316143.</small></p>
+    <p class="mb-0"><small class="text-xs">The registered office is at Heald Solicitors, 4, Bramley Road, Mount Farm, Milton Keynes MK1 1PT</small></p>
+  </div>
 </footer>
