@@ -337,6 +337,33 @@ table {
 }
 /* END: .intro */
 
+/* START: .promo */
+.promo {}
+.promo-body {
+  order: -9999;
+  padding: 2em 1em;
+}
+.promo:nth-child(odd) .promo-body {
+  order: 9999;
+}
+@media screen and (min-width: 768px) {
+  .promo {
+    display: flex;
+  }
+  .promo-media {
+    width: 50%;
+  }
+  .promo-body {
+    padding: 2em;
+    width: 50%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .promo-body {
+    padding: 3em;
+  }
+}
+/* END: .promo */
 /* START: .contacts */
 .contacts {}
 .contact {

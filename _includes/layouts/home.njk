@@ -22,15 +22,15 @@ section: home
     </div>
   </section>
 
-  <section class="md:flex">
+  <section class="promo">
     {% if history.media %}
-    <div class="md:w-50">
+    <div class="promo-media">
       <figure class="ar ar-1x1">
         <img alt="{{ history.media.alt }}" class="arm" loading="lazy" src="{{ history.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-blue order-first p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
+    <div class="bgc-blue tc-white promo-body">
       {% if history.title %}<h3 class="title">{{ history.title }}</h3>{% endif %}
       {% if history.subtitle %}<p class="subtitle">{{ history.subtitle }}</p>{% endif %}
       {% markdownit %}{{ history.body | safe }}{% endmarkdownit %}
@@ -38,15 +38,15 @@ section: home
     </div>
   </section>
 
-  <section class="md:flex">
+  <section class="promo">
     {% if membership.media %}
-    <div class="md:w-50">
+    <div class="promo-media">
       <figure class="ar ar-1x1">
         <img alt="{{ membership.media.alt }}" class="arm" loading="lazy" src="{{ membership.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-red p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
+    <div class="bgc-red tc-white promo-body">
       {% if membership.title %}<h3 class="title">{{ membership.title }}</h3>{% endif %}
       {% if membership.subtitle %}<p class="subtitle">{{ membership.subtitle }}</p>{% endif %}
       {% markdownit %}{{ membership.body | safe }}{% endmarkdownit %}
@@ -54,15 +54,15 @@ section: home
     </div>
   </section>
 
-  <section class="mb-3 md:flex">
+  <section class="promo">
     {% if eventorganisation.media %}
-    <div class="md:w-50">
+    <div class="promo-media">
       <figure class="ar ar-1x1">
         <img alt="{{ eventorganisation.media.alt }}" class="arm" loading="lazy" src="{{ eventorganisation.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-blue order-first p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
+    <div class="bgc-blue tc-white promo-body">
       {% if eventorganisation.title %}<h3 class="title">{{ eventorganisation.title }}</h3>{% endif %}
       {% if eventorganisation.subtitle %}<p class="subtitle">{{ eventorganisation.subtitle }}</p>{% endif %}
       {% markdownit %}{{ eventorganisation.body | safe }}{% endmarkdownit %}
