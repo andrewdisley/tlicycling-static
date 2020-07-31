@@ -39,6 +39,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
 }
 
+small {
+  font-size: 0.875rem;
+}
+
 /* START: .header */
 .header {
   background-color: var(--color-blue);
@@ -402,6 +406,36 @@ article .news:first-child {
   }
 }
 /* END: .news */
+
+/* START: .post */
+.post {
+  margin: 0 auto;
+  padding: 0 1em;
+}
+.post-header {
+  margin: 0 0 2em;
+}
+.post-meta p {
+  margin-bottom: 0.5em;
+}
+.post-meta >:last-child {
+  margin-bottom: 0;
+}
+.post-footer {
+  margin-top: 2em;
+}
+@media screen and (min-width: 768px) {
+  .post {
+    padding: 0 2em;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .post {
+    padding: 0;
+    width: 75%;
+  }
+}
+/* END: .post */
 
 /* START: .contacts */
 .contacts {}
