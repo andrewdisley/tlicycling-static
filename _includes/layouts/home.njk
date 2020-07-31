@@ -70,11 +70,11 @@ section: home
     </div>
   </section>
 
-  <section class="px-1 mb-2 mx-auto md:px-2 lg:px-0 lg:w-75">
+  <section class="news">
     {% if news.title %}<h3 class="title">{{ news.title }}</h3>{% endif %}
     {% if news.subtitle %}<p class="subtitle">{{ news.subtitle }}</p>{% endif %}
     {% markdownit %}{{ news.body | safe }}{% endmarkdownit %}
-    <section class="mb-2 mt-2">
+    <section class="news-items">
       {% set postslist = collections.news | reverse | limitposts(4) | reverse %}
       {% include "components/postslist.njk" %}
     </section>

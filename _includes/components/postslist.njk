@@ -1,10 +1,10 @@
 {% for post in postslist | reverse %}
-<article class="border-b-1 border-grey mb-1 pb-2" {% if post.url == url %} data-current="current item"{% endif %}>
-  <h3 class="text-lg mb-05"><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}Untitled{% endif %}</a></h3>
+<article class="news-item" {% if post.url == url %} data-current="current item"{% endif %}>
+  <h3 class="news-item-title"><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}Untitled{% endif %}</a></h3>
   {% if post.data.summary %}
-  <p class="mb-05">{{ post.data.summary }}</p>
+  <p class="news-item-summary">{{ post.data.summary }}</p>
   {% endif %}
-  <div>
+  <div class="news-item-meta">
     <time datetime="{{ post.date | machineDate }}"><small class="text-sm">{{ post.date | readableDate }}</small></time>
     {% if post.data.tags1 %}
     <p><small class="text-sm">
