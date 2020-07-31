@@ -326,7 +326,7 @@ table {
     width: 65%;
   }
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   .intro-media {
     width: 40%;
   }
