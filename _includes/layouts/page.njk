@@ -15,7 +15,7 @@ section: page
         <img alt="{{ media.alt }}" class="arm" loading="lazy" src="{{ media.src }}">
       </figure>
     </div>
-    <div class="page-body">
+    <div class="page-body mdit">
       {{ layoutContent | safe }}
     </div>
   </section>
@@ -23,7 +23,7 @@ section: page
   {% else %}
 
   <section class="page--nomedia">
-    <div class="page-body">
+    <div class="page-body mdit">
       {{ layoutContent | safe }}
     </div>
   </section>
