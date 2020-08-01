@@ -40,13 +40,13 @@ articleLayout: textonly
   </div>
 
   <div class="contact">
-    <h3 class="subtitle">Andrew Wright</h3>
+    <h2 class="subtitle">Andrew Wright</h2>
     <p>National Police Liaison</p>
     <a href="mailto:andrewwright@tlicycling.org.uk">Email Andrew</a>
   </div>
 
   <div class="contact">
-    <h3 class="subtitle">Steve Simpson</h3>
+    <h2 class="subtitle">Steve Simpson</h2>
     <p>National PR / FB / Website Transition</p>
     <a href="mailto:stevesimpson@tlicycling.org.uk">Email Steve</a>
   </div>
