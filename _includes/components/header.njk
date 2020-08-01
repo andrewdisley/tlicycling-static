@@ -1,6 +1,8 @@
-<header class="bgc-blue py-075 px-1 text-center md:text-left">
-  <div class="container md:flex md:justify-between">
-    <a class="inline-block mb-1 tc-white md:mb-0" href="{{ '/' | url }}">{{ metadata.title }}</a>
+<header class="header">
+  <div class="container header-inner">
+    <div class="brand">
+      <a class="brand-link" href="{{ '/' | url }}">{{ metadata.title }}</a>
+    </div>
     {% include "components/nav.njk" %}
   </div>
 </header>

@@ -7,7 +7,7 @@ section: membership
 
   <section class="mb-2 md:mb-3 lg:flex">
     <div class="mb-2 px-1 md:px-2 lg:mb-0 lg:pr-4 lg:w-65">
-      <h1 class="mb-025">TLI Cycling Membership</h1>
+      <h1 class="pretitle">TLI Cycling Membership</h1>
       {% if annualMembership.title %}<h2 class="title">{{ annualMembership.title }}</h2>{% endif %}
       {% markdownit %}{{ annualMembership.body | safe }}{% endmarkdownit %}
     </div>

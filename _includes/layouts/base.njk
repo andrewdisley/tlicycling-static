@@ -1,9 +1,9 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
   {% include "components/head.njk" %}
-  <body class="bgc-white tc-grey">
+  <body>
     {% include "components/header.njk" %}
-    <main class="py-2 md:py-3">
+    <main>
       {{ layoutContent | safe }}
     </main>
     {% include "components/footer.njk" %}

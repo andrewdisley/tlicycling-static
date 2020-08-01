@@ -11,7 +11,7 @@ media:
 articleLayout: medialeft
 ---
 
-# About TLI Cycling {.mb-025}
+# About TLI Cycling {.pretitle}
 
 ## Age-Related Cycle Sport For All {.title}
 

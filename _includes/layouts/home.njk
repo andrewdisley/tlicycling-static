@@ -5,16 +5,16 @@ section: home
 
 <article class="container">
 
-  <section class="mb-2 px-1 md:flex md:mb-3">
+  <section class="intro">
     {% if about.media %}
-    <div class="md:w-35 lg:w-40">
+    <div class="intro-media">
       <figure class="ar ar-4x3">
         <img alt="{{ about.media.alt }}" class="arm" src="{{ about.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="md:w-65 md:pl-1 lg:pl-2 lg:w-60">
-      <h1 class="mb-025">TLI Cycling</h1>
+    <div class="intro-body">
+      <h1>TLI Cycling</h1>
       {% if about.title %}<h2 class="title">{{ about.title }}</h2>{% endif %}
       {% if about.subtitle %}<p class="subtitle">{{ about.subtitle }}</p>{% endif %}
       {% markdownit %}{{ about.body | safe }}{% endmarkdownit %}
@@ -22,59 +22,59 @@ section: home
     </div>
   </section>
 
-  <section class="md:flex">
+  <section class="promo">
     {% if history.media %}
-    <div class="md:w-50">
+    <div class="promo-media">
       <figure class="ar ar-1x1">
         <img alt="{{ history.media.alt }}" class="arm" loading="lazy" src="{{ history.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-blue order-first p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
+    <div class="bgc-blue tc-white promo-body">
       {% if history.title %}<h3 class="title">{{ history.title }}</h3>{% endif %}
       {% if history.subtitle %}<p class="subtitle">{{ history.subtitle }}</p>{% endif %}
       {% markdownit %}{{ history.body | safe }}{% endmarkdownit %}
-      {% if history.button.link and history.button.text %}<a class="btn btn-white-alt" href="{{ history.button.link | url }}">{{ history.button.text }}</a>{% endif %}
+      {% if history.button.link and history.button.text %}<a class="btn btn-white-outline" href="{{ history.button.link | url }}">{{ history.button.text }}</a>{% endif %}
     </div>
   </section>
 
-  <section class="md:flex">
+  <section class="promo">
     {% if membership.media %}
-    <div class="md:w-50">
+    <div class="promo-media">
       <figure class="ar ar-1x1">
         <img alt="{{ membership.media.alt }}" class="arm" loading="lazy" src="{{ membership.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-red p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
+    <div class="bgc-red tc-white promo-body">
       {% if membership.title %}<h3 class="title">{{ membership.title }}</h3>{% endif %}
       {% if membership.subtitle %}<p class="subtitle">{{ membership.subtitle }}</p>{% endif %}
       {% markdownit %}{{ membership.body | safe }}{% endmarkdownit %}
-      {% if membership.button.link and membership.button.text %}<a class="btn btn-white-alt" href="{{ membership.button.link | url }}">{{ membership.button.text }}</a>{% endif %}
+      {% if membership.button.link and membership.button.text %}<a class="btn btn-white-outline" href="{{ membership.button.link | url }}">{{ membership.button.text }}</a>{% endif %}
     </div>
   </section>
 
-  <section class="mb-3 md:flex">
+  <section class="promo">
     {% if eventorganisation.media %}
-    <div class="md:w-50">
+    <div class="promo-media">
       <figure class="ar ar-1x1">
         <img alt="{{ eventorganisation.media.alt }}" class="arm" loading="lazy" src="{{ eventorganisation.media.src }}">
       </figure>
     </div>
     {% endif %}
-    <div class="bgc-blue order-first p-1 py-2 md:p-2 tc-white lg:p-3 md:w-50">
+    <div class="bgc-blue tc-white promo-body">
       {% if eventorganisation.title %}<h3 class="title">{{ eventorganisation.title }}</h3>{% endif %}
       {% if eventorganisation.subtitle %}<p class="subtitle">{{ eventorganisation.subtitle }}</p>{% endif %}
       {% markdownit %}{{ eventorganisation.body | safe }}{% endmarkdownit %}
-      {% if eventorganisation.button.link and eventorganisation.button.text %}<a class="btn btn-white-alt" href="{{ eventorganisation.button.link | url }}">{{ eventorganisation.button.text }}</a>{% endif %}
+      {% if eventorganisation.button.link and eventorganisation.button.text %}<a class="btn btn-white-outline" href="{{ eventorganisation.button.link | url }}">{{ eventorganisation.button.text }}</a>{% endif %}
     </div>
   </section>
 
-  <section class="px-1 mb-2 mx-auto md:px-2 lg:px-0 lg:w-75">
+  <section class="news">
     {% if news.title %}<h3 class="title">{{ news.title }}</h3>{% endif %}
     {% if news.subtitle %}<p class="subtitle">{{ news.subtitle }}</p>{% endif %}
     {% markdownit %}{{ news.body | safe }}{% endmarkdownit %}
-    <section class="mb-2 mt-2">
+    <section class="news-items">
       {% set postslist = collections.news | reverse | limitposts(4) | reverse %}
       {% include "components/postslist.njk" %}
     </section>

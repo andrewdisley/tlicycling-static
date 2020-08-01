@@ -4,24 +4,28 @@ section: post
 ---
 
 <article class="container">
-  <section class="px-1 mb-2 mx-auto md:px-2 lg:px-0 lg:w-75">
-    <h1 class="title">{{ title }}</h1>
-    <p class="mb-05"><small class="text-sm">Published: <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time></a></small></p>
-    {% if tags1 %}
-    <p class="mb-0"><small class="text-sm">Posted in:
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
-    </small></p>
-    {% endif %}
-  </section>
-  <div class="px-1 mb-2 mx-auto md:px-2 lg:px-0 lg:w-75">
-    {{ layoutContent | safe }}
+  <div class="post">
+    <section class="post-header">
+      <h1 class="title post-title">{{ title }}</h1>
+      <div class="post-meta">
+        <p><small class="text-sm">Published: <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time></a></small></p>
+        {% if tags1 %}
+        <p><small class="text-sm">Posted in:
+        {% for tag in tags %}
+          {%- if tag != "post" -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+        </small></p>
+        {% endif %}
+      </div>
+    </section>
+    <div class="post-body">
+      {{ layoutContent | safe }}
+    </div>
+    <nav class="post-footer">
+      <a class="btn" href="{{ '/news/' | url }}">← News index</a>
+    </nav>
   </div>
-  <nav class="px-1 mx-auto md:px-2 lg:px-0 lg:w-75">
-    <a class="btn" href="{{ '/news/' | url }}">← News index</a>
-  </nav>
 </article>
