@@ -3,8 +3,6 @@ permalink: /TODO.md
 ---
 
 # TODO
-* Verify: Google Search Console
-* Verify: Bing Webmasters
 * Merge media queries
 * Replace CSS Vars with HEX Values
 * Membership updated layout
@@ -37,6 +35,8 @@ if (window.netlifyIdentity) {
 ```
 ** Setup pages
 ** Setup posts
+* Check for 404s: Google Search Console
+* Check for 404s: Bing Webmasters
 * Eleventy plugins
 ** https://www.npmjs.com/package/eleventy-plugin-excerpt
 ** https://www.npmjs.com/package/eleventy-xml-plugin
