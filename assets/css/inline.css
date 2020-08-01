@@ -1,6 +1,5 @@
 /* START: TLI Styles */
 :root {
-  --color-white: #FFF;
   --color-blue: #004182;
   --color-grey: #595F6B;
   --color-grey-dark: #1D1D1D;
@@ -20,7 +19,7 @@ html {
 }
 
 body {
-  background-color: var(--color-white);
+  background-color: #FFF;
   color: var(--color-grey-dark);
   font-family: Lato, BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
   font-size: 1rem;
@@ -44,7 +43,7 @@ small {
 /* START: .header */
 .header {
   background-color: var(--color-blue);
-  color: var(--color-white);
+  color: #FFF;
   padding: 1em 1em 0;
   text-align: center;
 }
@@ -67,7 +66,7 @@ small {
 }
 .brand-link {
   background-color: var(--color-red);
-  color: var(--color-white);
+  color: #FFF;
   display: inline-block;
   font-weight: 500;
   line-height: 1.15;
@@ -76,7 +75,7 @@ small {
 }
 .brand-link:focus,
 .brand-link:hover {
-  background-color: var(--color-white);
+  background-color: #FFF;
   color: var(--color-blue);
 }
 @media screen and (min-width: 768px) {
@@ -111,7 +110,7 @@ small {
   padding-right: 1em;
 }
 .nav-link {
-  color: var(--color-white);
+  color: #FFF;
   display: inline-block;
   font-weight: 500;
   line-height: 1.15;
@@ -120,7 +119,7 @@ small {
 .nav-link--current,
 .nav-link:focus,
 .nav-link:hover {
-  background-color: var(--color-white);
+  background-color: #FFF;
   color: var(--color-blue);
   text-decoration: none;
 }
@@ -199,14 +198,14 @@ main p {
   -webkit-appearance: none;
   -webkit-font-smoothing: antialiased;
 }
-.btn:focus, .btn:hover { background-color: var(--color-grey); color: var(--color-white); }
-.btn-white { background-color: var(--color-white); border-color: var(--color-white); color: #242424; }
-.btn-white:focus, .btn-white:hover { background-color: transparent; color: var(--color-white); }
-.btn-white-outline { background-color: transparent; border-color: var(--color-white); color: var(--color-white); }
-.btn-white-outline:focus, .btn-white-outline:hover { background-color: var(--color-white); color: #242424; }
-.btn-red { background-color: var(--color-red); border-color: var(--color-red); color: var(--color-white); }
+.btn:focus, .btn:hover { background-color: var(--color-grey); color: #FFF; }
+.btn-white { background-color: #FFF; border-color: #FFF; color: #242424; }
+.btn-white:focus, .btn-white:hover { background-color: transparent; color: #FFF; }
+.btn-white-outline { background-color: transparent; border-color: #FFF; color: #FFF; }
+.btn-white-outline:focus, .btn-white-outline:hover { background-color: #FFF; color: #242424; }
+.btn-red { background-color: var(--color-red); border-color: var(--color-red); color: #FFF; }
 .btn-red:focus, .btn-red:hover { background-color: transparent; color: var(--color-red); }
-.btn-blue { background-color: var(--color-blue); border-color: var(--color-blue); color: var(--color-white); }
+.btn-blue { background-color: var(--color-blue); border-color: var(--color-blue); color: #FFF; }
 .btn-blue:focus, .btn-blue:hover { background-color: transparent; color: var(--color-blue); }
 .btn-group {
   align-items: center;
@@ -293,7 +292,7 @@ table {
 /* START: .footer */
 .footer {
   background-color: var(--color-red);
-  color: var(--color-white);
+  color: #FFF;
   font-size: 0.875rem;
   padding: 2em 1em;
 }
@@ -514,12 +513,12 @@ article .news:first-child {
 .bgc-blue { background-color: var(--color-blue); }
 .bgc-grey { background-color: var(--color-grey); }
 .bgc-red { background-color: var(--color-red); }
-.bgc-white { background-color: var(--color-white); }
+.bgc-white { background-color: #FFF; }
 .tc-blue { color: var(--color-blue); }
 .tc-grey { color: var(--color-grey); }
 .tc-grey-dark { color: var(--color-grey-dark); }
 .tc-red { color: var(--color-red); }
-.tc-white { color: var(--color-white); }
+.tc-white { color: #FFF; }
 /* END: Color utilities */
 
 /* START: Aspect Ratio */
