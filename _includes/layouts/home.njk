@@ -34,7 +34,7 @@ section: home
       {% if history.title %}<h3 class="title">{{ history.title }}</h3>{% endif %}
       {% if history.subtitle %}<p class="subtitle">{{ history.subtitle }}</p>{% endif %}
       {% markdownit %}{{ history.body | safe }}{% endmarkdownit %}
-      {% if history.button.link and history.button.text %}<a class="btn btn-white-alt" href="{{ history.button.link | url }}">{{ history.button.text }}</a>{% endif %}
+      {% if history.button.link and history.button.text %}<a class="btn btn-white-outline" href="{{ history.button.link | url }}">{{ history.button.text }}</a>{% endif %}
     </div>
   </section>
 
@@ -50,7 +50,7 @@ section: home
       {% if membership.title %}<h3 class="title">{{ membership.title }}</h3>{% endif %}
       {% if membership.subtitle %}<p class="subtitle">{{ membership.subtitle }}</p>{% endif %}
       {% markdownit %}{{ membership.body | safe }}{% endmarkdownit %}
-      {% if membership.button.link and membership.button.text %}<a class="btn btn-white-alt" href="{{ membership.button.link | url }}">{{ membership.button.text }}</a>{% endif %}
+      {% if membership.button.link and membership.button.text %}<a class="btn btn-white-outline" href="{{ membership.button.link | url }}">{{ membership.button.text }}</a>{% endif %}
     </div>
   </section>
 
@@ -66,7 +66,7 @@ section: home
       {% if eventorganisation.title %}<h3 class="title">{{ eventorganisation.title }}</h3>{% endif %}
       {% if eventorganisation.subtitle %}<p class="subtitle">{{ eventorganisation.subtitle }}</p>{% endif %}
       {% markdownit %}{{ eventorganisation.body | safe }}{% endmarkdownit %}
-      {% if eventorganisation.button.link and eventorganisation.button.text %}<a class="btn btn-white-alt" href="{{ eventorganisation.button.link | url }}">{{ eventorganisation.button.text }}</a>{% endif %}
+      {% if eventorganisation.button.link and eventorganisation.button.text %}<a class="btn btn-white-outline" href="{{ eventorganisation.button.link | url }}">{{ eventorganisation.button.text }}</a>{% endif %}
     </div>
   </section>
 
