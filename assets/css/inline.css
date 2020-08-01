@@ -1,11 +1,13 @@
 /* START: TLI Styles */
 :root {
-  --color-blue: #004182;
+  --color-brand-red: #EC2C32;
+  --color-brand-blue: #004182;
+  --color-blue: var(--color-brand-blue);
   --color-grey: #595F6B;
   --color-grey-dark: #1D1D1D;
   --color-grey-light: #F0F4F5;
   --color-grey-medium: #CCCCCC;
-  --color-red: #EC2C32;
+  --color-red: #AA0000;
 }
 
 html {
