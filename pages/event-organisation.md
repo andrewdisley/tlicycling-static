@@ -15,9 +15,9 @@ articleLayout: textonly
 
 No Event Levies | No Event Registration Fees | No Commissaires Expenses {.subtitle}
 
-<div class="items-center mb-2 md:flex">
+<div class="btn-group">
   <div><a class="btn btn-red" href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING" rel="noopener noreferrer" target="_blank">Add Your Event</a></div>
-  <div class="px-1">or download the</div>
+  <div>or download the</div>
   <div><a class="btn btn-blue" href="/u/TLICycling_Event-Promoters-Pack-2020.pdf" rel="download">2020 Event Promoters Pack</a></div>
 </div>
 
@@ -35,10 +35,10 @@ Where an event is oversubscribed, organisers are asked to give priority entry to
 
 Event insurance is provided for Public and Products Liability (£10,000,000); Employers Liability (£10,000,000); and Professional Indemnity (£1,000,000).
 
-<div class="items-center mb-2 mt-2 md:flex">
+<div class="btn-group">
   <div><a class="btn btn-red" href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING" rel="noopener noreferrer" target="_blank">Add Your Event</a></div>
-  <div class="px-1">or download the</div>
+  <div>or download the</div>
   <div><a class="btn btn-blue" href="/u/TLICycling_Event-Promoters-Pack-2020.pdf" rel="download">2020 Event Promoters Pack</a></div>
 </div>
 
-You can find more documents relevent to event organising on the <a href="/downloads/">Downloads</a> page.
+You can find more documents relevent to event organising on the [Downloads](/downloads/) page.

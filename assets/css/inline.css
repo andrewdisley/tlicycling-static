@@ -209,6 +209,22 @@ main p {
 .btn-red:focus, .btn-red:hover { background-color: transparent; color: var(--color-red); }
 .btn-blue { background-color: var(--color-blue); border-color: var(--color-blue); color: var(--color-white); }
 .btn-blue:focus, .btn-blue:hover { background-color: transparent; color: var(--color-blue); }
+.btn-group {
+  align-items: center;
+  justify-content: space-between;
+  margin: 1.5em 0;
+}
+.btn-group > * {
+  padding: 0.5em 0;
+}
+.btn-group > *:not(:last-child) {
+  margin-right: 0.75em;
+}
+@media screen and (min-width: 768px) {
+  .btn-group {
+    display: flex;
+  }
+}
 /* END: buttons */
 
 /* START: article styles */
