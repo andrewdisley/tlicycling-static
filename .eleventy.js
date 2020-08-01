@@ -81,7 +81,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy('BingSiteAuth.xml');
   eleventyConfig.addPassthroughCopy("favicon.ico");
+  eleventyConfig.addPassthroughCopy("google3a9cfc1297810bcd.html");
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("u");
 
