@@ -20,6 +20,18 @@ permalink: /TODO.md
 * Do we required carousels?
 * Netlify CMS
 ** Add Netlify Identity to home using Helmet <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+** Add Netlify Identity script to home using Helmet
+```
+if (window.netlifyIdentity) {
+  window.netlifyIdentity.on("init", user => {
+    if (!user) {
+      window.netlifyIdentity.on("login", () => {
+        document.location.href = "/admin/";
+      });
+    }
+  });
+}
+```
 ** Setup pages
 ** Setup posts
 * Eleventy plugins
