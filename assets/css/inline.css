@@ -263,10 +263,14 @@ table {
   margin-bottom: 2em;
   text-align: center;
 }
+.footer-nav-item {
+  margin: 0 0.5em 0.25em;
+}
 .footer-nav-link {
   color: #FFF;
-  margin: 0.5em;
-  padding: 0.25em;
+  display: inline-block;
+  font-weight: 500;
+  padding: 0.5em 0.325em;
 }
 .footer-brand {
   display: block;
