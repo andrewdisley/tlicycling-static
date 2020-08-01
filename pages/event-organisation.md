@@ -41,4 +41,4 @@ Event insurance is provided for Public and Products Liability (£10,000,000); Em
   <div><a class="btn btn-blue" href="/u/TLICycling_Event-Promoters-Pack-2020.pdf" rel="download">2020 Event Promoters Pack</a></div>
 </div>
 
-You can find more documents relevent to event organising on the [Downloads](/downloads/) page.
+You can find more documents relevent to event organising on the [downloads](/downloads/) page.
