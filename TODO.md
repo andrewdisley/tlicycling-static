@@ -3,11 +3,14 @@ permalink: /TODO.md
 ---
 
 # TODO
+* Verify: Google Search Console
+* Verify: Bing Webmasters
 * Merge media queries
 * Replace CSS Vars with HEX Values
 * Membership updated layout
 * Membership Fees: tables
 * Tables Styles
+** /news/lapierre-series-winners-2019/
 * /news-events-and-results-submission/
 * News pagination
 * ALERT for COVID notice
