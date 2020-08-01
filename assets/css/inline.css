@@ -149,6 +149,7 @@ main {
 main a[href]:not(.btn),
 main a[href]:not(.btn):visited {
   color: var(--color-red);
+  font-weight: 500;
   text-decoration: underline;
 }
 main a[href]:focus,
