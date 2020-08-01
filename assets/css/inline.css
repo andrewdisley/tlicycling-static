@@ -494,6 +494,9 @@ article .news:first-child {
 .contact .subtitle {
   margin-bottom: 0;
 }
+.contact h2 {
+  margin-top: 0;
+}
 .contact p {
   margin-bottom: 0.25em;
 }
