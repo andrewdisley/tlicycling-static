@@ -6,8 +6,7 @@
   --color-grey-dark: #1D1D1D;
   --color-grey-light: #F0F4F5;
   --color-grey-medium: #CCCCCC;
-  --color-red: #F41000;
-  --color-red-alt: #FF0000;
+  --color-red: #EC2C32;
   --font-family-sans-serif: Lato, BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
 
@@ -256,6 +255,28 @@ main p {
   margin-bottom: 0.75em; /* 8px */
 }
 
+.title + .subtitle,
+.mdit > h1 + .mdit > h2 {
+  margin-top: 1em;
+}
+
+.mdit h2:not(:first-child) {
+}
+
+.mdit blockquote:not(:last-child),
+.mdit ol:not(:last-child),
+.mdit p:not(:last-child),
+.mdit table:not(:last-child),
+.mdit ul:not(:last-child) {
+  margin-bottom: 1em;
+}
+.mdit ul {
+  list-style: disc outside;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+
+
 blockquote {
   border-left: 2px solid;
   margin: 2em 1em;
@@ -271,7 +292,7 @@ table {
 
 /* START: .footer */
 .footer {
-  background-color: var(--color-red-alt);
+  background-color: var(--color-red);
   color: var(--color-white);
   font-size: 0.875rem;
   padding: 2em 1em;
@@ -490,13 +511,11 @@ article .news:first-child {
 .bgc-blue { background-color: var(--color-blue); }
 .bgc-grey { background-color: var(--color-grey); }
 .bgc-red { background-color: var(--color-red); }
-.bgc-red-alt { background-color: var(--color-red-alt); }
 .bgc-white { background-color: var(--color-white); }
 .tc-blue { color: var(--color-blue); }
 .tc-grey { color: var(--color-grey); }
 .tc-grey-dark { color: var(--color-grey-dark); }
 .tc-red { color: var(--color-red); }
-.tc-red-alt { color: var(--color-red-alt); }
 .tc-white { color: var(--color-white); }
 /* END: Color utilities */
 
