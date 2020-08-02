@@ -1,14 +1,14 @@
 /* START: TLI Styles */
-:root {
+/*:root {
   --color-brand-red: #EC2C32;
   --color-brand-blue: #004182;
-  --color-blue: var(--color-brand-blue);
+  --color-blue: #004182;
   --color-grey: #595F6B;
   --color-grey-dark: #1D1D1D;
   --color-grey-light: #F0F4F5;
-  --color-grey-medium: #CCCCCC;
-  --color-red: #AA0000;
-}
+  --color-grey-medium: #CCC;
+  --color-red: #A00;
+}*/
 
 html {
   font-family: sans-serif;
@@ -22,7 +22,7 @@ html {
 
 body {
   background-color: #FFF;
-  color: var(--color-grey-dark);
+  color: #1D1D1D;
   font-family: Lato, BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
   font-size: 1rem;
   font-weight: 400;
@@ -48,7 +48,7 @@ small {
 
 /* START: .header */
 .header {
-  background-color: var(--color-blue);
+  background-color: #004182;
   color: #FFF;
   padding: 1em 1em 0;
   text-align: center;
@@ -71,7 +71,7 @@ small {
   margin-bottom: 0.75em;
 }
 .brand-link {
-  background-color: var(--color-red);
+  background-color: #A00;
   color: #FFF;
   display: inline-block;
   font-weight: 500;
@@ -82,7 +82,7 @@ small {
 .brand-link:focus,
 .brand-link:hover {
   background-color: #FFF;
-  color: var(--color-blue);
+  color: #004182;
 }
 @media screen and (min-width: 768px) {
   .brand {
@@ -126,7 +126,7 @@ small {
 .nav-link:focus,
 .nav-link:hover {
   background-color: #FFF;
-  color: var(--color-blue);
+  color: #004182;
   text-decoration: none;
 }
 @media screen and (min-width: 768px) {
@@ -151,7 +151,7 @@ main {
 }
 main a[href]:not(.btn),
 main a[href]:not(.btn):visited {
-  color: var(--color-red);
+  color: #A00;
   font-weight: 500;
   text-decoration: underline;
 }
@@ -206,10 +206,10 @@ main a[href]:hover {
 .btn-white:focus, .btn-white:hover { background-color: transparent; color: #FFF; }
 .btn-white-outline { background-color: transparent; border-color: #FFF; color: #FFF; }
 .btn-white-outline:focus, .btn-white-outline:hover { background-color: #FFF; color: #242424; }
-.btn-red { background-color: var(--color-red); border-color: var(--color-red); color: #FFF; }
-.btn-red:focus, .btn-red:hover { background-color: transparent; color: var(--color-red); }
-.btn-blue { background-color: var(--color-blue); border-color: var(--color-blue); color: #FFF; }
-.btn-blue:focus, .btn-blue:hover { background-color: transparent; color: var(--color-blue); }
+.btn-red { background-color: #A00; border-color: #A00; color: #FFF; }
+.btn-red:focus, .btn-red:hover { background-color: transparent; color: #A00; }
+.btn-blue { background-color: #004182; border-color: #004182; color: #FFF; }
+.btn-blue:focus, .btn-blue:hover { background-color: transparent; color: #004182; }
 .btn-group {
   align-items: center;
   justify-content: space-between;
@@ -300,7 +300,7 @@ table {
 
 /* START: .footer */
 .footer {
-  background-color: var(--color-red);
+  background-color: #A00;
   color: #FFF;
   font-size: 0.875rem;
   padding: 2em 1em;
@@ -439,7 +439,7 @@ article .news:first-child {
   margin: 2em 0;
 }
 .news-item {
-  box-shadow: 0 4px 0 0 var(--color-grey-medium);
+  box-shadow: 0 4px 0 0 #CCC;
   margin: 0 0 2em;
   padding: 0 0 1em;
 }
@@ -496,8 +496,8 @@ article .news:first-child {
 /* START: .contacts */
 .contacts {}
 .contact {
-  background-color: var(--color-grey-light);
-  box-shadow: 0 4px 0 0 var(--color-grey-medium);
+  background-color: #F0F4F5;
+  box-shadow: 0 4px 0 0 #CCC;
   margin-top: 2em;
   padding: 1em;
 }
@@ -524,15 +524,10 @@ article .news:first-child {
 /* END: .contact */
 
 /* START: Color utilities */
-.bgc-transparent { background-color: transparent; }
-.bgc-blue { background-color: var(--color-blue); }
-.bgc-grey { background-color: var(--color-grey); }
-.bgc-red { background-color: var(--color-red); }
-.bgc-white { background-color: #FFF; }
-.tc-blue { color: var(--color-blue); }
-.tc-grey { color: var(--color-grey); }
-.tc-grey-dark { color: var(--color-grey-dark); }
-.tc-red { color: var(--color-red); }
+.bgc-blue { background-color: #004182; }
+.bgc-red { background-color: #A00; }
+.tc-blue { color: #004182; }
+.tc-red { color: #A00; }
 .tc-white { color: #FFF; }
 /* END: Color utilities */
 

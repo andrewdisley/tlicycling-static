@@ -11,7 +11,6 @@ permalink: /TODO.md
 * Header brand logo as embedded SVG
 * Footer brand logo as embedded SVG
 * Merge media queries
-* Replace CSS Vars with HEX Values
 * /news-events-and-results-submission/
 * News pagination
 * Add Helmet for <head>
@@ -42,6 +41,7 @@ if (window.netlifyIdentity) {
 ** Setup posts
 * Check for 404s: Google Search Console
 * Check for 404s: Bing Webmasters https://www.bing.com/webmasters/
+* Convert to Snowpack? https://github.com/pikapkg/create-snowpack-app/tree/master/templates/app-template-11ty
 * Eleventy plugins
 ** https://www.npmjs.com/package/eleventy-plugin-excerpt
 ** https://www.npmjs.com/package/eleventy-xml-plugin
