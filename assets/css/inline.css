@@ -38,6 +38,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
 }
 
+p {
+  margin-bottom: 1.25em;
+}
+
 small {
   font-size: 0.875rem;
 }
@@ -155,9 +159,6 @@ main a[href]:focus,
 main a[href]:hover {
   text-decoration: none;
 }
-main p {
-  margin-bottom: 1.25em;
-}
 @media screen and (min-width: 768px) {
   main {
     padding: 3em 1em;
@@ -239,7 +240,7 @@ main p {
   font-size: 2rem; /* 32px */
   font-weight: 700;
   line-height: 1.1875; /* 38px */
-  margin-bottom: 0.3125em; /* 10px */
+  margin-bottom: 0.3125em;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
@@ -251,7 +252,7 @@ main p {
 .mdit > h2:not(.title) {
   font-size: 1.375rem; /* 22px */
   line-height: 1.454545455; /* 32px */
-  margin-bottom: 0.75em; /* 8px */
+  margin-bottom: 1em;
 }
 
 .mdit h3 {
@@ -266,11 +267,11 @@ main p {
 
 .mdit blockquote:not(:last-child),
 .mdit ol:not(:last-child),
-.mdit p:not(:last-child),
 .mdit table:not(:last-child),
 .mdit ul:not(:last-child) {
   margin-bottom: 1em;
 }
+
 .mdit ul {
   list-style: disc outside;
   margin-left: 2em;
