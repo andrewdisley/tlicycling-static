@@ -41,7 +41,7 @@ if (window.netlifyIdentity) {
 ** Setup pages
 ** Setup posts
 * Check for 404s: Google Search Console
-* Check for 404s: Bing Webmasters
+* Check for 404s: Bing Webmasters https://www.bing.com/webmasters/
 * Eleventy plugins
 ** https://www.npmjs.com/package/eleventy-plugin-excerpt
 ** https://www.npmjs.com/package/eleventy-xml-plugin
