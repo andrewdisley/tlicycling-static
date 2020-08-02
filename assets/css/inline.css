@@ -118,7 +118,7 @@ small {
   line-height: 1.15;
   padding: 0.325em 0.5em;
 }
-.nav-link--current,
+.nav-link[aria-current="page"],
 .nav-link:focus,
 .nav-link:hover {
   background-color: #FFF;
