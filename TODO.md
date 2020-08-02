@@ -3,21 +3,26 @@ permalink: /TODO.md
 ---
 
 # TODO
-* Merge media queries
-* Replace CSS Vars with HEX Values
 * Membership updated layout
 * Membership Fees: tables
 * Tables Styles
 ** /news/lapierre-series-winners-2019/
+* ALERT for COVID notice
+* Header brand logo as embedded SVG
+* Footer brand logo as embedded SVG
+* Merge media queries
+* Replace CSS Vars with HEX Values
 * /news-events-and-results-submission/
 * News pagination
-* ALERT for COVID notice
 * Add Helmet for <head>
 ** Page specific inlined CSS using helmet: https://www.npmjs.com/package/eleventy-plugin-helmet
 ** Helmet for SEO
+* Events in navigation open in external window with indicator?
 * Open Graph in <head>
 * Favicon
 * apple-touch-icon
+* Full a11y audit
+* PWA support
 * Do we required carousels?
 * Netlify CMS
 ** Add Netlify Identity to home using Helmet <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
