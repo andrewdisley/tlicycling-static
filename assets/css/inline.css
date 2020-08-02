@@ -244,9 +244,6 @@ main a[href]:hover {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
-.title:not(:first-child) {
-  margin-top: 0.125em;
-}
 
 .subtitle,
 .mdit > h2:not(.title) {
@@ -260,9 +257,15 @@ main a[href]:hover {
   margin-bottom: 0.5em;
 }
 
-.mdit h2,
-.mdit h3 {
+.mdit h1:not(:first-child),
+.mdit h2:not(:first-child),
+.mdit h3:not(:first-child) {
   margin-top: 1.25em;
+}
+
+.title:not(:first-child),
+.mdit > .title:not(:first-child) {
+  margin-top: 0.125em;
 }
 
 .mdit blockquote:not(:last-child),
@@ -278,6 +281,9 @@ main a[href]:hover {
   margin-top: 1em;
 }
 
+.mdit li + li {
+  margin-top: 0.25em;
+}
 
 blockquote {
   border-left: 2px solid;
@@ -424,7 +430,6 @@ table {
 .news {
   margin: 3em auto 2em;
   margin-top: 3em;
-  padding: 0 1em;
 }
 /* When on /news/ remove top margin, .news must be first child of article */
 article .news:first-child {
