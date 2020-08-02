@@ -362,7 +362,6 @@ table {
 /* START: .intro */
 .intro {
   margin-bottom: 2em;
-  padding: 0 1em;
 }
 @media screen and (min-width: 768px) {
   .intro {
@@ -389,7 +388,9 @@ table {
 /* END: .intro */
 
 /* START: .promo */
-.promo {}
+.promo {
+  margin: 0 -1em; /* negative margin-x to counter main padding */
+}
 .promo-body {
   order: -9999;
   padding: 2em 1em;
@@ -410,6 +411,9 @@ table {
   }
 }
 @media screen and (min-width: 1024px) {
+  .promo {
+    margin: 0;
+  }
   .promo-body {
     padding: 3em;
   }
