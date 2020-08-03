@@ -42,18 +42,17 @@ module.exports = function(eleventyConfig) {
 
   // CleanCSS
   // https://github.com/jakubpawlowicz/clean-css
-  const cleanCSSOptions = {
-    level: {
-      1: {
-        specialComments: false
-      },
-      2: {
-        all: true
-      }
-    }
-  };
-
   eleventyConfig.addFilter("cssmin", function(code) {
+    const cleanCSSOptions = {
+      level: {
+        1: {
+          specialComments: false
+        },
+        2: {
+          all: true
+        }
+      }
+    };
     return new CleanCSS(cleanCSSOptions).minify(code).styles;
   });
 
