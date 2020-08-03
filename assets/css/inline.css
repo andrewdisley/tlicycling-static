@@ -58,7 +58,7 @@ svg {
   padding: 1em 1em 0;
   text-align: center;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   .header {
     padding: 1em;
     text-align: left;
@@ -89,7 +89,7 @@ svg {
   background-color: #FFF;
   color: #004182;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   .brand {
     flex-shrink: 0;
     margin: 0 1em 0 0;
@@ -123,9 +123,11 @@ svg {
 .nav-link {
   color: #FFF;
   display: inline-block;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.15;
   padding: 0.325em 0.5em;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 .nav-link[aria-current="page"],
 .nav-link:focus,
@@ -134,7 +136,7 @@ svg {
   color: #004182;
   text-decoration: none;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   .nav {
     margin: 0;
   }
