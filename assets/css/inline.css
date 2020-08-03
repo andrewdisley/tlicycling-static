@@ -178,8 +178,8 @@ main a[href]:hover {
   align-items: center;
   background-color: transparent;
   border-radius: 2px;
-  border: 2px solid var(--color-grey);
-  color: var(--color-grey);
+  border: 2px solid #595F6B;
+  color: #595F6B;
   cursor: pointer;
   display: inline-flex;
   font-family: inherit;
@@ -201,7 +201,7 @@ main a[href]:hover {
   -webkit-appearance: none;
   -webkit-font-smoothing: antialiased;
 }
-.btn:focus, .btn:hover { background-color: var(--color-grey); color: #FFF; }
+.btn:focus, .btn:hover { background-color: #595F6B; color: #FFF; }
 .btn-white { background-color: #FFF; border-color: #FFF; color: #242424; }
 .btn-white:focus, .btn-white:hover { background-color: transparent; color: #FFF; }
 .btn-white-outline { background-color: transparent; border-color: #FFF; color: #FFF; }
