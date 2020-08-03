@@ -15,12 +15,22 @@ eleventyExcludeFromSitemap: true
 renderData:
   title: "Tagged “{{ tag }}”"
 ---
+<article class="container">
 
-<h1>Tagged “{{ tag }}”</h1>
+  <div class="news">
 
-{% set postslist = collections[ tag ] %}
-{% include "components/postslist.njk" %}
+    <section class="news-title">
+      <h1>News posts tagged “{{ tag }}”</h1>
+    </section>
 
-<nav>
-  <a href="{{ '/news/' | url }}">← News index</a>
-</nav>
+    <section class="news-items">
+      {% set postslist = collections[ tag ] %}
+      {% include "components/postslist.njk" %}
+      <nav>
+        <a href="{{ '/news/' | url }}">← News index</a>
+      </nav>
+    </section>
+
+  </div>
+
+</article>
