@@ -9,13 +9,13 @@
   <link crossorigin rel="preload" href="/assets/fonts/lato-v16-latin-regular.woff2" as="font" type="font/woff2">
   {# END: Preload #}
   {% set css %}
-    {% include "assets/css/reset.css" %}
-    {% include "assets/css/fonts.css" %}
-    {% include "assets/css/inline.css" %}
+    {% include "../../assets/css/reset.css" %}
+    {% include "../../assets/css/fonts.css" %}
+    {% include "../../assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {% set js %}
-    {% include "assets/js/inline.js" %}
+    {% include "../../assets/js/inline.js" %}
   {% endset %}
   {#<script>{{ js | jsmin | safe }}</script>#}
 </head>

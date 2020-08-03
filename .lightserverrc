@@ -1,13 +1,13 @@
 {
  "port": 3000,
- "serve": "_site",
+ "serve": "dist",
  // "bind": "localhost",
  // "delay": 100,
  "quiet": true,
  "http2": false,
  "open": false,
  "watchexps": [
-    "_site/*.*",
-    "_site/**/*.*"
+    "dist/*.*",
+    "dist/**/*.*"
  ]
 }

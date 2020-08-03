@@ -4,7 +4,7 @@
   "description": "The TLI Cycling website build using Eleventy and deployed to Netlify.",
   "scripts": {
     "build": "npx eleventy",
-    "clean": "rm -rf _site",
+    "clean": "rm -rf dist",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
     "serve": "light-server -c .lightserverrc",

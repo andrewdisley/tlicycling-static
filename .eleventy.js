@@ -88,16 +88,6 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("_redirects");
-  eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy('BingSiteAuth.xml');
-  eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("google3a9cfc1297810bcd.html");
-  eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("u");
-
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItOptions = {
@@ -124,25 +114,29 @@ module.exports = function(eleventyConfig) {
     return mdIt.render(content);
   });
 
+  // PassthroughCopy
+  eleventyConfig.addPassthroughCopy("_redirects");
+  eleventyConfig.addPassthroughCopy("src/admin");
+  eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy('src/BingSiteAuth.xml');
+  eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("src/google3a9cfc1297810bcd.html");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy("u");
+
   eleventyConfig.setLibrary("md", mdIt);
 
   return {
-    templateFormats: ["md", "njk", "html", "liquid"],
-
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for URLs (it does not affect your file structure)
-    pathPrefix: "/",
-
-    markdownTemplateEngine: "liquid",
-    htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {
-      input: ".",
-      includes: "_includes",
       data: "_data",
-      output: "_site"
-    }
+      input: "src",
+      output: "dist"
+    },
+    htmlTemplateEngine: "njk",
+    markdownTemplateEngine: "liquid",
+    passthroughFileCopy: true,
+    pathPrefix: "/",
+    templateFormats: ["md", "njk", "html", "liquid"]
   };
 };

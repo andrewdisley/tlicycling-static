@@ -1,8 +1,3 @@
----
-permalink: /TODO.md
-eleventyExcludeFromCollections: true
----
-
 # TODO
 * Membership Fees: tables
 * ALERT for COVID notice
