@@ -5,27 +5,31 @@ section: membership
 
 <article class="container">
 
-  <section class="mb-2 md:mb-3 lg:flex">
-    <div class="mb-2 px-1 md:px-2 lg:mb-0 lg:pr-4 lg:w-65">
+  <section class="membership">
+    <div class="membership-body">
       <h1 class="pretitle">TLI Cycling Membership</h1>
       {% if annualMembership.title %}<h2 class="title">{{ annualMembership.title }}</h2>{% endif %}
       {% markdownit %}{{ annualMembership.body | safe }}{% endmarkdownit %}
     </div>
-    <div class="bgc-red p-1 tc-white md:mx-2 md:p-2 lg:mx-0 lg:w-35">
-      {% include "components/howtojoin.njk" %}
+    <div class="bgc-red tc-white promo membership-aside">
+      <div class="promo-body">
+        {% include "components/howtojoin.njk" %}
+      </div>
     </div>
   </section>
 
-  <section class="bgc-blue mb-2 p-1 tc-white md:mb-3 md:p-2">
-    {% if dayMembership.title %}<h2 class="title">{{ dayMembership.title }}</h2>{% endif %}
-    {% markdownit %}{{ dayMembership.body | safe }}{% endmarkdownit %}
+  <section class="bgc-blue tc-white promo">
+    <div class="promo-body">
+      {% if dayMembership.title %}<h2 class="title">{{ dayMembership.title }}</h2>{% endif %}
+      {% markdownit %}{{ dayMembership.body | safe }}{% endmarkdownit %}
+    </div>
   </section>
 
-  <section class="mb-2 p-1 md:p-2">
-    {% if ageCategories.title %}<h2 class="title">{{ ageCategories.title }}</h2>{% endif %}
-    {% markdownit %}{{ ageCategories.body | safe }}{% endmarkdownit %}
+  <section class="promo">
+    <div class="promo-body">
+      {% if ageCategories.title %}<h2 class="title">{{ ageCategories.title }}</h2>{% endif %}
+      {% markdownit %}{{ ageCategories.body | safe }}{% endmarkdownit %}
 
-    <div class="table mb-2">
 {% markdownit %}
 | Youth Categories | Male & Female |
 | - | - |
@@ -34,29 +38,17 @@ section: membership
 | From 1 January in year which 11th birthday falls to 31 December in year which 12th birthday falls | YC |
 | From 1 January in year which 13th birthday falls to 31 December in year which 14th birthday falls | YB |
 | From 1 January in year which 15th birthday falls to 31 December in year which 16th birthday falls | YA |
-{% endmarkdownit %}
-    </div>
 
-    <div class="table mb-2">
-{% markdownit %}
 | Para-Cycling Categories | Male & Female |
 | - | - |
 | MC 1 & 2 |  will compete with the age group 10 years older. (Two Categories Older). |
 | MC 3 | will compete with the age group 5 years older. (One Categories Older). |
 | MC 4 & 5 | will compete with their correct age related group. (No Category Change). |
-{% endmarkdownit %}
-    </div>
 
-    <div class="table mb-2">
-{% markdownit %}
 | Junior Age Categories | Male | Female |
 | - | - | - |
 | 16 or 17 | J | WJ |
-{% endmarkdownit %}
-    </div>
 
-    <div class="table">
-{% markdownit %}
 | Senior Age Categories | Male | Female |
 | - | - | - |
 | 18 – 29 | S | B |
@@ -70,16 +62,18 @@ section: membership
 | 70 - 74 | G | H |
 | 75+ | H | H |
 {% endmarkdownit %}
-    </div>
 
+    </div>
   </section>
 
-  <section class="mb-2 p-1 md:p-2">
-    {% if membershipFees.title %}<h2 class="title">{{ membershipFees.title }}</h2>{% endif %}
-    {% markdownit %}{{ membershipFees.body | safe }}{% endmarkdownit %}
-    <p>Youth £FREE/year 6-16 years old Membership from 1st February 2020 – 31st January 2021</p>
-    <p>Junior £10/year 16 or 17 years old Membership from 1st February 2020 – 31st January 2021</p>
-    <p>Senior £15/year 18 years plus Membership from 1st February 2020 – 31st January 2021</p>
+  <section class="promo">
+    <div class="promo-body">
+      {% if membershipFees.title %}<h2 class="title">{{ membershipFees.title }}</h2>{% endif %}
+      {% markdownit %}{{ membershipFees.body | safe }}{% endmarkdownit %}
+      <p>Youth £FREE/year 6-16 years old Membership from 1st February 2020 – 31st January 2021</p>
+      <p>Junior £10/year 16 or 17 years old Membership from 1st February 2020 – 31st January 2021</p>
+      <p>Senior £15/year 18 years plus Membership from 1st February 2020 – 31st January 2021</p>
+    </div>
   </section>
 
 </article>

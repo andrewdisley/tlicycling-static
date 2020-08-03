@@ -3,7 +3,6 @@ permalink: /TODO.md
 ---
 
 # TODO
-* Membership updated layout
 * Membership Fees: tables
 * Tables Styles
 ** /news/lapierre-series-winners-2019/
@@ -40,6 +39,7 @@ if (window.netlifyIdentity) {
 * Check for 404s: Bing Webmasters https://www.bing.com/webmasters/
 * Convert to Snowpack? https://github.com/pikapkg/create-snowpack-app/tree/master/templates/app-template-11ty
 * Eleventy plugins
+** Automated WebP? https://github.com/11ty/eleventy-img
 ** https://www.npmjs.com/package/eleventy-plugin-excerpt
 ** https://www.npmjs.com/package/eleventy-xml-plugin
 ** https://www.npmjs.com/package/eleventy-plugin-image

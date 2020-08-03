@@ -24,7 +24,7 @@ dayMembership:
     Day membership must be taken out for each day of a closed-circuit or off-road multi-stage race, but membership covers all stages on the same day (i.e. a time trial stage and a road race stage).
 
 
-    To join as a Day Member please go to the downloads section of this website to download a copy of the Event Entry & Day Membership application form.
+    To join as a Day Member please go to the [downloads](/downloads/) section of this website to download a copy of the Event Entry & Day Membership application form.
 
     Certain type of events such as circuit or cyclo-cross races, where the size of the field may not be limited, may allow you to turn up and enter on the day, but please do not rely on this! The event organiser probably has enough to worry about!
 
@@ -33,7 +33,7 @@ dayMembership:
     Do not expect the event organiser to have copies of the application form. It’s your responsibility to download one!
 ageCategories:
   title: Age Categories
-
+  body:
 membershipFees:
   title: Membership Fees
 
