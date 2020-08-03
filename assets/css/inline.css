@@ -73,15 +73,14 @@ svg {
 
 /* START: .brand */
 .brand {
-  margin-bottom: 0.75em;
+  margin: 0 0 0.5em;
 }
 .brand-link {
-  background-color: #A00;
   color: #FFF;
   display: inline-block;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.15;
-  padding: 0.5em 0.75em;
+  padding: 0.25em;
   text-decoration: none;
 }
 .brand-link:focus,
@@ -92,7 +91,7 @@ svg {
 @media screen and (min-width: 1024px) {
   .brand {
     flex-shrink: 0;
-    margin: 0 1em 0 0;
+    margin: -0.5em 1em -0.5em 0;
   }
 }
 /* END: .brand */
@@ -320,8 +319,7 @@ table {
   padding: 0.5em 0.325em;
 }
 .footer-brand {
-  display: block;
-  margin: 0 auto 2em;
+  margin: 0 0 2em;
 }
 .footer-legal {
   margin-bottom: 0.5em;
