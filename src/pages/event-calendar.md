@@ -6,4 +6,5 @@ eleventyNavigation:
   url: https://www.riderhq.com/events?type=RACE_TLICYCLING
   order: 4
   external: true
+eleventyExcludeFromSitemap: true
 ---
