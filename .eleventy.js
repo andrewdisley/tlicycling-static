@@ -40,9 +40,21 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, limit);
   });
 
-  // Minify CSS
+  // CleanCSS
+  // https://github.com/jakubpawlowicz/clean-css
+  const cleanCSSOptions = {
+    level: {
+      1: {
+        specialComments: false
+      },
+      2: {
+        all: true
+      }
+    }
+  };
+
   eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({level: 2}).minify(code).styles;
+    return new CleanCSS(cleanCSSOptions).minify(code).styles;
   });
 
   // Minify JS
