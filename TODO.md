@@ -5,9 +5,6 @@ eleventyExcludeFromCollections: true
 
 # TODO
 * Membership Fees: tables
-* Tables Styles
-** /news/lapierre-series-winners-2019/
-
 * ALERT for COVID notice
 * /news-events-and-results-submission/
 * News pagination

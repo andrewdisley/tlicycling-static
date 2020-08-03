@@ -16,12 +16,12 @@ The race is a handicap race, starting at Jurby in the north of the Isle Of Man, 
 
 Massive respect to the organising club Manx Viking Wheelers for putting a great event on over this busy period.
 
-> Winner winner. Mega Hamper fully of goodies for winning the Manx Hamper Race. A win that ranks right up there. Thanks to Manx Viking Wheelers for organising @ Onchan, Isle Of Man https://t.co/6oOyYHQ7M2
+> Winner winner. Mega Hamper fully of goodies for winning the Manx Hamper Race. A win that ranks right up there. Thanks to Manx Viking Wheelers for organising @ Onchan, Isle Of Man [https://t.co/6oOyYHQ7M2](https://t.co/6oOyYHQ7M2){target=_blank rel="noopener noreferrer"}
 >
-> — Ben Swift (@swiftybswift) [December 29, 2019](https://twitter.com/swiftybswift/status/1211315573075955712)
+> — Ben Swift (@swiftybswift) [December 29, 2019](https://twitter.com/swiftybswift/status/1211315573075955712){target=_blank rel="noopener noreferrer"}
 
 
-> The World Famous @MVWcc Christmas Hamper Road Race was held at Jurby, IOM, this morning. @swiftybswift won, @ryanmullen9 2nd and @ChrisLawless95 3rd. @HarrisonJ855 best Junior, @Tylerhannay2 best youth, @lizzie_holden best lady. In a star studded field. pic.twitter.com/wTTVGCXqb0
+> The World Famous @MVWcc Christmas Hamper Road Race was held at Jurby, IOM, this morning. @swiftybswift won, @ryanmullen9 2nd and @ChrisLawless95 3rd. @HarrisonJ855 best Junior, @Tylerhannay2 best youth, @lizzie_holden best lady. In a star studded field. [https://pic.twitter.com/wTTVGCXqb0](https://pic.twitter.com/wTTVGCXqb0){target=_blank rel="noopener noreferrer"}
 >
-> — Team Utmost IOM (@IOMJnrCycling) (December 29, 2019)[https://twitter.com/IOMJnrCycling/status/1211273194826543106?ref_src=twsrc%5Etfw]
+> — Team Utmost IOM (@IOMJnrCycling) [December 29, 2019](https://twitter.com/IOMJnrCycling/status/1211273194826543106){target=_blank rel="noopener noreferrer"}
 

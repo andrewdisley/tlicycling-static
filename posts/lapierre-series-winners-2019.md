@@ -21,91 +21,29 @@ Overall winner Thomas McCormack Element Cycling Team
 
 ## Overall Series Results {.subtitle}
 
-<div class="table mb-4">
-  <table role="grid">
-    <thead>
-      <tr role="row">
-        <th rowspan="1" colspan="1">Pos</th>
-        <th rowspan="1" colspan="1">Name</th>
-        <th rowspan="1" colspan="1">Club / Team</th>
-        <th rowspan="1" colspan="1">Points</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr role="row">
-        <td>1st</td><td>Thomas McCormack</td><td>Element CT</td><td>22</td>
-      </tr>
-      <tr role="row">
-        <td>2nd</td><td>Dave Cuming</td><td>GWRT H2</td><td>21</td>
-      </tr>
-      <tr role="row">
-        <td>3rd</td><td>Steve Fidler</td><td>3C Payments</td><td>20</td>
-      </tr>
-      <tr role="row">
-        <td>4th</td><td>Mark Hammersley</td><td>GWRT H2</td><td>17</td>
-      </tr>
-      <tr role="row">
-        <td>5th</td><td>Gareth McGuiness</td><td>Energy CC</td><td>16</td>
-      </tr>
-      <tr role="row">
-        <td>6th</td><td>Graham Weigh</td><td>GWRT H2</td><td>16</td>
-      </tr>
-      <tr role="row">
-        <td>7th</td><td>Keith Jones</td><td>GWRT H2</td><td>16</td>
-      </tr>
-      <tr role="row">
-        <td>8th</td><td>Geoff Rawlinson</td><td>St. Helens CRC</td><td>15</td>
-      </tr>
-      <tr role="row">
-        <td>9th</td><td>Karl Smith</td><td>Bott CT</td><td>14</td>
-      </tr>
-      <tr role="row">
-        <td>9th</td><td>Alan Forrester</td><td>GWRT H2</td><td>14</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+|Pos|Name|Club / Team|Points|
+|-|-|-|-|
+|1st|Thomas McCormack|Element CT|22|
+|2nd|Dave Cuming|GWRT H2|21|
+|3rd|Steve Fidler|3C Payments|20|
+|4th|Mark Hammersley|GWRT H2|17|
+|5th|Gareth McGuiness|Energy CC|16|
+|6th|Graham Weigh|GWRT H2|16|
+|7th|Keith Jones|GWRT H2|16|
+|8th|Geoff Rawlinson|CRC|15|
+|9th|Karl Smith|Bott CT|14|
+|9th|Alan Forrester|GWRT H2|14|
 
 ## Overall Category Winners {.subtitle}
 
-<div class="table mb-4">
-  <table role="grid">
-    <thead>
-      <tr role="row">
-        <th rowspan="1" colspan="1">Pos</th>
-        <th rowspan="1" colspan="1">Name</th>
-        <th rowspan="1" colspan="1">Club / Team</th>
-        <th rowspan="1" colspan="1">Points</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr role="row">
-        <td>S</td><td>Mark Wilkinson</td><td>Element CT</td><td>10</td>
-      </tr>
-      <tr role="row">
-        <td>M</td><td>Steve Fidler</td><td>3C Payments</td><td>20</td>
-      </tr>
-      <tr role="row">
-        <td>A</td><td>Thomas McCormack</td><td>Element CT</td><td>22</td>
-      </tr>
-      <tr role="row">
-        <td>B</td><td>Nigel Modlinsky</td><td>Element CT</td><td>14</td>
-      </tr>
-      <tr role="row">
-        <td>C</td><td>Gareth McGuiness</td><td>Energy CC</td><td>16</td>
-      </tr>
-      <tr role="row">
-        <td>D</td><td>Mark Hammersley</td><td>GWRT H2</td><td>17</td>
-      </tr>
-      <tr role="row">
-        <td>E</td><td>Geoff Rawlinson</td><td>St. Helens CRC</td><td>15</td>
-      </tr>
-      <tr role="row">
-        <td>F</td><td>Dave Cuming</td><td>GWRT H2</td><td>21</td>
-      </tr>
-      <tr role="row">
-        <td>G/H</td><td>Dave Woods</td><td>CC Luton</td><td>11</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+|Cat|Name|Club / Team|Points|
+|-|-|-|-|
+|S|Mark Wilkinson|Element CT|10|
+|M|Steve Fidler|3C Payments|20|
+|A|Thomas McCormack|Element CT|22|
+|B|Nigel Modlinsky|Element CT|14|
+|C|Gareth McGuiness|Energy CC|16|
+|D|Mark Hammersley|GWRT H2|17|
+|E|Geoff Rawlinson|St. Helens CRC|15|
+|F|Dave Cuming|GWRT H2|21|
+|G/H|Dave Woods|CC Luton|11|

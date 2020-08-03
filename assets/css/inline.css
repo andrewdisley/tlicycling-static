@@ -33,6 +33,16 @@ a:not(:hover) {
   text-decoration: none;
 }
 
+blockquote {
+  border-left: 2px solid #CCC;
+  margin: 2em 1em;
+  padding: 1em;
+}
+
+blockquote >:last-child {
+  margin-bottom: 0;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-size: inherit;
   font-weight: inherit;
@@ -49,6 +59,27 @@ small {
 svg {
   fill: currentColor;
   vertical-align: middle;
+}
+
+table {
+  margin: 1em 0 2em;
+  width: 100%;
+}
+
+table td,
+table th {
+  border: 1px solid #CCC;
+  border-width: 0 0 1px;
+  padding: 0.5em 0.75em;
+  vertical-align: top;
+}
+
+table thead td,
+table thead th {
+  border-width: 0 0 2px;
+  font-weight: 700;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 
 /* START: .header */
@@ -290,18 +321,6 @@ main a[href]:not(.btn):hover {
 .mdit li + li {
   margin-top: 0.25em;
 }
-
-blockquote {
-  border-left: 2px solid;
-  margin: 2em 1em;
-  padding: 1em;
-}
-
-/* TODO: Table styles */
-table {
-  width: 100%;
-}
-
 /* EMD: markdown (.mdit) content */
 
 /* START: .footer */
