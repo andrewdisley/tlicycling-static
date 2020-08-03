@@ -8,9 +8,6 @@ permalink: /TODO.md
 * Tables Styles
 ** /news/lapierre-series-winners-2019/
 * ALERT for COVID notice
-* Header brand logo as embedded SVG
-* Footer brand logo as embedded SVG
-* Merge media queries
 * /news-events-and-results-submission/
 * News pagination
 * Add Helmet for <head>
