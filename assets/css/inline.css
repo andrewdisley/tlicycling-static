@@ -228,12 +228,6 @@ main a[href]:hover {
 }
 /* END: buttons */
 
-/* START: article styles */
-/* TODO: main or .markdown? */
-/*article p:not(:last-child):not(.subtitle) { margin-bottom: 1.25em; }
-*/
-/* END: article styles */
-
 /* START: markdown (.mdit) content */
 .title,
 .mdit > h1:not(.pretitle) {
