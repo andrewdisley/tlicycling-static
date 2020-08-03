@@ -161,8 +161,8 @@ main a[href]:not(.btn):visited {
   font-weight: 500;
   text-decoration: underline;
 }
-main a[href]:focus,
-main a[href]:hover {
+main a[href]:not(.btn):focus,
+main a[href]:not(.btn):hover {
   text-decoration: none;
 }
 @media screen and (min-width: 768px) {
@@ -526,9 +526,15 @@ article .news:first-child {
 /* START: Color utilities */
 .bgc-blue { background-color: #004182; }
 .bgc-red { background-color: #A00; }
-.tc-blue { color: #004182; }
+/*.tc-blue { color: #004182; }
+.tc-blue a[href]:not(.btn),
+.tc-blue a[href]:not(.btn):visited { color: #004182; }
 .tc-red { color: #A00; }
+.tc-red a[href]:not(.btn),
+.tc-red a[href]:not(.btn):visited { color: #A00; }*/
 .tc-white { color: #FFF; }
+.tc-white a[href]:not(.btn),
+.tc-white a[href]:not(.btn):visited { color: #FFF; }
 /* END: Color utilities */
 
 /* START: Aspect Ratio */
