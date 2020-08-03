@@ -10,6 +10,7 @@ pagination:
     - posts
 permalink: /tags/{{ tag }}/
 layout: layouts/base.njk
+eleventyExcludeFromCollections: true
 renderData:
   title: "Tagged “{{ tag }}”"
 ---
