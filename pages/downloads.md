@@ -35,3 +35,8 @@ articleLayout: textonly
 * [Bike Marshals](https://www.bikemarshals.org/){target=_blank rel="noopener noreferrer"}
 * [Mersey Medical](https://www.merseymedical.co.uk/){target=_blank rel="noopener noreferrer"}
 * [Finish line Services](/finish-line-services/)
+
+## TLI Media
+* [TLI Cycling Logo](/assets/img/tlicycling-logo.svg) ![TLI Cycling Logo](/assets/img/tlicycling-logo.svg){height=72 width=120 style="margin:0.5em 0 1em;padding:0.25em"}
+* [TLI Cycling Logo Black](/assets/img/tlicycling-logo-black.svg) ![TLI Cycling Logo Black](/assets/img/tlicycling-logo-black.svg){height=72 width=120 style="margin:0.5em 0 1em;padding:0.25em"}
+* [TLI Cycling Logo White](/assets/img/tlicycling-logo-white.svg) ![TLI Cycling Logo White](/assets/img/tlicycling-logo-white.svg){.bgc-blue height=72 width=120 style="margin:0.5em 0 1em;padding:0.25em"}

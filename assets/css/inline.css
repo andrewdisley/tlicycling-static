@@ -46,6 +46,11 @@ small {
   font-size: 0.875rem;
 }
 
+svg {
+  fill: currentColor;
+  vertical-align: middle;
+}
+
 /* START: .header */
 .header {
   background-color: #004182;
