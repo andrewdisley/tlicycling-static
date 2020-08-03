@@ -221,11 +221,17 @@ main a[href]:not(.btn):hover {
   justify-content: space-between;
   margin: 1.5em 0;
 }
+.btn-group:last-child {
+  margin-bottom: 0;
+}
 .btn-group > * {
   padding: 0.5em 0;
 }
 .btn-group > *:not(:last-child) {
   margin-right: 0.75em;
+}
+.btn-group-sm {
+  display: flex;
 }
 @media screen and (min-width: 768px) {
   .btn-group {
