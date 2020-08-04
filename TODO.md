@@ -1,35 +1,22 @@
 # TODO
 * Membership Fees: tables
 * ALERT for COVID notice
-* /news-events-and-results-submission/
-* News pagination
-* Page specific inlined CSS using helmet: https://www.npmjs.com/package/eleventy-plugin-helmet
-* Helmet for SEO
-* Events in navigation open in external window with indicator?
 * Open Graph in <head>
-* Favicon
-* apple-touch-icon
+* News pagination
+* Temp content for /news-events-and-results-submission/
+* Netlify Form for /news-events-and-results-submission/
+* Page specific inlined CSS using helmet
+* Helmet for SEO
 * Full a11y audit
 * * Run a11y
 * * Remove external links?
 * PWA support
 * Do we required carousels?
 * Netlify CMS
-* * Add Netlify Identity to home using Helmet <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-* * Add Netlify Identity script to home using Helmet
-```
-if (window.netlifyIdentity) {
-  window.netlifyIdentity.on("init", user => {
-    if (!user) {
-      window.netlifyIdentity.on("login", () => {
-        document.location.href = "/admin/";
-      });
-    }
-  });
-}
-```
+* * Add Netlify Identity widget and script to Home
 * * Setup pages
 * * Setup posts
+* * Investigate using a different domain for Netlify CMS for perf cms.tlicycling.com
 * Check for 404s: Google Search Console
 * Check for 404s: Bing Webmasters https://www.bing.com/webmasters/
 * Convert to Snowpack? https://github.com/pikapkg/create-snowpack-app/tree/master/templates/app-template-11ty

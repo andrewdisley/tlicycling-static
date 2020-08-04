@@ -16,4 +16,11 @@
     {% include "../../assets/js/inline.js" %}
   {% endset %}
   {#<script>{{ js | jsmin | safe }}</script>#}
+  {# START: Favicons #}
+  {# IE 9 < ICO: 32x32 <!--[if IE]><link rel="shortcut icon" href="/favicon.ico"><![endif]--> #}
+  {# Touch Icons: iOS and Android PNG: 180x180 #}
+  <link href="/assets/img/tlicycling-icon-180.png" rel="apple-touch-icon">
+  {# Desktop: Chrome, Firefox, IE 11+, Opera, Safari: 192x192 #}
+  <link href="/assets/img/tlicycling-icon-192.png" rel="icon">
+  {# END: Favicons #}
 </head>
