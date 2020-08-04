@@ -10,6 +10,7 @@ media:
   src: /u/tli-home-about-4x3.jpg
 articleLayout: medialeft
 ---
+<meta data-helmet content="TLI Cycling is a voluntary sports organisation, supporting cycling clubs in the UK, the Channel Islands and the Isle of Man." name="description">
 
 # About TLI Cycling {.pretitle}
 

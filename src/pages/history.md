@@ -10,6 +10,7 @@ media:
   src:
 articleLayout: textonly
 ---
+<meta data-helmet content="Learn about the history of TLI Cycling. Formed in 1982 as The League International." name="description">
 
 # History of TLI Cycling {.title}
 

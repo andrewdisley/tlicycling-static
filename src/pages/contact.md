@@ -10,7 +10,6 @@ media:
   src:
 articleLayout: textonly
 ---
-
 # TLI Cycling Contact Points {.title}
 
 <div class="contacts">

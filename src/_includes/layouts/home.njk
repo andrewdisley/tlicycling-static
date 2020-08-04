@@ -2,6 +2,22 @@
 layout: layouts/base.njk
 section: home
 ---
+<meta name="description" content="TLI Cycling, age-related cycle sport for all. Supporting grassroots cycle racing for 35 Years" data-helmet />
+{# hide Netlify CMS
+<link rel="dns-prefetch" href="https://identity.netlify.com" data-helmet>
+<script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" data-helmet></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+#}
 
 <article class="container">
 
