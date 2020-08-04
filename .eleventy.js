@@ -4,33 +4,37 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const eleventyHelmetPlugin = require('eleventy-plugin-helmet');
 
-module.exports = function(eleventyConfig) {
+module.exports = (eleventyConfig) => {
 
-  // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
+  //
+  // Plugins
+  //
+
+  // Eleventy Navigation
+  // https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
-  // layout aliases! Say you have a bunch of existing content using
-  // layout: post. If you don’t want to rewrite all of those values, just map
-  // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
+  // Eleventy Helmet Plugin
+  // https://github.com/vseventer/eleventy-plugin-helmet
+  eleventyConfig.addPlugin(eleventyHelmetPlugin);
 
-  // Merge data instead of overriding
-  // https://www.11ty.dev/docs/data-deep-merge/
-  eleventyConfig.setDataDeepMerge(true);
+  //
+  // Filters
+  //
 
-  // Date formatting (human readable)
-  eleventyConfig.addFilter("readableDate", dateObj => {
+  // Date format (human readable)
+  eleventyConfig.addFilter("humanDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("EEEE DDD");
   });
 
-  // Date formatting (machine readable)
+  // Date format (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
-  // Date formatting (footer date)
+  // Date format (footer date)
   eleventyConfig.addFilter("footerDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
@@ -57,6 +61,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify JS
+  //
   eleventyConfig.addFilter("jsmin", function(code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
@@ -67,6 +72,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
+  //
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
@@ -80,6 +86,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Universal slug filter strips unsafe chars from URLs
+  //
   eleventyConfig.addFilter("slugify", function(str) {
     return slugify(str, {
       lower: true,
@@ -88,7 +95,8 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  /* Markdown Plugins */
+  // Markdown
+  //
   let markdownIt = require("markdown-it");
   let markdownItOptions = {
     html: true,
@@ -101,20 +109,24 @@ module.exports = function(eleventyConfig) {
   };
   let markdownItAttrs = require("markdown-it-attrs");
   let markdownItAttrsOptions = {
-    // optional, these are default options
     leftDelimiter: '{',
     rightDelimiter: '}',
-    allowedAttributes: [] // empty array = all attributes are allowed
+    allowedAttributes: []
   };
-
-  let mdIt = markdownIt(markdownItOptions).use(markdownItAnchor, markdownItAnchorOptions).use(markdownItAttrs, markdownItAttrsOptions)
+  let markdownLib = markdownIt(markdownItOptions).use(markdownItAnchor, markdownItAnchorOptions).use(markdownItAttrs, markdownItAttrsOptions)
+  eleventyConfig.setLibrary("md", markdownLib);
 
   // Exposes markdownit code pair for use with yaml data
   eleventyConfig.addPairedShortcode("markdownit", function(content) {
-    return mdIt.render(content);
+    return markdownLib.render(content);
   });
 
+  // Data deep merge
+  // https://www.11ty.dev/docs/data-deep-merge/
+  eleventyConfig.setDataDeepMerge(true);
+
   // PassthroughCopy
+  // https://www.11ty.dev/docs/copy/
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPassthroughCopy("src/admin");
   eleventyConfig.addPassthroughCopy("src/assets");
@@ -123,8 +135,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/google3a9cfc1297810bcd.html");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   eleventyConfig.addPassthroughCopy("u");
-
-  eleventyConfig.setLibrary("md", mdIt);
 
   return {
     dataTemplateEngine: "njk",
@@ -136,7 +146,7 @@ module.exports = function(eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "liquid",
     passthroughFileCopy: true,
-    pathPrefix: "/",
     templateFormats: ["md", "njk", "html", "liquid"]
   };
+
 };
