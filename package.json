@@ -34,7 +34,6 @@
     "markdown-it": "^11.0.0",
     "markdown-it-anchor": "^5.3.0",
     "markdown-it-attrs": "^3.0.3",
-    "markdown-it-div": "^1.1.0",
     "uglify-es": "^3.3.9"
   }
 }

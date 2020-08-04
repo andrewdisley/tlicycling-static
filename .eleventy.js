@@ -111,6 +111,7 @@ module.exports = (eleventyConfig) => {
     rightDelimiter: '}',
     allowedAttributes: []
   };
+
   let markdownLib = markdownIt(markdownItOptions).use(markdownItAnchor, markdownItAnchorOptions).use(markdownItAttrs, markdownItAttrsOptions)
   eleventyConfig.setLibrary("md", markdownLib);
 
