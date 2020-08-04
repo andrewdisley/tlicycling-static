@@ -6,7 +6,7 @@ tags:
   - news
 excludeFooterNav: true
 ---
-Go to [Rider HQ](https://www.riderhq.com/events?type=RACE_TLICYCLING){rel="noopener noreferrer" target=_blank} and either click on the Logo or the word “Events” at the top.
+Go to [Rider HQ](https://www.riderhq.com/events?type=RACE_TLICYCLING) and either click on the Logo or the word “Events” at the top.
 
 “Find your next event” will appear.
 Ensure That “TLI Cycling Event” is chosen from the drop-down menu, top left.
