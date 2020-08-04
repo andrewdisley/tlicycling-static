@@ -5,7 +5,7 @@
   <p class="news-item-summary">{{ post.data.summary }}</p>
   {% endif %}
   <div class="news-item-meta">
-    <time datetime="{{ post.date | machineDate }}"><small class="text-sm">{{ post.date | readableDate }}</small></time>
+    <time datetime="{{ post.date | machineDate }}"><small class="text-sm">{{ post.date | humanDate }}</small></time>
     {% if post.data.tags1 %}
     <p><small class="text-sm">
     {% for tag in post.data.tags %}
