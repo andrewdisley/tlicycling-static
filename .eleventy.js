@@ -58,8 +58,8 @@ module.exports = (eleventyConfig) => {
     return new CleanCSS(cleanCSSOptions).minify(code).styles;
   });
 
-  // Minify JS
-  //
+  // UglifyJS
+  // https://github.com/mishoo/UglifyJS/
   eleventyConfig.addFilter("jsmin", function(code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
@@ -69,8 +69,8 @@ module.exports = (eleventyConfig) => {
     return minified.code;
   });
 
-  // Minify HTML output
-  //
+  // HTMLMinifier
+  // https://github.com/kangax/html-minifier
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
