@@ -7,7 +7,7 @@
  "http2": false,
  "open": false,
  "watchexps": [
-    "src/*.*",
-    "src/**/*.*"
+    "dist/*.*",
+    "dist/**/*.*"
  ]
 }
