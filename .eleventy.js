@@ -25,21 +25,19 @@ module.exports = (eleventyConfig) => {
   //
 
   // Date format (human readable)
+  //
   eleventyConfig.addFilter("humanDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("EEEE DDD");
   });
 
   // Date format (machine readable)
+  //
   eleventyConfig.addFilter("machineDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
-  // Date format (footer date)
-  eleventyConfig.addFilter("footerDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("yyyy");
-  });
-
   // Limit posts
+  //
   eleventyConfig.addFilter("limitposts", function(array, limit) {
     return array.slice(0, limit);
   });
