@@ -1,5 +1,5 @@
 ---
-title: Coronavirus Update Monday 30th March 2020 – High Importance!
+title: Coronavirus Update Monday 30th March 2020 - High Importance!
 date: 2020-03-30T21:31:00.000Z
 summary: "To All TLI Cycling Members, Given the seriousness and uncertainty surrounding the spread and progression within the UK of the Coronavirus Pandemic, all TLI Cycling Competitive Events are cancelled until further notice."
 tags:
