@@ -5,6 +5,7 @@ const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyPluginNavigation = require("@11ty/eleventy-navigation");
 const eleventyPluginHelmet = require('eleventy-plugin-helmet');
+const eleventyPluginPWA = require("eleventy-plugin-pwa");
 
 module.exports = (eleventyConfig) => {
 
@@ -19,6 +20,12 @@ module.exports = (eleventyConfig) => {
   // Eleventy Helmet Plugin
   // https://github.com/vseventer/eleventy-plugin-helmet
   eleventyConfig.addPlugin(eleventyPluginHelmet);
+
+  // Eleventy PWA Plugin
+  // https://github.com/okitavera/eleventy-plugin-pwa
+  eleventyConfig.addPlugin(eleventyPluginPWA, {
+    swDest: "dist/sw.js"
+  });
 
   //
   // Filters
@@ -130,12 +137,14 @@ module.exports = (eleventyConfig) => {
 
   // PassthroughCopy
   // https://www.11ty.dev/docs/copy/
+  eleventyConfig.addPassthroughCopy("_headers");
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPassthroughCopy("src/admin");
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy('src/BingSiteAuth.xml');
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
   eleventyConfig.addPassthroughCopy("src/google3a9cfc1297810bcd.html");
+  eleventyConfig.addPassthroughCopy("src/manifest.webmanifest");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   eleventyConfig.addPassthroughCopy("u");
 

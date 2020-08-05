@@ -24,15 +24,19 @@
   <link href="/assets/img/tlicycling-icon-192.png" rel="icon">
   {# END: Favicons #}
   {# START: OG, Twitter #}
-  <meta property="og:site_name" content="{{ metadata.title }}"/>
-  <meta property="og:description" content="{{ metadata.description }}"/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content="{{ metadata.url }}"/>
-  <meta property="og:title" content="{{ metadata.title }}"/>
-  <meta property="og:image" content="{{ metadata.shareImage }}"/>
-  <meta property="og:image:width" content="1200"/>
-  <meta property="og:image:height" content="630"/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:site" content="@{{ metadata.twitter }}"/>
+  <meta property="og:site_name" content="{{ metadata.title }}">
+  <meta property="og:description" content="{{ metadata.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ metadata.url }}">
+  <meta property="og:title" content="{{ metadata.title }}">
+  <meta property="og:image" content="{{ metadata.shareImage }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ metadata.twitter }}">
   {# END: OG, Twitter #}
+  {# START: manifest #}
+  <link href="/manifest.webmanifest" rel="manifest">
+  <meta content="#004182" name="theme-color">
+  {# END: manifest #}
 </head>

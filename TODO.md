@@ -1,14 +1,12 @@
 # TODO
 * News pagination
+* News thumbnails?
 * Temp content for /news-events-and-results-submission/
 * Open Graph for Articles
 * Netlify Form for /news-events-and-results-submission/
 * Page specific inlined CSS using helmet
 * Helmet for SEO
 * Full a11y audit
-* * Run a11y
-* * Remove external links?
-* PWA support
 * Do we required carousels?
 * Netlify CMS
 * * Add Netlify Identity widget and script to Home

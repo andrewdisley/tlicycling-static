@@ -29,6 +29,7 @@
     "@11ty/eleventy-navigation": "^0.1.6",
     "clean-css": "^4.2.3",
     "eleventy-plugin-helmet": "^0.2.1",
+    "eleventy-plugin-pwa": "^1.0.8",
     "html-minifier": "^4.0.0",
     "luxon": "^1.24.1",
     "markdown-it": "^11.0.0",
