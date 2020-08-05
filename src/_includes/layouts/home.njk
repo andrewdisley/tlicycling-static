@@ -53,7 +53,7 @@ section: home
       {% if about.title %}<h2 class="title">{{ about.title }}</h2>{% endif %}
       {% if about.subtitle %}<p class="subtitle">{{ about.subtitle }}</p>{% endif %}
       {% markdownit %}{{ about.body | safe }}{% endmarkdownit %}
-      {% if about.button.link and about.button.text %}<a class="btn btn-red {{ about.button.classes }}" href="{{ about.button.link | url }}">{{ about.button.text }}</a>{% endif %}
+      {% if about.button.link and about.button.text %}<a class="btn btn-red" href="{{ about.button.link | url }}">{{ about.button.text }}</a>{% endif %}
     </div>
   </section>
 

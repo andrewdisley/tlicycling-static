@@ -10,7 +10,6 @@ about:
     TLI Cycling is a voluntary sports organisation, supporting cycling clubs in the UK, the Channel Islands and the Isle of Man, to organise competitive cycling events for all ages, entrants racing against others in their peer group. It is run on a not-for-profit basis entirely by unpaid volunteer members, any surplus being used to maintain, improve and develop TLI Cycling’s activities.
 
   button:
-    classes: bgc-red tc-white
     link: /about/
     text: About TLI Cycling
   media:
@@ -21,7 +20,6 @@ history:
   body:
     TLI Cycling has evolved out of The League International which was formed in 1982 from an idea conceived by the late Peter Duker and Roy Cottingham with the ambition of bringing to Great Britain racing for age related categories…
   button:
-    classes: bgc-red tc-white
     link: /history/
     text: History of TLI Cycling
   media:
@@ -32,7 +30,6 @@ membership:
   body: >
     Membership of TLI Cycling is available to everybody aged 6 years and over and costs £15 for those aged 18 and over, £10 for those aged 16 or 17 and is free to under 16 year olds.
   button:
-    classes: bgc-red tc-white
     link: /membership/
     text: TLI Cycling Membership
   media:
@@ -43,7 +40,6 @@ eventorganisation:
   body: >
     TLI Cycling would not exist if it were not for the team of volunteers who organize races under our rules and regulations. Therefore we aim to make all aspects of event promotion as simple and economical as possible, without compromising the safety of our competitors…
   button:
-    classes: bgc-red tc-white
     link: /event-organisation/
     text: Event Organisation
   media:
