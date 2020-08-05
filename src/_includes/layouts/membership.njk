@@ -70,9 +70,26 @@ section: membership
     <div class="promo-body">
       {% if membershipFees.title %}<h2 class="title">{{ membershipFees.title }}</h2>{% endif %}
       {% markdownit %}{{ membershipFees.body | safe }}{% endmarkdownit %}
-      <p>Youth £FREE/year 6-16 years old Membership from 1st February 2020 – 31st January 2021</p>
-      <p>Junior £10/year 16 or 17 years old Membership from 1st February 2020 – 31st January 2021</p>
-      <p>Senior £15/year 18 years plus Membership from 1st February 2020 – 31st January 2021</p>
+      <div class="tile-grid tile-grid-x3">
+        <div class="tile">
+          <h3 class="subtitle">Youth</h3>
+          <p>£FREE/year 6-16 years old</p>
+          <p><small>Membership from 1st February 2020 – 31st January 2021</small></p>
+          <a href="https://www.riderhq.com/groups/tli-cycling-0/join">Join</a> or <a href="https://www.riderhq.com/renew">Renew</a>
+        </div>
+        <div class="tile">
+          <h3 class="subtitle">Junior</h3>
+          <p>£10/year 16 or 17 years old</p>
+          <p><small>Membership from 1st February 2020 – 31st January 2021</small></p>
+          <a href="https://www.riderhq.com/groups/tli-cycling-0/join">Join</a> or <a href="https://www.riderhq.com/renew">Renew</a>
+        </div>
+        <div class="tile">
+          <h3 class="subtitle">Senior</h3>
+          <p>£15/year 18 years plus</p>
+          <p><small>Membership from 1st February 2020 – 31st January 2021</small></p>
+          <a href="https://www.riderhq.com/groups/tli-cycling-0/join">Join</a> or <a href="https://www.riderhq.com/renew">Renew</a>
+        </div>
+      </div>
     </div>
   </section>
 

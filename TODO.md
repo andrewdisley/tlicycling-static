@@ -1,5 +1,4 @@
 # TODO
-* Membership Fees: tables
 * ALERT for COVID notice
 * Open Graph in <head>
 * News pagination

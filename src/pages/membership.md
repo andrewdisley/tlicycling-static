@@ -1,7 +1,7 @@
 ---
 layout: layouts/membership.njk
 title: TLI Cycling Membership
-date: 2020-07-22T00:00:00.000Z
+date: 2020-08-05T10:34:00.000Z
 permalink: /membership/index.html
 eleventyNavigation:
   key: Membership
