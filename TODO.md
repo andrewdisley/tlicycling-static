@@ -1,5 +1,4 @@
 # TODO
-* ALERT for COVID notice
 * Open Graph in <head>
 * News pagination
 * Temp content for /news-events-and-results-submission/

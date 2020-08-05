@@ -210,6 +210,25 @@ main a[href]:not(.btn):hover {
 }
 /* END: .container */
 
+/* START: .notice */
+.notice {
+  border: 1px solid #ccc;
+  margin: 0 0 2em;
+  padding: 0.5em 1em;
+}
+.notice > * {
+  margin: 0;
+}
+.container .notice:first-child {
+  margin-top: -1em;
+}
+@media screen and (min-width: 768px) {
+  .container .notice:first-child {
+    margin-top: -2em;
+  }
+}
+/* END: .notice */
+
 /* START: buttons */
 .btn {
   align-items: center;
