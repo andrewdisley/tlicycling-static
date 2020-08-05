@@ -5,7 +5,6 @@ summary: "To All TLI Cycling Members, Given the seriousness and uncertainty surr
 tags:
   - news
   - racing
-excludeFooterNav: true
 ---
 To All TLI Cycling Members,
 

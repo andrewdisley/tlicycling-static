@@ -4,9 +4,7 @@ date: 2019-09-15T21:02:00.000Z
 summary: "It was a great pity that we lost events for various reasons, leaving only 4 counting races. Nonetheless they were hard fought and produced worthy winner, in some cases exceptional rides."
 tags:
   - news
-excludeFooterNav: true
 ---
-
 ![A racer celebrates on crossing the line first](/u/news-lapierre-series-winners-2019.jpg)
 
 It was a great pity that we lost events for various reasons, leaving only 4 counting races. Nonetheless they were hard fought and produced worthy winner, in some cases exceptional rides. Where riders have equal points then the most wins apply and if still equal the most 2nd places. Alan and Karl had exactly the same record.

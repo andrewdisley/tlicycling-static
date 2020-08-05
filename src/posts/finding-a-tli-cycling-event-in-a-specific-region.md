@@ -4,7 +4,6 @@ date: 2020-03-12T21:12:00.000Z
 summary: "Go to Rider HQ and either click on the Logo or the word “Events” at the top."
 tags:
   - news
-excludeFooterNav: true
 ---
 Go to [Rider HQ](https://www.riderhq.com/events?type=RACE_TLICYCLING) and either click on the Logo or the word “Events” at the top.
 

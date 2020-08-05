@@ -4,7 +4,6 @@ date: 2020-01-07T21:09:00.000Z
 summary: "Happy New Year from TLI Cycling and very Best Wishes for a rewarding cycling season in 2020."
 tags:
   - news
-excludeFooterNav: true
 ---
 Dear Member,
 

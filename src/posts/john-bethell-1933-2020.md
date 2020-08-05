@@ -4,9 +4,7 @@ date: 2020-03-18T21:14:00.000Z
 summary: "It is with great sadness I have to report the news of John Bethell’s passing. John was a key figure in the development and success of “The League International” (TLI)..."
 tags:
   - news
-excludeFooterNav: true
 ---
-
 ![Image of John Bethell racing](/u/news-john-bethell.jpg)
 
 It is with great sadness I have to report the news of John Bethell’s passing.

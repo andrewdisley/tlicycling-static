@@ -5,7 +5,6 @@ summary: "Update on coronavirus & racing: for all tli cycling members & supporte
 tags:
   - news
   - racing
-excludeFooterNav: true
 ---
 Dear TLI Cycling Member,
 

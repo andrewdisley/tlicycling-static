@@ -4,7 +4,6 @@ date: 2019-11-15T20:50:00.000Z
 summary: "Following the annual meeting on 27/10/19 I would like to bring the following to your attention: –"
 tags:
   - news
-excludeFooterNav: true
 ---
 Dear TLI Cycling Member / Prospective Members
 Following the annual meeting on 27/10/19 I would like to bring the following to your attention: –

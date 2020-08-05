@@ -4,7 +4,6 @@ date: 2019-12-15T21:05:00.000Z
 summary: "The annual Hamper Road Race was held under the TLI Cycling federation on the 29th December organised by Brian Johnson and his team from the Manx Viking Wheelers. This race has, and still does..."
 tags:
   - news
-excludeFooterNav: true
 ---
 ![Image of Ben Swift winning Manx Viking Hamper Race](/u/news-ben-swift-wins-manx-viking-hamper-race.jpg)
 
