@@ -3,8 +3,8 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const eleventyHelmetPlugin = require('eleventy-plugin-helmet');
+const eleventyPluginNavigation = require("@11ty/eleventy-navigation");
+const eleventyPluginHelmet = require('eleventy-plugin-helmet');
 
 module.exports = (eleventyConfig) => {
 
@@ -12,13 +12,13 @@ module.exports = (eleventyConfig) => {
   // Plugins
   //
 
-  // Eleventy Navigation
+  // Eleventy Navigation Plugin
   // https://www.11ty.dev/docs/plugins/navigation/
-  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPlugin(eleventyPluginNavigation);
 
   // Eleventy Helmet Plugin
   // https://github.com/vseventer/eleventy-plugin-helmet
-  eleventyConfig.addPlugin(eleventyHelmetPlugin);
+  eleventyConfig.addPlugin(eleventyPluginHelmet);
 
   //
   // Filters
