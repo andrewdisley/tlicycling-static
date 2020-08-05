@@ -1,7 +1,7 @@
 # TODO
-* Open Graph in <head>
 * News pagination
 * Temp content for /news-events-and-results-submission/
+* Open Graph for Articles
 * Netlify Form for /news-events-and-results-submission/
 * Page specific inlined CSS using helmet
 * Helmet for SEO

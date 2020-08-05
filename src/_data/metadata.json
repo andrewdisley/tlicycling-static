@@ -1,5 +1,8 @@
 {
+  "description": "TLI Cycling, Age-Related Cycle Sport For All. Supporting Grassroots Cycle Racing for 35 Years.",
+  "logo": "https://tlicycling.com/assets/img/tlicycling-icon-180.png",
   "title": "TLI Cycling",
-  "url": "https://tlicycling.com",
-  "description": "TLI Cycling, Age-Related Cycle Sport For All. Supporting Grassroots Cycle Racing for 35 Years."
+  "shareImage": "https://tlicycling.com/assets/img/share.jpg",
+  "twitter": "tli_cycling",
+  "url": "https://tlicycling.com"
 }

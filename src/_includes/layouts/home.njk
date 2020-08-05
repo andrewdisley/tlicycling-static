@@ -19,6 +19,21 @@ section: home
 </script>
 #}
 
+{# START: Structured Data #}
+<script type="application/ld+json" data-helmet>
+{
+  "@context" : "http://schema.org",
+  "@type" : "SportsOrganization",
+  "foundingDate": "1982",
+  "name": "{{ metadata.title }}",
+  "legalName": "TLI Cycling Ltd",
+  "logo" : "{{ metadata.logo }}",
+  "sport": "Cycling",
+  "url" : "{{ metadata.url }}"
+}
+</script>
+{# END: Structured Data #}
+
 <article class="container">
 
   <div class="notice">
