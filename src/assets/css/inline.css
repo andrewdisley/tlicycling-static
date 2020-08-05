@@ -7,7 +7,7 @@
   --color-grey-dark: #1D1D1D;
   --color-grey-light: #F0F4F5;
   --color-grey-medium: #CCC;
-  --color-red: #A00;
+  --color-red: #B60000;
 }*/
 
 html {
@@ -188,7 +188,7 @@ main {
 }
 main a[href]:not(.btn),
 main a[href]:not(.btn):visited {
-  color: #A00;
+  color: #B60000;
   font-weight: 500;
   text-decoration: underline;
 }
@@ -262,8 +262,8 @@ main a[href]:not(.btn):hover {
 .btn-white:focus, .btn-white:hover { background-color: transparent; color: #FFF; }
 .btn-white-outline { background-color: transparent; border-color: #FFF; color: #FFF; }
 .btn-white-outline:focus, .btn-white-outline:hover { background-color: #FFF; color: #242424; }
-.btn-red { background-color: #A00; border-color: #A00; color: #FFF; }
-.btn-red:focus, .btn-red:hover { background-color: transparent; color: #A00; }
+.btn-red { background-color: #B00000; border-color: #B00000; color: #FFF; }
+.btn-red:focus, .btn-red:hover { background-color: transparent; color: #B60000; }
 .btn-blue { background-color: #004182; border-color: #004182; color: #FFF; }
 .btn-blue:focus, .btn-blue:hover { background-color: transparent; color: #004182; }
 .btn-group {
@@ -344,7 +344,7 @@ main a[href]:not(.btn):hover {
 
 /* START: .footer */
 .footer {
-  background-color: #A00;
+  background-color: #B60000;
   color: #FFF;
   font-size: 0.875rem;
   padding: 2em 1em;
@@ -616,13 +616,13 @@ article .news:first-child {
 
 /* START: Color utilities */
 .bgc-blue { background-color: #004182; }
-.bgc-red { background-color: #A00; }
+.bgc-red { background-color: #B60000; }
 /*.tc-blue { color: #004182; }
 .tc-blue a[href]:not(.btn),
 .tc-blue a[href]:not(.btn):visited { color: #004182; }
-.tc-red { color: #A00; }
+.tc-red { color: #B60000; }
 .tc-red a[href]:not(.btn),
-.tc-red a[href]:not(.btn):visited { color: #A00; }*/
+.tc-red a[href]:not(.btn):visited { color: #B60000; }*/
 .tc-white { color: #FFF; }
 .tc-white a[href]:not(.btn),
 .tc-white a[href]:not(.btn):visited { color: #FFF; }
