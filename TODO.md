@@ -1,7 +1,8 @@
 # TODO
-* News pagination
 * News thumbnails?
+* News pagination
 * Temp content for /news-events-and-results-submission/
+* Reader View
 * Open Graph for Articles
 * Netlify Form for /news-events-and-results-submission/
 * Page specific inlined CSS using helmet
