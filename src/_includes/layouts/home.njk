@@ -3,22 +3,10 @@ layout: layouts/base.njk
 section: home
 ---
 <meta name="description" content="TLI Cycling, age-related cycle sport for all. Supporting grassroots cycle racing for 35 Years" data-helmet />
-{# hide Netlify CMS
 <link rel="dns-prefetch" href="https://identity.netlify.com" data-helmet>
+{# START: Netlify Identity Widget for Netlify CMS #}
 <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" data-helmet></script>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
-#}
-
+{# START: Netlify Identity Widget for Netlify CMS #}
 {# START: Structured Data #}
 <script type="application/ld+json" data-helmet>
 {
@@ -117,3 +105,17 @@ section: home
   </section>
 
 </article>
+
+{# START: Netlify Identity Widget for Netlify CMS #}
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+{# END: Netlify Identity Widget for Netlify CMS #}

@@ -1,11 +1,12 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: dev
 
-# Uncomment below to enable drafts
-# publish_mode: editorial_workflow
+# Editorial Workflow (drafts)
+publish_mode: editorial_workflow
 
-media_folder: "u" # Media files will be stored in the repo under /u
+# Media directory
+media_folder: "u"
 
 collections:
   # Our news posts
