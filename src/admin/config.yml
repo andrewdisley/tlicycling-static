@@ -8,7 +8,7 @@ site_url: https://www.tlicycling.com
 display_url: https://tlicycling.com
 
 # Editorial Workflow (drafts)
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 # Media directory
 media_folder: "src/u"
