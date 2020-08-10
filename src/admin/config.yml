@@ -6,7 +6,8 @@ backend:
 publish_mode: editorial_workflow
 
 # Media directory
-media_folder: "u"
+media_folder: "src/u"
+public_folder: "/u"
 
 collections:
   - name: "news"
