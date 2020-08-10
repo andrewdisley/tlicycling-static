@@ -146,7 +146,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy("src/google3a9cfc1297810bcd.html");
   eleventyConfig.addPassthroughCopy("src/manifest.webmanifest");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
-  eleventyConfig.addPassthroughCopy("u");
+  eleventyConfig.addPassthroughCopy("src/u");
 
   return {
     dataTemplateEngine: "njk",
