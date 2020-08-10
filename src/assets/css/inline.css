@@ -324,7 +324,6 @@ main a[href]:not(.btn):hover {
   margin-top: 0.125em;
 }
 
-.mdit blockquote:not(:last-child),
 .mdit ol:not(:last-child),
 .mdit table:not(:last-child),
 .mdit ul:not(:last-child) {
@@ -339,6 +338,14 @@ main a[href]:not(.btn):hover {
 
 .mdit li + li {
   margin-top: 0.25em;
+}
+
+.mdit img {
+  margin: 2em auto;
+  max-width: 100%;
+}
+.mdit img + br {
+  display: none;
 }
 /* EMD: markdown (.mdit) content */
 
@@ -561,19 +568,48 @@ article .news:first-child {
 }
 .news-item {
   box-shadow: 0 4px 0 0 #CCC;
+  display: flex;
   margin: 0 0 2em;
   padding: 0 0 1em;
 }
+.news-item-media {
+  order: 9999;
+  width: 40%;
+}
 .news-item-title {
-  font-size: 1.25rem;
+  font-size: 1rem;
   margin: 0 0 0.5em;
 }
 .news-item-summary {
   margin: 0 0 0.5em;
 }
+.news-item-meta {
+  margin-top: auto;
+}
+/* News item with media */
+.news-item-media + .news-item-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-right: 1em;
+  width: 60%;
+}
+.news-item-media + .news-item-body .news-item-summary {
+  /* hide summary on mobile if ...media is present */
+  display: none;
+}
 @media screen and (min-width: 768px) {
   .news {
     padding: 0 2em;
+  }
+  .news-item-media + .news-item-body {
+    justify-content: flex-start;
+  }
+  .news-item-media + .news-item-body .news-item-summary {
+    display: block;
+  }
+  .news-item-title {
+    font-size: 1.25em;
   }
 }
 @media screen and (min-width: 1024px) {

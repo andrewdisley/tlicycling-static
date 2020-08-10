@@ -1,21 +1,30 @@
 {% for post in postslist | reverse %}
 <article class="news-item" {% if post.url == url %} data-current="current item"{% endif %}>
-  <h2 class="news-item-title"><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}Untitled{% endif %}</a></h2>
-  {% if post.data.summary %}
-  <p class="news-item-summary">{{ post.data.summary }}</p>
+  {% if post.data.thumbnail %}
+  <div class="news-item-media">
+    <figure class="ar ar-16x9">
+      <img alt="" class="arm" loading="lazy" src="{{ post.data.thumbnail }}">
+    </figure>
+  </div>
   {% endif %}
-  <div class="news-item-meta">
-    <time datetime="{{ post.date | machineDate }}"><small class="text-sm">{{ post.date | humanDate }}</small></time>
-    {% if post.data.tags1 %}
-    <p><small class="text-sm">
-    {% for tag in post.data.tags %}
-    {%- if tag != "post" -%}
-    {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-      <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-    {%- endif -%}
-    {% endfor %}
-    </small></p>
+  <div class="news-item-body">
+    <h2 class="news-item-title"><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}Untitled{% endif %}</a></h2>
+    {% if post.data.summary %}
+    <p class="news-item-summary">{{ post.data.summary }}</p>
     {% endif %}
+    <div class="news-item-meta">
+      <time datetime="{{ post.date | machineDate }}"><small class="text-sm">{{ post.date | humanDate }}</small></time>
+      {% if post.data.tags1 %}
+      <p><small class="text-sm">
+      {% for tag in post.data.tags %}
+      {%- if tag != "post" -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+      {%- endif -%}
+      {% endfor %}
+      </small></p>
+      {% endif %}
+    </div>
   </div>
 </article>
 {% endfor %}

@@ -11,14 +11,16 @@ public_folder: "/u"
 
 collections:
   - name: "news"
-    label: "News"
-    folder: "src/posts/"
     create: true
+    editor:
+      preview: false
+    folder: "src/posts/"
+    label: "News"
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Thumbnail", name: "thumbnail", widget: "image", hint: "Thumbnail [400px by 400px] displayed on home and news index" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", hint: "Thumbnail [320px by 180px] displayed on home and news index", required: false }
+      - { label: "Tags", name: "tags", widget: "list", default: ["news"] }
       - { label: "Body", name: "body", widget: "markdown" }

@@ -2,6 +2,7 @@
 title: TLI Cycling Coronavirus Update (England) 9th July 2020
 date: 2020-07-09T21:05:00.000Z
 summary: "Update on coronavirus & racing: for all tli cycling members & supporters"
+thumbnail: /u/news-tlicycling-320x180.png
 tags:
   - news
   - racing

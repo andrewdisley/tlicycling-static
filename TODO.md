@@ -1,10 +1,8 @@
 # TODO
 * Netlify CMS
-* * Add Netlify Identity widget and script to Home
 * * Setup pages
-* * Setup posts
-* * Investigate using a different domain for Netlify CMS for perf cms.tlicycling.com
-* News thumbnails?
+* * Add Preview for News posts
+* * Add Preview for Pages
 * News pagination
 * Temp content for /news-events-and-results-submission/
 * Reader View
@@ -13,7 +11,7 @@
 * Page specific inlined CSS using helmet
 * SEO for all pages
 * Full a11y audit
-* Do we required carousels?
+* PWA Offline Message
 * Check for 404s: Google Search Console
 * Check for 404s: Bing Webmasters https://www.bing.com/webmasters/
 * Convert to Snowpack? https://github.com/pikapkg/create-snowpack-app/tree/master/templates/app-template-11ty
