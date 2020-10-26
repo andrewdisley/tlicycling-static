@@ -3,7 +3,7 @@ title: TLI Cycling Organisers Update for Events in 2021 (And All Current Members
   for Info)
 date: 2020-10-26T16:48:38.398Z
 summary: "Update on coronavirus & racing: for all tli cycling members & supporters"
-thumbnail: /u/tli-home-about-4x3.jpg
+thumbnail: /u/tli-sumerford-race-a4top.jpg
 tags:
   - news
 ---
