@@ -1,7 +1,7 @@
 ---
-title: JOINING OR REJOINING TLI CYCLING FOR 2021
+title: Joining or rejoining TLI Cycling for 2021
 date: 2020-12-02T20:43:58.357Z
-summary: MEMBERSHIP FEES 2021. (From NOW ‪until 28th Feb 2022‬)
+summary: Membership fess 2021 (From now until 28th Feb 2022)
 thumbnail: /u/news-tlicycling-320x180.png
 tags:
   - news
