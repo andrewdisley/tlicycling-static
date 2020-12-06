@@ -19,7 +19,7 @@ dayMembership:
   body: >
     Fancy having a go at cycle racing but don’t yet want to make the committment of applying for annual membership of TLI Cycling?
 
-    For certain closed-circuit races or off-road events, the organiser may allow you to compete as a TLI Cycling Day Member for only £10.00 (plus the cost of the race entry fee and any administration charge that the organiser may add), although for those aged under 18 years of age Day membership is free. This qualifies you a for ride in any one of the events that are organized in the UK throughout the year which are open to Day Members, although due to demand we can’t guarantee that you will be able to enter some of the more popular events which are often fully subscribed several weeks ahead of the date of the race, and where preference is given to full members.
+    For certain closed-circuit races or off-road events, the organiser may allow you to compete as a TLI Cycling Day Member for only £10.00 (plus the cost of the race entry fee and any administration charge that the organiser may add), although for those aged under 16 years of age Day membership is free. This qualifies you a for ride in any one of the events that are organized in the UK throughout the year which are open to Day Members, although due to demand we can’t guarantee that you will be able to enter some of the more popular events which are often fully subscribed several weeks ahead of the date of the race, and where preference is given to full members.
 
     Day membership must be taken out for each day of a closed-circuit or off-road multi-stage race, but membership covers all stages on the same day (i.e. a time trial stage and a road race stage).
 
