@@ -673,6 +673,14 @@ article .news:first-child {
 .ar-16x9 { padding-bottom: 56.25%; }
 /* END: Aspect Ratio */
 
+/* START: Display utilities */
+.d-b { display: block; }
+/* END: Display utilities */
+
+/* START: Font utilities */
+.font-400 { font-weight: 400;}
+/* END: Font utilities */
+
 /* START: Responsive utilities */
 /* END: Responsive utilities */
 
