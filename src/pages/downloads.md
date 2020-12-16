@@ -1,6 +1,6 @@
 ---
 title: TLI Cycling Downloads and Resources
-date: 2020-07-25T00:00:00.000Z
+date: 2020-12-16T00:00:00.000Z
 permalink: /downloads/index.html
 media:
   alt:
@@ -18,7 +18,7 @@ articleLayout: textonly
 ## Event Promotion Documents
 
 * [Event Application Form PDF](/u/TLICycling_Event-Application-Form-2021.pdf){download}
-* [Event Promoters Pack 2020 PDF](/u/TLICycling_Event-Promoters-Pack-2021.pdf){download}
+* [Event Promoters Pack 2021 PDF](/u/TLICycling_Event-Promoters-Pack-2021.pdf){download}
 * [Rider-HQ list your Event PDF](/u/TLICycling_Rider-HQ-list-a-Event.pdf){download}
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
 * [Time Trial Promotion & Coronavirus 2020 PDF](/u/TLICycling_COVID-TimeTrial-Promotion-Event-Guidance-2020.pdf){download}
