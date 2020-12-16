@@ -18,7 +18,7 @@ No Event Levies | No Event Registration Fees | No Commissaires Expenses {.subtit
 <div class="btn-group">
   <div><a class="btn btn-red" href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING">Add Your Event</a></div>
   <div>or download the</div>
-  <div><a class="btn btn-blue" download href="/u/TLICycling_Event-Promoters-Pack-2020.pdf">2020 Event Promoters Pack (PDF)</a></div>
+  <div><a class="btn btn-blue" download href="/u/TLICycling_Event-Promoters-Pack-2021.pdf">2020 Event Promoters Pack (PDF)</a></div>
 </div>
 
 TLI Cycling would not exist if it were not for the team of volunteers who organise races under our rules and regulations. Therefore we aim to make all aspects of event promotion as simple and economical as possible, without compromising the safety of our competitors, while at the same time ensuring that we cause minimum disruption to other road users.
@@ -38,7 +38,7 @@ Event insurance is provided for Public and Products Liability (£10,000,000); Em
 <div class="btn-group">
   <div><a class="btn btn-red" href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING">Add Your Event</a></div>
   <div>or download the</div>
-  <div><a class="btn btn-blue" download href="/u/TLICycling_Event-Promoters-Pack-2020.pdf">2020 Event Promoters Pack (PDF)</a></div>
+  <div><a class="btn btn-blue" download href="/u/TLICycling_Event-Promoters-Pack-2021.pdf">2020 Event Promoters Pack (PDF)</a></div>
 </div>
 
 You can find more documents relevent to event organising on the [downloads](/downloads/) page.

@@ -28,7 +28,7 @@ If any road race organiser wishes to apply to run their event as a TT or, if any
 
 TLI Cycling TTs will  be approved, only if they are on relatively traffic-free sporting courses, road bikes being preferred, but with TT bikes at the organisers discretion.
 
-Please read the guidance for TTs in the [Event Promoters Pack 2020 PDF](/u/TLICycling_Event-Promoters-Pack-2020.pdf){download} and refer to the [Time Trial Promotion & Coronavirus 2020 PDF](/u/TLICycling_COVID-TimeTrial-Promotion-Event-Guidance-2020.pdf){download} which must be followed and included with the Event Risk Assessment.
+Please read the guidance for TTs in the [Event Promoters Pack 2020 PDF](/u/TLICycling_Event-Promoters-Pack-2021.pdf){download} and refer to the [Time Trial Promotion & Coronavirus 2020 PDF](/u/TLICycling_COVID-TimeTrial-Promotion-Event-Guidance-2020.pdf){download} which must be followed and included with the Event Risk Assessment.
 
 ### Group Start Events {.subtitle}
 
