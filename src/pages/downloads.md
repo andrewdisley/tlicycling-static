@@ -31,7 +31,6 @@ articleLayout: textonly
 * [TLI Cycling Officials and Region Secretaries PDF](/u/TLICycling_Contact-Points-2020.pdf){download}
 * [TLI Cycling, Intro, Event Rules & Regs PDF](/u/TLICycling_Event-Rules-Regs-2020.pdf){download}
 * [Cycle Racing on Highways Regulations PDF](/u/TLICycling_Cycle-Racing-on-Highways-Regulations.pdf){download}
-* [TLI Cycling Response to Minister of Transport PDF](/u/TLICycling_Response-to-Minister-of-Transport.pdf){download}
 * [TLI Cycling Articles of Association PDF](/u/TLICycling_Articles-of-Association-2017.pdf){download}
 * [TLI Cycling Facebook Group](https://www.facebook.com/groups/tlinwmids)
 * [Bike Marshals](https://www.bikemarshals.org/)
