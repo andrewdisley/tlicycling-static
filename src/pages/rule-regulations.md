@@ -60,8 +60,11 @@ TLI Cycling competitors are allocated to age-related categories, as shown on the
 | From 1 January in year which 13th birthday falls to 31 December in year which 14th birthday falls | YB |
 | From 1 January in year which 15th birthday falls to 31 December in year which 16th birthday falls | YA |
 
-*On turning 16 riders have the option to compete either as a ‘Youth A’ or as a ‘J’ or, if female, as a ‘WJ’.
+*On turning 16 riders have the option to compete either as a 'Youth A' or as a 'J' or, if female, as a 'WJ'.
 **This is not reversible.**
+
+**Para-Cycling Categories** 
+Para cyclists who have previously self- identified to their Region representative will have been allocated a category for racing as follows:
 
 | Para-Cycling Categories | Male & Female |
 | - | - |
@@ -73,7 +76,7 @@ TLI Cycling competitors are allocated to age-related categories, as shown on the
 | - | - | - |
 | 16 or 17 | J | WJ |
 
-| Senior Age Categories | Male | Female |
+| **Senior Age Categories** **RIDERS AGE On the day of the race**{.d-b .font-400} | Male | Female |
 | - | - | - |
 | 18 – 29 | S | B |
 | 30 – 39 | M | C |
@@ -85,6 +88,8 @@ TLI Cycling competitors are allocated to age-related categories, as shown on the
 | 65 – 69 | F | H |
 | 70 - 74 | G | H |
 | 75+ | H | H |
+
+Note: Note: In the case of any dispute on the grounds of age or gender the details entered on the competitors original Birth Certificate will be the determining factor.
 
 ### 2.2 Any TLI Cycling member:
 may, at the discretion of the organiser, request a category reallocation if finding difficulty competing in their allotted category.
