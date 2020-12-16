@@ -52,11 +52,39 @@ All applicants for Membership, either new or renewing, must confirm they are not
 ### 2.1 Age Categories:
 TLI Cycling competitors are allocated to age-related categories, as shown on the TLI Cycling Membership Card / Licence. Such categories may change for Junior and Senior members depending on their age on the day of the event.
 
-Graph
+| Youth Categories | Male & Female |
+| - | - |
+| Aged 6 and over until 31 December of year in which 8th birthday falls | YE |
+| From 1 January in year which 9th birthday falls to 31 December in year which 10th birthday falls | YD |
+| From 1 January in year which 11th birthday falls to 31 December in year which 12th birthday falls | YC |
+| From 1 January in year which 13th birthday falls to 31 December in year which 14th birthday falls | YB |
+| From 1 January in year which 15th birthday falls to 31 December in year which 16th birthday falls | YA |
 
 *On turning 16 riders have the option to compete either as a ‘Youth A’ or as a ‘J’ or, if female, as a ‘WJ’.
 **This is not reversible.**
 
+| Para-Cycling Categories | Male & Female |
+| - | - |
+| MC 1 & 2 |  will compete with the age group 10 years older. (Two Categories Older). |
+| MC 3 | will compete with the age group 5 years older. (One Categories Older). |
+| MC 4 & 5 | will compete with their correct age related group. (No Category Change). |
+
+| Junior Age Categories | Male | Female |
+| - | - | - |
+| 16 or 17 | J | WJ |
+
+| Senior Age Categories | Male | Female |
+| - | - | - |
+| 18 – 29 | S | B |
+| 30 – 39 | M | C |
+| 40 – 44 | A | D |
+| 45 – 49 | B | E |
+| 50 – 54 | C | F |
+| 55 – 59 | D | G |
+| 60 – 64 | E | H |
+| 65 – 69 | F | H |
+| 70 - 74 | G | H |
+| 75+ | H | H |
 
 ### 2.2 Any TLI Cycling member:
 may, at the discretion of the organiser, request a category reallocation if finding difficulty competing in their allotted category.
