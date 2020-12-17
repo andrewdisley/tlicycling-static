@@ -1,3 +1,5 @@
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
 # PWA Service Worker
 /sw.js
   cache-control: max-age=0
