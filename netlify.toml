@@ -18,3 +18,12 @@
 
 [build.processing.images]
   compress = true
+
+[[plugins]]
+package = "netlify-plugin-csp-generator"
+
+  [plugins.inputs]
+  buildDir = "dist"
+
+  [plugins.inputs.policies]
+    defaultSrc = "'self' identity.netlify.com unpkg.com"
