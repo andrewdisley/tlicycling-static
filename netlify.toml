@@ -26,5 +26,4 @@ package = "netlify-plugin-csp-generator"
   buildDir = "dist"
 
   [plugins.inputs.policies]
-    defaultSrc = "'self' 'unsafe-hashes' 'unsafe-inline' identity.netlify.com unpkg.com"
-    imgSrc = "'self' data:"
+    defaultSrc = "'self' 'unsafe-hashes' identity.netlify.com unpkg.com"
