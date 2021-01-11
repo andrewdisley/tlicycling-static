@@ -2,7 +2,7 @@
 title: TLI Cycling National Championships 2021
 date: 2021-01-11T20:50:43.367Z
 summary: Event Dates
-thumbnail: /u/news-tlicycling-320x180.png
+thumbnail: /u/68766478_10218205093232961_5086890481481154560_o.jpg
 tags:
   - news
 ---
