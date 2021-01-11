@@ -5,10 +5,10 @@ section: home
 <meta name="description" content="TLI Cycling, age-related cycle sport for all. Supporting grassroots cycle racing for 35 Years" data-helmet />
 {# START: Netlify Identity Widget for Netlify CMS
   <link rel="dns-prefetch" href="https://identity.netlify.com" data-helmet>
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" nonce="tli@csp" data-helmet></script>
+  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" data-helmet></script>
 END: Netlify Identity Widget for Netlify CMS #}
 {# START: Structured Data #}
-<script type="application/ld+json" nonce="tli@csp" data-helmet>
+<script type="application/ld+json" data-helmet>
 {
   "@context" : "http://schema.org",
   "@type" : "SportsOrganization",
@@ -107,7 +107,7 @@ END: Netlify Identity Widget for Netlify CMS #}
 </article>
 
 {# START: Netlify Identity Widget for Netlify CMS
-<script nonce="tli@csp">
+<script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
       if (!user) {
