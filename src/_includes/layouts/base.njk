@@ -8,7 +8,7 @@
     </main>
     {% include "components/footer.njk" %}
     {% include "components/svg.njk" %}
-    <script>
+    <script nonce="tli@csp">
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', function() {
           navigator.serviceWorker.register('/sw.js');
