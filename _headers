@@ -1,5 +1,5 @@
 /*
-Content-Security-Policy: script-src 'self'; object-src 'self'
+Content-Security-Policy: default-src 'self'; font-src 'self'; img-src 'self', object-src 'self'; script-src 'self' https://identity.netlify.com https://unpkg.com;
 Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
 Referrer-Policy: no-referrer
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
