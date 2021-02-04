@@ -23,7 +23,7 @@ articleLayout: textonly
 * [Rider-HQ list your Event PDF](/u/TLICycling_Rider-HQ-list-a-Event.pdf){download}
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
 * [Time Trial Promotion & Coronavirus 2021 PDF](/u/TLICycling_COVID-TimeTrial-Promotion-Event-Guidance-2020.pdf){download}
-* [Police Notification 2021 PDF](/u/TLICycling_2021-TWIMC-Letter-TLI-Cycling.pdf){download}
+* [Police Notification 2021 PDF](/u/TLICycling_Police-Notification-2021.pdf){download}
 * [20210 Insurance Cover Note PDF](/u/TLICycling_2021-TWIMC-Letter-TLI-Cycling.pdf){download}
 * [Event Return Form PDF](/u/TLICycling_EventReturnForm-Download-2021.pdf){download}
 * [TLI Cycling Event Promoting Clubs](/organising-clubs-teams/)
