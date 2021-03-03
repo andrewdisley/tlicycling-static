@@ -10,7 +10,6 @@ articleLayout: textonly
 
 # 2020 Event Promoting Clubs and Teams {.title}
 
-* 3CPayment Sports
 * 8Point8 Racing team
 * Antelope Racing Team
 * Audlem CC
@@ -46,6 +45,7 @@ articleLayout: textonly
 * Team ASL
 * Team Echelon
 * VC Sevale
+* Velo 6 Racing
 * Velo Runner
 * Victoria Cycling Club
 * Warrington RC
