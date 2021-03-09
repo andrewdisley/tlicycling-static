@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "The TLI Cycling website build using Eleventy and deployed to Netlify.",
   "scripts": {
-    "build": "npx eleventy",
+    "build": "npx @11ty/eleventy",
     "clean": "rm -rf dist",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy",
+    "watch": "npx @11ty/eleventy --watch",
+    "debug": "DEBUG=* npx @11ty/eleventy",
     "serve": "light-server -c .lightserverrc",
     "dev": "NODE_ENV=development npm-run-all clean --parallel watch serve --print-label"
   },
