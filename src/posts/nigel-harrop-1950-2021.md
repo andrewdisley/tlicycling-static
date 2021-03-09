@@ -9,28 +9,28 @@ tags:
 ---
 ![](/u/news-nigel-harrop-2021.jpg)
 
-Nigel Harrop\
+**Nigel Harrop**\
 5th November 1950 - 17th February 2021\
 \
-TLI Cycling's National Secretary & Director Nigel Harrop sadly passed away 17th February 2021.  He was suddenly and unexpectedly taken ill at home, and rushed to hospital, but sadly died after surgery.
+TLI Cycling's National Secretary & Director Nigel Harrop sadly passed away on 17th February 2021.  He was suddenly and unexpectedly taken ill at home and rushed to the hospital, but sadly died after surgery.
 
 ![](/u/news-nigel-harrop-racing2.jpg)
 
 ![](/u/news-nigel-harrop-racing.jpg)
 
-Nigel was an extremely fit and passionate cyclist; he started cycling in his youth in the hills around Glossop where he grew up. His passion for cycling led onto racing where he became Manchester Schoolboy Division Champion; no mean feat in an area which is known for producing good cyclists. He had a number of triumphs on the tarmac, most notably in the 1976 season when he had several excellent wins and placings in road races.\
+Nigel was an extremely fit and passionate cyclist; he started cycling in his youth in the hills around Glossop where he grew up. His passion for cycling led to racing where he became Manchester Schoolboy Division Champion; no mean feat in an area that is known for producing good cyclists. He had a number of triumphs on the tarmac, most notably in the 1976 season when he had several excellent wins and placings in road races.\
 \
-Nigel qualified as a Geography and PE teacher and started his teaching career at Ordsall High in Salford, progressing to deputy head at Moorside High, and then in 1989 being appointed Head teacher of Wentworth High School in Salford. He was known as Mr Harrop to some of the TLI Cycling members, who were fortunate enough to be guided by Nigel in their early years at school.
+He qualified as a Geography and PE teacher and started his teaching career at Ordsall High in Salford, progressing to deputy head at Moorside High, and then in 1989 being appointed Headteacher of Wentworth High School in Salford. He was known as Mr. Harrop to some of the TLI Cycling members, who were fortunate enough to be guided by Nigel in their early years at school.
 
 ![](/u/news-nigel-harrop-racing1.jpg)
 
-Nigel took time out of cycling to raise his two children Jack and Amy with his wife Barbara but at the age of 50 his passion for cycling took a hold again, returning to racing where he had some great results as a veteran rider. Nigel was a member of Seamons Cycling Club in Altrincham, where he took on various roles including Chairman and later, President. He organised annual trips to the Alps and Majorca with club mates and friends.
+Nigel took time out of cycling to raise his two children Jack and Amy with his wife Barbara but at the age of 50, his passion for cycling took hold again, returning to racing where he had some great results as a veteran rider. Nigel was a member of Seamons Cycling Club in Altrincham, where he took on various roles including Chairman and later, President. He organised annual trips to the Alps and Majorca with club mates and friends.
 
 ![](/u/news-nigel-harrop-tli-2021.jpg)
 
-Nigel's involvement in the North west cycling and racing scene,ultimately led to his involvement as a volunteer with The League International taking on the role of North West Region Secretary. Bringing his friendly, calm, unflappable,determined style to the organisation. His often unseen hard work was pivotal to the success of the growth of cycling. In 2010 The League International became TLI Cycling under the guidance of Nigel and Geoff Readman. Nigel’s endless hard work was always for the benefit of cycle racing in the UK.\
+His involvement in the Northwest cycling and racing scene ultimately led to him becoming a volunteer with The League International, taking on the role of North West Region Secretary, bringing his friendly, calm, unflappable, determined style to the organisation. His often unseen hard work was pivotal to the positive success of the growth of cycling. In 2010 The League International became TLI Cycling under the guidance of Nigel and Geoff Readman. Nigel’s endless hard work was always for the benefit of cycle racing in the UK.\
 \
-Nigels funeral took place on the 5th March at Manchester Crematorium.\
+Nigel's funeral took place on the 5th March at Manchester Crematorium.\
 \
 He will be dearly missed by all who knew him.\
 Our thoughts are with his family, wife Barbara, children Jack and Amy.
