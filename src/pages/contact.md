@@ -46,10 +46,4 @@ articleLayout: textonly
     <a href="mailto:andrewwright@tlicycling.com">Email Andrew</a>
   </div>
 
-  <div class="tile">
-    <h2 class="subtitle">Steve Simpson</h2>
-    <p>National PR / FB / Website Transition</p>
-    <a href="mailto:stevesimpson@tlicycling.com">Email Steve</a>
-  </div>
-
 </div>
