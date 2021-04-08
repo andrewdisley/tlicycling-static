@@ -30,7 +30,7 @@ articleLayout: textonly
 
 ## Other
 
-* [TLI Cycling Officials and Region Secretaries PDF](/u/TLICycling_Contact-Points-2021_1.pdf){download}
+* [TLI Cycling Officials and Region Secretaries PDF](/u/TLICycling_Contact-Points-2021_V1.pdf){download}
 * [TLI Cycling, Intro, Event Rules & Regs PDF](/u/TLICycling_Event-Rules-Regs-2020.pdf){download}
 * [Cycle Racing on Highways Regulations PDF](/u/TLICycling_Cycle-Racing-on-Highways-Regulations.pdf){download}
 * [TLI Cycling Articles of Association PDF](/u/TLICycling_Articles-of-Association-2017.pdf){download}
