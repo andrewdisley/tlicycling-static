@@ -18,7 +18,7 @@ articleLayout: textonly
 ## Event Promotion Documents
 
 * [Event Application Form PDF](/u/TLICycling_Event-Application-Form-2021.pdf){download}
-* [Event Promoters Pack 2021 PDF](/u/TLICycling_Event-Promoters-Pack-2021.pdf){download}
+* [Event Promoters Pack 2021 PDF](/u/TLICycling_Event-Promoters-Pack-2021_V1.pdf){download}
 * [Event Risk Assessment 2021 PDF](/u/TLICycling_Risk-Assessment-2021.pdf){download}
 * [Rider-HQ list your Event PDF](/u/TLICycling_Rider-HQ-list-a-Event.pdf){download}
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
