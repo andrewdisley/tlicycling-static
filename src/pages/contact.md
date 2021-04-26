@@ -17,21 +17,15 @@ articleLayout: textonly
 <div class="tile-grid">
 
   <div class="tile">
-    <h2 class="subtitle">Nigel Harrop</h2>
-    <p>National Secretary & Director</p>
-    <a href="mailto:nigelharrop@tlicycling.com">Email Nigel</a>
+    <h2 class="subtitle">Rob Blackburn</h2>
+    <p>Director</p>
+    <a href="mailto:robertblackburn@tlicycling.com">Email Rob</a>
   </div>
 
   <div class="tile">
     <h2 class="subtitle">Mark Wood</h2>
     <p>National Treasurer</p>
     <a href="mailto:markwood@tlicycling.com">Email Mark</a>
-  </div>
-
-  <div class="tile">
-    <h2 class="subtitle">Rob Blackburn</h2>
-    <p>Director</p>
-    <a href="mailto:robertblackburn@tlicycling.com">Email Rob</a>
   </div>
 
   <div class="tile">
