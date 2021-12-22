@@ -22,7 +22,7 @@ Annual Membership for a member aged from **6** years up to his/her **16th** birt
 
 For a member aged **16 plus** on the date of the membership application – **£20.00**
 
-For none **none racing members* – **£10.00**
+For **none racing members** – **£10.00**
 
 ### 1.3 Day Membership
 Day Membership. For off-road events such as closed-circuit and Cyclo-cross races, Day Membership for those aged 16 (Juniors) and older is £10.00. This sum will be added by the event organiser to the entry fee for the race, together with any discretionary surcharge to cover their administration costs. Day membership, for those aged between 6 and 15 inclusive on the day of the event, is free.
