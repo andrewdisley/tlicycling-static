@@ -15,14 +15,14 @@ A copy of the TLI Cycling Rule and Regulations is available on the [downloads](/
 ## (1) Membership {.subtitle}
 
 ### 1.1 Membership of TLI Cycling
-Membership of TLI Cycling is available to everybody aged 6 years and over and is on an annual basis, with the year commencing on the 1st of January with the membership period expiring at the end of February in the following year. No refunds will be given to members who resign during the year. Any Member failing to renew their membership before 1 March shall be deemed to have resigned their membership and will then cease to receive the benefits of such membership, unless paying the Day Member fee for a single event.
+Membership of TLI Cycling is available to everybody aged 6 years and over and is on an annual basis, with the year commencing on the 1st of January with the membership period expiring at the end of January in the following year. No refunds will be given to members who resign during the year. Any Member failing to renew their membership before 1 February shall be deemed to have resigned their membership and will then cease to receive the benefits of such membership, unless paying the Day Member fee for a single event.
 
 ### 1.2 Annual Membership
-Annual Membership for a member aged from **6** years up to his/her **16th** birthday – **Free**
+Annual Membership for a member aged from **6** years up to his/her **16th** birthday – **£10**
 
-For a member aged **16/17** on the date of the membership application – **£10.00**
+For a member aged **16 plus** on the date of the membership application – **£20.00**
 
-For members aged **18** and over on the date of membership application – **£15.00**
+For none **none racing members* – **£10.00**
 
 ### 1.3 Day Membership
 Day Membership. For off-road events such as closed-circuit and Cyclo-cross races, Day Membership for those aged 16 (Juniors) and older is £10.00. This sum will be added by the event organiser to the entry fee for the race, together with any discretionary surcharge to cover their administration costs. Day membership, for those aged between 6 and 15 inclusive on the day of the event, is free.
@@ -76,7 +76,7 @@ Para cyclists who have previously self- identified to their Region representativ
 | - | - | - |
 | 16 or 17 | J | WJ |
 
-| **Senior Age Categories** **RIDERS AGE On the day of the race**{.d-b .font-400} | Male | Female |
+| **Senior Age Categories** **Riders will change category on 1st January of the year of their appropriate birthday**{.d-b .font-400} | Male | Female |
 | - | - | - |
 | 18 – 29 | S | B |
 | 30 – 39 | M | C |
