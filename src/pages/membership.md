@@ -15,22 +15,7 @@ annualMembership:
 
     TLI Cycling is a voluntary organisation, run by its members for the benefit of our members and as such, as a member, you are expected to be involved in our day to day activities and may be required to at least occasionally help out with the organisation or marshalling of events.
 dayMembership:
-  title: Day Membership
-  body: >
-    Fancy having a go at cycle racing but don’t yet want to make the committment of applying for annual membership of TLI Cycling?
 
-    For certain closed-circuit races or off-road events, the organiser may allow you to compete as a TLI Cycling Day Member for only £10.00 (plus the cost of the race entry fee and any administration charge that the organiser may add). This qualifies you a for ride in any one of the events that are organized in the UK throughout the year which are open to Day Members, although due to demand we can’t guarantee that you will be able to enter some of the more popular events which are often fully subscribed several weeks ahead of the date of the race, and where preference is given to full members.
-
-    Day membership must be taken out for each day of a closed-circuit or off-road multi-stage race, but membership covers all stages on the same day (i.e. a time trial stage and a road race stage).
-
-
-    To join as a Day Member please go to the [downloads](/downloads/) section of this website to download a copy of the Event Entry & Day Membership application form.
-
-    Certain type of events such as circuit or cyclo-cross races, where the size of the field may not be limited, may allow you to turn up and enter on the day, but please do not rely on this! The event organiser probably has enough to worry about!
-
-    You must present yourself to Race Control with a fully completed Event Entry & Day Membership application form at least 45 minutes before the start. Otherwise no ride!
-
-    Do not expect the event organiser to have copies of the application form. It’s your responsibility to download one!
 ageCategories:
   title: Age Categories
   body:
