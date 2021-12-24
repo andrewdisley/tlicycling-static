@@ -24,7 +24,7 @@ articleLayout: textonly
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
 * [Police Notification PDF](/u/TLICycling_Police-Notification-2021.pdf){download}
 * [2021 Insurance Cover Note PDF](/u/TLICycling_2021-TWIMC-Letter-TLI-Cycling.pdf){download}
-* [Event Return Form PDF](/u/TTLICycling_Event-Retuns-Form.pdf){download}
+* [Event Return Form PDF](/u/TLICycling_Event-Retuns-Form.pdf){download}
 * [TLI Cycling Event Promoting Clubs](/organising-clubs-teams/)
 
 ## Other
