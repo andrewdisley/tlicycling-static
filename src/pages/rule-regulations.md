@@ -15,42 +15,39 @@ A copy of the TLI Cycling Rule and Regulations is available on the [downloads](/
 ## (1) Membership {.subtitle}
 
 ### 1.1 Membership of TLI Cycling
-Membership of TLI Cycling is available to everybody aged 6 years and over and is on an annual basis, with the year commencing on the 1st of January with the membership period expiring at the end of February in the following year. No refunds will be given to members who resign during the year. Any Member failing to renew their membership before 1 March shall be deemed to have resigned their membership and will then cease to receive the benefits of such membership, unless paying the Day Member fee for a single event.
+Membership of TLI Cycling is available to everybody aged 6 years and over and is on an annual basis, with the year commencing on the 1st of January with the membership period expiring at the end of January in the following year. No refunds will be given to members who resign during the year. Any Member failing to renew their membership before 1 February shall be deemed to have resigned their membership and will then cease to receive the benefits of such membership.
 
 ### 1.2 Annual Membership
-Annual Membership for a member aged from **6** years up to his/her **16th** birthday – **Free**
+Annual Membership for a member aged from **6** years up to his/her **16th** birthday – **£10**
 
-For a member aged **16/17** on the date of the membership application – **£10.00**
+For a member aged **16 plus** on the date of the membership application – **£20.00**
 
-For members aged **18** and over on the date of membership application – **£15.00**
+For **none racing members** – **£10.00**
 
-### 1.3 Day Membership
-Day Membership. For off-road events such as closed-circuit and Cyclo-cross races, Day Membership for those aged 16 (Juniors) and older is £10.00. This sum will be added by the event organiser to the entry fee for the race, together with any discretionary surcharge to cover their administration costs. Day membership, for those aged between 6 and 15 inclusive on the day of the event, is free.
-
-### 1.4 Public Liability Insurance
+### 1.3 Public Liability Insurance
 Public Liability Insurance. All Members of TLI Cycling are indemnified by up to £10 Million Public Liability Insurance indemnity whilst competing in any TLI Cycling event or promotion. Taking part in events organised by ICF affiliated bodies in Europe is also included.
 
 **Junior Members**, and older, are also indemnified for general cycling activities except commuting. This indemnity is applicable within the UK & Northern Island, the Isle of Man and the Channel Islands.
 
-**Youth Members** (Free Membership) are indemnified whilst participating in TLI Cycling competitive events, but not for any other cycling activity.
+**Youth Members** are indemnified whilst participating in TLI Cycling competitive events, but not for any other cycling activity.
 
-### 1.5 Employers Liability and Professional Indemnity Insurance
+### 1.4 Employers Liability and Professional Indemnity Insurance
 Employers Liability and Professional Indemnity Insurance are held by TLI Cycling for the added protection of Organisers, Event Officials and National Council members.
 
 Please note that any accident or incident leading to a possible claim MUST be reported to the National Secretary as soon as is possible.
 
 There should be no admission of guilt nor should any dialogue or correspondence be entered into. Any correspondence received should be forwarded to the National Secretary on receipt.
 
-### 1.6 Any individual joining TLI Cycling
+### 1.5 Any individual joining TLI Cycling
 Any individual joining TLI Cycling agrees to uphold the current Rules, Regulations and Aims of TLI Cycling. They must not have a history of inappropriate participation or other unacceptable activity.
 
-### 1.7 All applicants for Membership
+### 1.6 All applicants for Membership
 All applicants for Membership, either new or renewing, must confirm they are not under suspension by any other cycling organisation and, if so, should present valid reasons as to why any such suspension should not apply to TLI Cycling activities.
 
 ## (2) Racing
 
 ### 2.1 Age Categories:
-TLI Cycling competitors are allocated to age-related categories, as shown on the TLI Cycling Membership Card / Licence. Such categories may change for Junior and Senior members depending on their age on the day of the event.
+TLI Cycling competitors are allocated to age-related categories, as shown on the TLI Cycling Membership Card / Licence.
 
 | Youth Categories | Male & Female |
 | - | - |
@@ -76,7 +73,7 @@ Para cyclists who have previously self- identified to their Region representativ
 | - | - | - |
 | 16 or 17 | J | WJ |
 
-| **Senior Age Categories** **RIDERS AGE On the day of the race**{.d-b .font-400} | Male | Female |
+| **Senior Age Categories** **Riders will change category on 1st January of the year of their appropriate birthday**{.d-b .font-400} | Male | Female |
 | - | - | - |
 | 18 – 29 | S | B |
 | 30 – 39 | M | C |
@@ -105,40 +102,37 @@ Organisers must not allow category changes to enable an individual to ride in th
 ### 2.3 Membership of other cycling bodies
 Membership of other cycling bodies does not bar participation in TLI Cycling events.
 
-### 2.4 TLI Cycling events:
-apart from those using the public highway, are open to riders who are not Full Members by way of a Day Membership, such Membership being available prior to or on the day of the event. Day Members aged 16 and over will be charged £10 extra for all events. There is no charge for under 16’s.
-
-### 2.5 All competitors wishing to enter a race:
+### 2.4 All competitors wishing to enter a race:
 on the day of the event must present themselves to Race Control with the correct and fully completed Entry Form, at least 45 minutes before the start. All pre-entered riders must be signed-on by 30 minutes before the start, after which time Reserves may sign on and be allocated to fill any vacancies, up to the maximum permitted number of competitors.
 
-### 2.6 Cycles used for road or circuit racing:
+### 2.5 Cycles used for road or circuit racing:
 shall be fitted with a freewheel and two independent brakes in good working order and, with the exception of races for U8, U10, U12 and U14 categories, only the traditional type of ‘drop’ handlebars may be used. Fixed extensions, such as tri bars, are not permitted in group-start events. It is the responsibility of the competitor and/or the parent or guardian in the case of under 18s, to ensure that for every race held under these regulations his/her cycle is in a safe condition.
 
-### 2.7 Race clothing:
+### 2.6 Race clothing:
 must be that in current use in International Cycle Racing. Trade designs are permitted, but offensive slogans or badges are strictly forbidden. The organiser’s decision is final.
 
-### 2.8 Members should produce:
-their Membership /Licence Card at Race Control. For Members who have pre entered on-line, photo ID Is acceptable. Organiserswill refuse entry to the eventwhere a current Licence or acceptable photo IDis not produced. All Full members who enter “on the day” must present a current TLI Cycling Licence. If the event is not on public roads, the organiser may accept the completion of a Day Membership form, and payment of a Day Membership fee of £10.
+### 2.7 Members should produce:
+their Membership /Licence Card at Race Control. For Members who have pre entered on-line, photo ID Is acceptable. Organiserswill refuse entry to the eventwhere a current Licence or acceptable photo IDis not produced. All Full members who enter “on the day” must present a current TLI Cycling Licence.
 
-### 2.9 Approved helmets:
+### 2.8 Approved helmets:
 are compulsory in all TLI Cycling events.
 
-### 2.10 Any competitor proved
+### 2.9 Any competitor proved
 to have taken part in any event whilst under the influence of a recreational drug or performance enhancing substance currently on the “proscribed list” of the International Olympic Committee, WADA or UKAD, shall be disqualified and subject to TLI Cycling disciplinary procedures. Exception will only be made for medication prescribed by a registered Doctor and used as prescribed for medical reasons.
 
-### 2.11 The onus lies:
+### 2.10 The onus lies:
 with the competitor to observe the Highway Code and to conform to any laws, current and applicable, in whichever European country the event is taking place.
 
-### 2.12 Riding with both hands off the bars:
+### 2.11 Riding with both hands off the bars:
 or adopting an unsafe aero riding position, such as sitting on the toptube, can result in disqualification from a race.
 
-### 2.13 In events with multiple races:
+### 2.12 In events with multiple races:
 for different age groups, when a slower race is caught and passed by a faster race, the slower race shall allow the faster race to establish it self separately in front of the slower race.It is not permitted for riders from the slower race to gain advantage by joining the faster moving race. This applies equally to breaks and lone riders.If a break from a faster race catches groups of riders from a slower race, the caught riders may not join in or contribute in any way to the break or do anything else that affects the course of that race.
 
-### 2.14 Disciplinary action:
+### 2.13 Disciplinary action:
 will be taken against any member who is found to be interfering with or participating in a race without having officially entered or signed on for that race.
 
-### 2.15 Procedure for cases of Unacceptable Riding or Behaviour by Members:
+### 2.14 Procedure for cases of Unacceptable Riding or Behaviour by Members:
 any member who, in the opinion of a National Council Disciplinary Panel, acts in a way that is contrary to the ethos of TLI Cycling, is likely to be suspended or permanently disqualified from membership. 
 ### Stage One – 
 Any complaint of unacceptable behaviour or dangerous riding made by other riders, race helpers or members of the public should be directed to the Race Organiser. The organiser will gather views and evidence from as many members and helpers present as possible, including the subject of the complaint. If the complaint seems to be well founded, the organiser will warn the subject of the complaint that the incident will be investigated and action may be taken. If the organiser considers it a minor incident, they may take immediate action, such as disqualification from the race, or a warning, or take the complaint no further. 
@@ -256,46 +250,43 @@ The Organiser must arrange for qualified first aid support to be in attendance. 
 
 Covered changing accommodation with toilet facilities should be provided where at all possible.
 
-### 3.13 First Aid
+### 3.14 First Aid
 The Organiser must arrange for qualified first aid support to be in attendance. Preferably First Aiders should travel in a following vehicle at road race type events.
 
-### 3.14 Organisers Should
+### 3.15 Organisers Should
 Organisers should budget for and be prepared to provide travelling expenses to all Race Officials
 
-### 3.15 Organisers discretion
-At the Organisers discretion an extra charge of up to double the pre-race fee may be made for Day Members and Entry on the Line.
-
 ### 3.16 Organiser should forward
-Within seven days of any event the Organiser should forward the Event Return Form, originals of the Standard Registration Sheets, any Day Member Entry Forms and any Day Member fees to the Region Representative / Event Coordinator, retaining copies for the record. The Organiser and the Region Representative / Event Coordinator will keep all copies for one year. In the event of any accident/incident at an event, all forms, documents, etc. must be retained until any possible insurance claims have been resolved
+Within seven days of any event the Organiser should forward the Event Return Form, originals of the Standard Registration Sheets, retaining copies for the record. The Organiser and the Region Representative / Event Coordinator will keep all copies for one year. In the event of any accident/incident at an event, all forms, documents, etc. must be retained until any possible insurance claims have been resolved
 
-### 3.17 Incidents / Accidents
+### 3.16 Incidents / Accidents
 Incidents / Accidents that may result in a claim against the TLI Cycling Insurance Cover should be notified immediately to the National Secretary, using the form in the Promoters Pack.
 
-### 3.18 Incidents / Accidents
+### 3.17 Incidents / Accidents
 Organisers should enter the Event Results on the TLI Cycling website and recognise “age-related” categories on the Start Sheet, Result Sheet and within the Prize List. (Where entry numbers dictate, some categories may be amalgamated for Prize Allocation purposes). These results maybe forwarded to the national cycling press. Failure to comply with the requirements in **3.16** and **3.17** could result in future event support from TLI Cycling being withheld or withdrawn.
 
-### 3.19 Promotion debts
+### 3.18 Promotion debts
 TLI Cycling will not be held responsible for promotional debts incurred by any Organiser. However requests for financial assistance prior to an event will be considered.
 
-### 3.20 Refusal of entry
+### 3.19 Refusal of entry
 The Organiser may refuse any entry, but in the case of complaint may be required to give an adequate reason for such action to the National Council. A refusal of an entry must be advised immediately to the rider concerned.
 
-### 3.21 Risk Assessments
+### 3.20 Risk Assessments
 Course Risk Assessments are a ‘Requirement of TLI Cycling’ and completion of the relevant forms contained in the Promoters Pack and/or downloadable from the TLI Cycling website, is a must. A copy of the Risk Assessment must be displayed at the Race HQ for the duration of the event.
 
-### 3.22 Organisers of 'Off Road' and 'Circuit' events
+### 3.21 Organisers of 'Off Road' and 'Circuit' events
 Organisers of ‘Off Road’ and ‘Circuit’ events on privately owned land must have permission to use the area, preferably in writing, before promoting any events.
 
-### 3.23 TLI Cycling Organisers
+### 3.22 TLI Cycling Organisers
 TLI Cycling Organisers have full responsibility for their events and are given flexibility in their style of promotion. However, anyone not abiding by our Rules and Regulations, and the Law of the Land as it applies to “Cycle Racing on the Highway” will risk voiding their Event Insurance. This could lead to organisers being personally liable for any consequences. An Organiser who wilfully ignores these Rules and Regulations will have any further request to promote under TLI Cycling rules refused.
 
-### 3.24 Fixing Dates
+### 3.23 Fixing Dates
 If there is a conflict in fixing dates for the forthcoming season, any event which has been satisfactorily promoted in the previous year shall be given priority for the corresponding date in the forthcoming season.
 
-### 3.25 Borrowing equipment
+### 3.24 Borrowing equipment
 Where an individual, club or organisation borrows equipment belonging to TLI Cycling, it shall be returned in the same condition as when it was taken, excepting reasonable wear and tear. Any deterioration or loss beyond such limits shall be made good at the expense of the borrower.
 
-### 3.26 Serious Accidents Procedure:
+### 3.25 Serious Accidents Procedure:
 Serious Accidents Procedure: If there is an Accident / Incident during any TLI Cycling event, the race officials at the scene will assess the seriousness of the situation and, if necessary, take action to halt the event.
 
 In making the decision the race officials will take into consideration the following: –

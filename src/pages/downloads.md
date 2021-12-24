@@ -17,20 +17,18 @@ articleLayout: textonly
 
 ## Event Promotion Documents
 
-* [Event Application Form PDF](/u/TLICycling_Event-Application-Form-2021.pdf){download}
-* [Event Promoters Pack 2021 PDF](/u/TLICycling_Event-Promoters-Pack-2021_V1.pdf){download}
-* [Event Risk Assessment 2021 PDF](/u/TLICycling_Risk-Assessment-2021.pdf){download}
+* [Event Application Form PDF](/u/TLICycling_Event-Application-Form.pdf){download}
+* [Event Promoters Pack 2022 PDF](/u/TLICycling_Event-Promoters-Pack-2022.pdf){download}
+* [Event Risk Assessment PDF](/u/TLICycling_Risk-Assessment.pdf){download}
 * [Rider-HQ list your Event PDF](/u/TLICycling_Rider-HQ-list-a-Event.pdf){download}
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
-* [Time Trial Promotion & Coronavirus 2021 PDF](/u/TLICycling_COVID-TimeTrial-Promotion-Event-Guidance-2021.pdf){download}
-* [Police Notification 2021 PDF](/u/TLICycling_Police-Notification-2021.pdf){download}
+* [Police Notification PDF](/u/TLICycling_Police-Notification-2021.pdf){download}
 * [2021 Insurance Cover Note PDF](/u/TLICycling_2021-TWIMC-Letter-TLI-Cycling.pdf){download}
-* [Event Return Form PDF](/u/TLICycling_EventReturnForm-Download-2021.pdf){download}
+* [Event Return Form PDF](/u/TLICycling_Event-Retuns-Form.pdf){download}
 * [TLI Cycling Event Promoting Clubs](/organising-clubs-teams/)
 
 ## Other
 
-* [TLI Cycling Officials and Region Secretaries PDF](/u/TLICycling_Contact-Points-2021_V1.pdf){download}
 * [TLI Cycling, Intro, Event Rules & Regs PDF](/u/TLICycling_Event-Rules-Regs-2020.pdf){download}
 * [Cycle Racing on Highways Regulations PDF](/u/TLICycling_Cycle-Racing-on-Highways-Regulations.pdf){download}
 * [TLI Cycling Articles of Association PDF](/u/TLICycling_Articles-of-Association-2017.pdf){download}
