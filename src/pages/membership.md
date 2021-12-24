@@ -14,7 +14,6 @@ annualMembership:
 
 
     TLI Cycling is a voluntary organisation, run by its members for the benefit of our members and as such, as a member, you are expected to be involved in our day to day activities and may be required to at least occasionally help out with the organisation or marshalling of events.
-dayMembership:
 
 ageCategories:
   title: Age Categories
