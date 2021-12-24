@@ -28,7 +28,7 @@ membership:
   title: TLI Cycling Membership
   subtitle:
   body: >
-    Membership of TLI Cycling is available to everybody aged 6 years and over. The cost is £10 for those aged 6 - 16 years, £20 for those aged 16 ans over and £10 for Associcate membership (Non racing).
+    Membership of TLI Cycling is available to everybody aged 6 years and over. The cost is £10 for those aged 6 - 16 years, £20 for those aged 16 and over and £10 for Associcate membership (Non racing).
   button:
     link: /membership/
     text: TLI Cycling Membership
