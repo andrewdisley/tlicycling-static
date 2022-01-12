@@ -32,7 +32,7 @@
     "eleventy-plugin-pwa": "^1.0.8",
     "html-minifier": "^4.0.0",
     "luxon": "^1.26.0",
-    "markdown-it": "^12.0.4",
+    "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^7.1.0",
     "markdown-it-attrs": "^4.0.0",
     "uglify-es": "^3.3.9"
