@@ -17,27 +17,45 @@ articleLayout: textonly
 <div class="tile-grid">
 
   <div class="tile">
-    <h2 class="subtitle">Rob Blackburn</h2>
-    <p>Director</p>
-    <a href="mailto:robertblackburn@tlicycling.com">Email Rob</a>
+    <h2 class="subtitle">Graham Weigh</h2>
+    <p>Chairman</p>
+    <a href="mailto:grahamweigh@tlicycling.com">Email Graham</a>
+  </div>
+
+  <div class="tile">
+    <h2 class="subtitle">Geoff Rawlinson</h2>
+    <p>Managing Director</p>
+    <a href="mailto:geoffrawlinson@tlicycling.com">Email Geoff</a>
+  </div>
+
+  <div class="tile">
+    <h2 class="subtitle">Tim Ball</h2>
+    <p>Administrative Director of Racing</p>
+    <a href="mailto:timball@tlicycling.com">Email Tim</a>
+  </div>
+
+  <div class="tile">
+    <h2 class="subtitle">Ian Noons</h2>
+    <p>Administrative Director of Racing</p>
+    <a href="mailto:iannoons@tlicycling.com">Email Ian</a>
   </div>
 
   <div class="tile">
     <h2 class="subtitle">Mark Wood</h2>
-    <p>National Treasurer</p>
+    <p>Financial Director</p>
     <a href="mailto:markwood@tlicycling.com">Email Mark</a>
   </div>
 
   <div class="tile">
-    <h2 class="subtitle">Tom Towers</h2>
-    <p>Account Manager</p>
-    <a href="mailto:tomtowers@tlicycling.com">Email Tom</a>
+    <h2 class="subtitle">Geoff Saxon</h2>
+    <p>Insurance Administrative Director</p>
+    <a href="mailto:geoffsaxon@tlicycling.com">Email Geoff</a>
   </div>
 
   <div class="tile">
-    <h2 class="subtitle">Andrew Wright</h2>
-    <p>National Police Liaison</p>
-    <a href="mailto:andrewwright@tlicycling.com">Email Andrew</a>
+    <h2 class="subtitle">Mark Astles</h2>
+    <p>Assets and Equipment Director</p>
+    <a href="mailto:markastles@tlicycling.com">Email Mark</a>
   </div>
 
 </div>
