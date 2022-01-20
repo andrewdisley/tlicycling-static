@@ -37,7 +37,7 @@ articleLayout: textonly
   <div class="tile">
     <h2 class="subtitle">Ian Noons</h2>
     <p>Administrative Director of Racing</p>
-    <a href="mailto:iannoons@tlicycling.com">Email Tim</a>
+    <a href="mailto:iannoons@tlicycling.com">Email Ian</a>
   </div>
 
   <div class="tile">
@@ -55,7 +55,7 @@ articleLayout: textonly
   <div class="tile">
     <h2 class="subtitle">Mark Astles</h2>
     <p>Assets and Equipment Director</p>
-    <a href="mailto:markastles@tlicycling.com">Email Mark/a>
+    <a href="mailto:markastles@tlicycling.com">Email Mark</a>
   </div>
 
 </div>
