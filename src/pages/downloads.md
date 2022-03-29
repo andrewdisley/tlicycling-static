@@ -23,7 +23,7 @@ articleLayout: textonly
 * [Rider-HQ list your Event PDF](/u/TLICycling_Rider-HQ-list-a-Event.pdf){download}
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
 * [Police Notification PDF](/u/TLICycling_Police-Notification-2021.pdf){download}
-* [20225 Insurance Cover Note PDF](/u/TLICycling_2022-TWIMC-Letter-TLI-Cycling.pdf){download}
+* [2022 Insurance Cover Note PDF](/u/TLICycling_2022-TWIMC-Letter-TLI-Cycling.pdf){download}
 * [Event Return Form PDF](/u/TLICycling_Event-Retuns-Form.pdf){download}
 * [TLI Cycling Event Promoting Clubs](/organising-clubs-teams/)
 
