@@ -18,12 +18,14 @@ section: membership
     </div>
   </section>
 
+  {% if dayMembership.title or dayMembership.body %}
   <section class="bgc-blue tc-white promo">
     <div class="promo-body">
       {% if dayMembership.title %}<h2 class="title">{{ dayMembership.title }}</h2>{% endif %}
       {% markdownit %}{{ dayMembership.body | safe }}{% endmarkdownit %}
     </div>
   </section>
+  {% endif %}
 
   <section class="promo">
     <div class="promo-body">
