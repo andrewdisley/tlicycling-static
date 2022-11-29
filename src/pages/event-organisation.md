@@ -36,7 +36,7 @@ Event insurance is provided for Public and Products Liability (£10,000,000); Em
 <div class="btn-group">
   <div><a class="btn btn-red" href="https://www.riderhq.com/newevent?type=RACE_TLICYCLING">Add Your Event</a></div>
   <div>or download the</div>
-  <div><a class="btn btn-blue" download href="/u/TLICycling_Event-Promoters-Pack-2022.pdf">2022 Event Promoters Pack (PDF)</a></div>
+  <div><a class="btn btn-blue" download href="/u/TLICycling_Event-Promoters-Pack-2023.pdf">2022/2023 Event Promoters Pack (PDF)</a></div>
 </div>
 
 You can find more documents relevent to event organising on the [downloads](/downloads/) page.
