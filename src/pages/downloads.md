@@ -29,7 +29,6 @@ articleLayout: textonly
 
 ## Other
 
-* [TLI Cycling, Intro, Event Rules & Regs PDF](/u/TLICycling_Event-Rules-Regs-2020.pdf){download}
 * [Cycle Racing on Highways Regulations PDF](/u/TLICycling_Cycle-Racing-on-Highways-Regulations.pdf){download}
 * [TLI Cycling Articles of Association PDF](/u/TLICycling_Articles-of-Association-2017.pdf){download}
 * [TLI Cycling Facebook Group](https://www.facebook.com/groups/tlinwmids)
