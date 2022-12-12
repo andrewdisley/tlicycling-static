@@ -1,8 +1,8 @@
 ---
 title: TLI Cycling Chairman's Report
 date: 2022-12-12T13:32:31.282Z
-summary: The National Committee met at Cottons Hotel, Knutsford to fulfil its
-  legal obligations and discuss a general agenda for the 2023 season.*
+summary: "*The National Committee met at Cottons Hotel, Knutsford to fulfil its
+  legal obligations and discuss a general agenda for the 2023 season.*"
 thumbnail: /u/news-tlicycling-320x180.png
 tags:
   - news
