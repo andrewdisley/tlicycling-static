@@ -7,7 +7,7 @@ about:
   title: Age-Related Cycle Sport For All
   subtitle: Supporting Grassroots Cycle Racing for 35 Years
   body: >
-    TLI Cycling is a voluntary sports organisation, supporting cycling clubs in the UK, the Channel Islands and the Isle of Man, to organise competitive cycling events for all ages, entrants racing against others in their peer group. It is run on a not-for-profit basis entirely by unpaid volunteer members, any surplus being used to maintain, improve and develop TLI Cycling’s activities.
+    TLI Cycling is a voluntary sports organisation, supporting cycling clubs in the UK, the Channel Islands and the Isle of Man, to organise competitive cycling events for all ages, entrants racing against others in their peer group. It is run by unpaid volunteer members, any surplus being used to maintain, improve and develop TLI Cycling’s activities.
 
   button:
     link: /about/
