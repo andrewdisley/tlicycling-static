@@ -9,7 +9,7 @@ eleventyNavigation:
 annualMembership:
   title: Annual Membership
   body: >
-    Membership of TLI Cycling is available to everybody aged 6 years and over and costs £20 for those aged 16 and over, £10 for those aged under 16 years of age, £10 Associate membership (non racing members). Full membership is on an annual basis, with the year commencing on the 1st of January, and is mandatory if you wish to compete in events on the open road.
+    Membership of TLI Cycling is available to everybody aged 6 years and over and costs £25 for those aged 16 and over, £15 for those aged under 16 years of age, £5 Associate membership (non racing members). Full membership is on an annual basis, with the year commencing on the 1st of January, and is mandatory if you wish to compete in events on the open road.
     Benefits of annual membership for Junior and Senior members include public limited liability cover while out training and while involved in other TLI Cycling recognised activities such as club riding. It does not cover commuting and/or travelling between home and a place of work.
 
 
