@@ -47,9 +47,9 @@ articleLayout: textonly
   </div>
 
   <div class="tile">
-    <h2 class="subtitle">Geoff Saxon</h2>
-    <p>Insurance Administrative Director</p>
-    <a href="mailto:geoffsaxon@tlicycling.com">Email Geoff</a>
+    <h2 class="subtitle">Mark Astles</h2>
+    <p>Director</p>
+    <a href="mailto:markastles@tlicycling.com">Email Mark</a>
   </div>
 
   <div class="tile">
