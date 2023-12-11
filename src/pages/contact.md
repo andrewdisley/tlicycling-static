@@ -51,11 +51,6 @@ articleLayout: textonly
     <p>Director</p>
     <a href="mailto:markastles@tlicycling.com">Email Mark</a>
   </div>
-
-  <div class="tile">
-    <h2 class="subtitle">Mark Astles</h2>
-    <p>Director</p>
-    <a href="mailto:markastles@tlicycling.com">Email Mark</a>
   </div>
 
 </div>
