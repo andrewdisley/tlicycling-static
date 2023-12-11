@@ -27,7 +27,7 @@ We also welcomed the appointment of Michael Bell as PR and Media Officer. Those 
 Geoff Saxon, who ably administers all Insurance issues, and Mark Wood, our Financial Director, continue as directors, in those roles.\
 Geoff Rawlinson and I remain in office and will, as ever, be available to ALL the members to advise as and when required.
 
-So, in 2024; TLI Cycling exists only to facilitate racing for all ages, with no gender differentials. Full membership for 2024 will cost £25, this being to maintain our financial stability and to further assist race Organisers. Under 18 membership will be £15 and the cost for non-racing or Associate membership will be reduced to £5. Renewal of or new joining membership will start from today onwards for 2024 at the new rates. Such membership will give All members the continued benefit of the high level of Insurance coverage. details are available on the TLI Cycling website.
+So, in 2024 TLI Cycling exists only to facilitate racing for all ages, with no gender differentials. Full membership for 2024 will cost £25, this being to maintain our financial stability and to further assist race organisers. Under 18 membership will be £15 and the cost for non-racing or Associate membership will be reduced to £5. Renewal of or new joining membership will start from today onwards for 2024 at the new rates. Such membership will give All members the continued benefit of the high level of Insurance coverage. details are available on the TLI Cycling website.
 
 We have approved a new design for our various National Champions jerseys moving away from the old design which too closely mirrored a concept used by others.[](http://bikemarshals.org.uk)
 
@@ -40,10 +40,11 @@ The Executive is actively exploring the possibilities of more race promotions on
 It only remains for me as Chairman to thank every one of our Members for their participation in and administration of our races and the executives for their tireless support during\
 during 2023.
 
-Our progress has been remarkable and we will continue to chase every opportunity to assist in any way those members wishing to promote races.\
+Our progress has been remarkable and we will continue to chase every opportunity to assist in any way those members wishing to promote races.
+
 Thank you all and on behalf of “the Management” offer our sincerest wishes to all members for a Merry Christmas and a Happy New Year.
 
 Best regards\
 Graham Weigh\
 Chairman\
-TLI Cycling Ltd.
+TLI Cycling Ltd
