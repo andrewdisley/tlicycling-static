@@ -29,9 +29,9 @@ Geoff Rawlinson and I remain in office and will, as ever, be available to ALL th
 
 So, in 2024; TLI Cycling exists only to facilitate racing for all ages, with no gender differentials. Full membership for 2024 will cost £25, this being to maintain our financial stability and to further assist race Organisers. Under 18 membership will be £15 and the cost for non-racing or Associate membership will be reduced to £5. Renewal of or new joining membership will start from today onwards for 2024 at the new rates. Such membership will give All members the continued benefit of the high level of Insurance coverage. details are available on the TLI Cycling website.
 
-![](/u/406037613_2612841765544355_2185836761568972327_n.jpg)
-
 We have approved a new design for our various National Champions jerseys moving away from the old design which too closely mirrored a concept used by others.[](http://bikemarshals.org.uk)
+
+![](/u/tli-jersey.png)
 
 [](http://bikemarshals.org.uk)[Bikemarshals.org](http://Bikemarshals.org/?fbclid=IwAR1Fx4gEB4_4MRuF9Jx5U7P_GEVJkjDEItqqnNdAF3nC6W6c--5diU1K8qs) are continuing their support of our road races and will, in 2024, offer additional static marshals when requested. The executive will continue to support Organisers financially with these expenses where appropriate.
 
