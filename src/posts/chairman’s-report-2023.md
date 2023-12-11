@@ -5,7 +5,7 @@ summary: It’s that time of year again, the racing season has closed and it’s
   time for the Administrators to perform the final acts of the year. The TLI
   Cycling Executive held its Annual General Meeting at Cottons Hotel, Knutsford
   today.
-thumbnail: /u/406037613_2612841765544355_2185836761568972327_n.jpg
+thumbnail: /u/tli-jersey_thumb.jpg
 tags:
   - news
 ---
