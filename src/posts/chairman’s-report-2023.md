@@ -1,21 +1,11 @@
 ---
 title: Chairman’s Report 2023
 date: 2023-12-11T17:14:46.564Z
-summary: >-
-  It’s that time of year again, the racing season has closed and it’s time for
-  the Administrators to perform the final acts of the year. The TLI Cycling
-  Executive held its Annual General Meeting at Cottons Hotel, Knutsford today.
-  Company Secretary Mr. Nick Crook presided over the legal necessities and
-  obligations of the Company and accepted the resignation of Tim Ball from his
-  Directorship. The Board would like to take the opportunity to thank Tim for
-  his sterling work in helping stabilize the boat after the various traumas we
-  suffered due to the loss of our then Chairman and the reluctance of some of
-  the then executives to assist in the renaissance we sought to bring about. Ian
-  Noons will take on the full responsibility for both pre and post-race
-  administration. Thank you to Ian Noons for again stepping up.
-
-  The various Directors reports were heard, recorded, and accepted. TLI Cycling is progressively moving back to the pre-covid levels of membership and the race programme for 2024 is filling out. The meeting closed early and it was decided to delay the lunch break and press on with the National Executive meeting.
-thumbnail: /u/news-tlicycling-320x180.png
+summary: It’s that time of year again, the racing season has closed and it’s
+  time for the Administrators to perform the final acts of the year. The TLI
+  Cycling Executive held its Annual General Meeting at Cottons Hotel, Knutsford
+  today.
+thumbnail: /u/406037613_2612841765544355_2185836761568972327_n.jpg
 tags:
   - news
 ---
