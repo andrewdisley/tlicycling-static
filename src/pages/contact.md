@@ -41,15 +41,23 @@ articleLayout: textonly
   </div>
 
   <div class="tile">
-    <h2 class="subtitle">Mark Wood</h2>
-    <p>Financial Director</p>
-    <a href="mailto:markwood@tlicycling.com">Email Mark</a>
+    <h2 class="subtitle">Tim Ball</h2>
+    <p>Director</p>
+    <a href="mailto:timball359@gmail.com">Email Tim</a>
   </div>
 
   <div class="tile">
-    <h2 class="subtitle">Mark Astles</h2>
-    <p>Director</p>
-    <a href="mailto:markastles@tlicycling.com">Email Mark</a>
+    <h2 class="subtitle">Keith Jones</h2>
+    <p>Asset and Procurement</p>
+    <a href="mailto:keith.fignon@tlicycling.com">Email Keith</a>
+  </div>
+  </div>
+  
+
+  <div class="tile">
+    <h2 class="subtitle">Gordon Wallace</h2>
+    <p>Cyber Security</p>
+    <a href="mailto:theflyingscotsman_206@hotmail.com">Email Gordon</a>
   </div>
   </div>
 
