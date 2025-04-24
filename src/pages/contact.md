@@ -52,5 +52,13 @@ articleLayout: textonly
     <a href="mailto:keith.fignon@tlicycling.com">Email Keith</a>
   </div>
   </div>
+  
+
+  <div class="tile">
+    <h2 class="subtitle">Gordon Wallace</h2>
+    <p>Cyber Security</p>
+    <a href="mailto:theflyingscotsman_206@hotmail.com">Email Gordon</a>
+  </div>
+  </div>
 
 </div>
