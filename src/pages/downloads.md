@@ -18,13 +18,13 @@ articleLayout: textonly
 ## Event Promotion Documents
 
 * [Event Application Form PDF](/u/TLICycling_Event-Application-Form_V2.pdf){download}
-* [Event Promoters Pack 2025 PDF](/u/TLICycling_Event-Promoters-Pack-2025_V1.pdf){download}
+* [Event Promoters Pack 2025 PDF](/u/TLICycling_Event-Promoters-Pack-2025_V2.pdf){download}
 * [Event Risk Assessment PDF](/u/TLICycling_Risk-Assessment.pdf){download}
 * [Rider-HQ list your Event PDF](/u/TLICycling_Rider-HQ-list-a-Event.pdf){download}
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
 * [Police Notification PDF](/u/TLICycling_Police-Notification-2023_V1.pdf){download}
 * [2025 Insurance Cover Note PDF](/u/TLICycling_2025-TWIMC-Letter-TLI-Cycling.pdf){download}
-* [Event Return Form PDF](/u/TLICycling_Event-Returns-Form_2025.pdf){download}
+* [Event Return Form PDF](/u/TLICycling_Event-Returns-Form_2025_V2.pdf){download}
 * [TLI Cycling Event Promoting Clubs](/organising-clubs-teams/)
 
 ## Other
