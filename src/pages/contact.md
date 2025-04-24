@@ -53,7 +53,6 @@ articleLayout: textonly
   </div>
   </div>
   
-
   <div class="tile">
     <h2 class="subtitle">Gordon Wallace</h2>
     <p>Cyber Security</p>
