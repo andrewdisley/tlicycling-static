@@ -49,7 +49,7 @@ articleLayout: textonly
   <div class="tile">
     <h2 class="subtitle">Keith Jones</h2>
     <p>Asset and Procurement</p>
-    <a href="mailto:keith.fignon@tlicycling.com">Email Keithk</a>
+    <a href="mailto:keith.fignon@tlicycling.com">Email Keith</a>
   </div>
   </div>
 
