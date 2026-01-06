@@ -19,25 +19,25 @@ articleLayout: textonly
   <div class="tile">
     <h2 class="subtitle">Graham Weigh</h2>
     <p>Chairman</p>
-    <a href="mailto:grahamweigh@tlicycling.com">Email Graham</a>
+    <a href="mailto:grahamweigh@talktalk.net">Email Graham</a>
   </div>
 
   <div class="tile">
     <h2 class="subtitle">Geoff Rawlinson</h2>
     <p>Managing Director</p>
-    <a href="mailto:geoffrawlinson@tlicycling.com">Email Geoff</a>
+    <a href="mailto:geoffraw@icloud.com">Email Geoff</a>
   </div>
 
   <div class="tile">
     <h2 class="subtitle">Ian Noons</h2>
     <p>Administrative Director of Racing</p>
-    <a href="mailto:iannoons@tlicycling.com">Email Ian</a>
+    <a href="mailto:ianamanda93@hotmail.co.uk">Email Ian</a>
   </div>
 
   <div class="tile">
     <h2 class="subtitle">Geoff Saxon</h2>
     <p>Insurance Administrative Director</p>
-    <a href="mailto:geoffsaxon@tlicycling.com">Email Geoff</a>
+    <a href="mailto:geoff@bentleyhouse.co.uk">Email Geoff</a>
   </div>
 
   <div class="tile">
@@ -49,7 +49,7 @@ articleLayout: textonly
   <div class="tile">
     <h2 class="subtitle">Keith Jones</h2>
     <p>Asset and Procurement</p>
-    <a href="mailto:keith.fignon@tlicycling.com">Email Keith</a>
+    <a href="mailto:keith.fignon@gmail.com">Email Keith</a>
   </div>
   </div>
   
