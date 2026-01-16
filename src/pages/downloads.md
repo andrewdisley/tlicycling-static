@@ -12,19 +12,19 @@ articleLayout: textonly
 
 ## Event Entry Forms {.subtitle}
 
-* [Event Entry Form PDF](/u/TLICycling_Event-Entry-Form_V4.pdf){download}
-* [Event Entry Form PDF (Under 18’s)](/u/TLICycling_Under-18-Event-Entry-Form-includes-ParentGuardian-Declaration_V2.pdf){download} includes Parent:Guardian Declaration
+* [Event Entry Form PDF](/u/TLICycling_Event-Entry-Form_V5.pdf){download}
+* [Event Entry Form PDF (Under 18’s)](/u/TLICycling_Under-18-Event-Entry-Form-includes-ParentGuardian-Declaration_V3.pdf){download} includes Parent:Guardian Declaration
 
 ## Event Promotion Documents
 
-* [Event Application Form PDF](/u/TLICycling_Event-Application-Form_V2.pdf){download}
+* [Event Application Form PDF](/u/TLICycling_Event-Application-Form_V3.pdf){download}
 * [Event Promoters Pack 2026 PDF](/u/TLICycling_Event-Promoters-Pack-2026_V1.pdf){download}
 * [Event Risk Assessment PDF](/u/TLICycling_Risk-Assessment.pdf){download}
 * [Rider-HQ list your Event PDF](/u/TLICycling_Rider-HQ-list-a-Event.pdf){download}
 * [Standard Registration Sheet PDF](/u/TLICycling_Standard-Registration-Sheet.pdf){download}
 * [Police Notification PDF](/u/TLICycling_Police-Notification-2023_V1.pdf){download}
 * [2026 Insurance Cover Note PDF](/u/TLICycling_2026-TWIMC-Letter-TLI-Cycling.pdf){download}
-* [Event Return Form PDF](/u/TLICycling_Event-Returns-Form_2025_V2.pdf){download}
+* [Event Return Form PDF](/u/TLICycling_Event-Returns-Form_2026_V3.pdf){download}
 * [TLI Cycling Event Promoting Clubs](/organising-clubs-teams/)
 
 ## Other
